@@ -6,6 +6,20 @@ custom-ecommerce-refactoring Repository를 위한 crawling
 
 -   cheerio
 
+### 사용해볼 것
+
+**중요! web scraping을 하기 어려운 사이트들도 있다.**
+
+-   보안이 견고해서 scraping하는 사람이 접근하기 못하게 할 수도 있다.
+-   갑자기 HTML구조가 변경될 수도 있다. (유저가 hover하거나 클릭 등 어려가지 부분들도 포함)
+
+이러한 부분들을 쉽게 해결하기 위해 도움을 주는 도구들이 있다.
+
+-   Bright Data
+-   [puppeteer](https://www.npmjs.com/package/puppeteer)
+-   selenium
+-   playwright
+
 ---
 
 ## error
@@ -78,5 +92,3 @@ $(element)
 -   [Josh tried coding](https://www.youtube.com/watch?v=9zwyfrVv3hg)
 -   [TraversyMedia](https://www.youtube.com/watch?v=S67gyqnYHmI)
 -   [tabnine-cheerio, get image](https://www.tabnine.com/code/javascript/functions/cheerio/src)
-
-7:36초
