@@ -1,3 +1,8 @@
+/**
+ * * cheerio로 간단한 웹스크래핑을 해본다.
+ * * 스크래핑시 사이트에 따라 여러 장애들(접근불가한 것들)이 생길 수 있는데 puppeteer와 같은 툴로 해결할 수도 있다.
+ */
+
 import * as cheerio from "cheerio";
 
 async function getProductData() {
