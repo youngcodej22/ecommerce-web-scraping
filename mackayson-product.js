@@ -50,12 +50,12 @@ async function run() {
             image: e.querySelector(".item_photo_box img").src,
             labels: Array.from(
                 e.querySelectorAll(".item_info_cont .item_icon_box img"),
-                (imgEl) => imgEl.src
+                (imgEl) => [imgEl.src, imgEl.alt] // Create an array of [src, alt] pairs
             ),
         }))
     );
 
-    console.log("products: ", products);
+    // console.log("products: ", products);
 
     // * save data to JSON file
     fs.writeFile("./data/products.json", JSON.stringify(products), (err) => {

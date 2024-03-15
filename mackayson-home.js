@@ -36,6 +36,30 @@ async function run() {
     // );
 
     // * 방법 2 (Array.from()없이)
+    // const products = await page.$$eval("#container .item_cont", (elements) =>
+    //     elements.map((e) => ({
+    //         category: e.querySelector(
+    //             ".item_info_cont .item_tit_box .cate_name"
+    //         ).innerText,
+    //         name: e.querySelector(".item_info_cont .item_tit_box .item_name")
+    //             .innerText,
+    //         price: e.querySelector(
+    //             ".item_info_cont .item_money_box .item_price span"
+    //         ).innerText,
+    //         image: e.querySelector(".item_photo_box img").src,
+    //         labels: {
+    //             labelImage: Array.from(
+    //                 e.querySelectorAll(".item_info_cont .item_icon_box img"),
+    //                 (imgEl) => imgEl.src
+    //             ),
+    //             labelAlt: Array.from(
+    //                 e.querySelectorAll(".item_info_cont .item_icon_box img"),
+    //                 (imgEl) => imgEl.alt
+    //             ),
+    //         },
+    //     }))
+    // );
+
     const products = await page.$$eval("#container .item_cont", (elements) =>
         elements.map((e) => ({
             category: e.querySelector(
@@ -49,7 +73,7 @@ async function run() {
             image: e.querySelector(".item_photo_box img").src,
             labels: Array.from(
                 e.querySelectorAll(".item_info_cont .item_icon_box img"),
-                (imgEl) => imgEl.src
+                (imgEl) => [imgEl.src, imgEl.alt] // Create an array of [src, alt] pairs
             ),
         }))
     );
