@@ -5,9 +5,18 @@
         "price": "350,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005891/register_main_01.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -16,9 +25,18 @@
         "price": "290,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005890/register_main_096.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -27,9 +45,18 @@
         "price": "250,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005842/image/main/register_main_069.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -38,9 +65,18 @@
         "price": "650,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005885/register_main_07.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -49,9 +85,18 @@
         "price": "530,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005880/register_main_012.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -60,9 +105,18 @@
         "price": "430,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005878/register_main_012.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -71,9 +125,18 @@
         "price": "370,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005875/register_main_077.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -82,9 +145,18 @@
         "price": "450,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005840/image/main/register_main_06.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -93,9 +165,18 @@
         "price": "350,000 ",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005891/register_main_01.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -104,9 +185,18 @@
         "price": "350,000 ",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005892/register_main_010.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -115,9 +205,18 @@
         "price": "310,000 ",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003135/image/main/register_main_027.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -126,9 +225,18 @@
         "price": "290,000 ",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005889/register_main_028.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -137,9 +245,18 @@
         "price": "250,000 ",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005842/image/main/register_main_069.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -148,9 +265,18 @@
         "price": "430,000 ",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005853/image/main/register_main_028.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -159,9 +285,18 @@
         "price": "370,000 ",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005886/register_main_057.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -170,9 +305,18 @@
         "price": "450,000 ",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005887/register_main_039.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -181,9 +325,18 @@
         "price": "350,000 ",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005876/register_main_091.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -192,9 +345,18 @@
         "price": "290,000 ",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005847/image/main/register_main_099.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -203,9 +365,18 @@
         "price": "430,000 ",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005878/register_main_012.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -214,9 +385,18 @@
         "price": "250,000 ",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005844/image/main/register_main_031.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -225,9 +405,18 @@
         "price": "650,000 ",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005884/register_main_023.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -236,9 +425,18 @@
         "price": "590,000 ",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005883/register_main_021.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -247,9 +445,18 @@
         "price": "430,000 ",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005851/image/main/register_main_066.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -258,9 +465,18 @@
         "price": "450,000 ",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005870/register_main_011.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -269,9 +485,18 @@
         "price": "550,000 ",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005858/image/main/register_main_050.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/6.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/6.png",
+                "공용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -280,9 +505,18 @@
         "price": "250,000 ",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005860/image/main/register_main_038.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/6.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/6.png",
+                "공용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -291,9 +525,18 @@
         "price": "190,000 ",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005857/image/main/register_main_079.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -302,20 +545,38 @@
         "price": "99,000 ",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005868/image/main/register_main_097.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/6.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/6.png",
+                "공용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
         "category": "WOMEN",
-        "name": "[사전예약] 메시 씨슬 프릴 니삭스 화이트 MDW2OC610 WHI",
+        "name": "메시 씨슬 프릴 니삭스 화이트 MDW2OC610 WHI",
         "price": "69,000 ",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005866/image/main/register_main_057.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -324,9 +585,18 @@
         "price": "49,000 ",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005865/image/main/register_main_078.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -335,9 +605,18 @@
         "price": "390,000 ",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005864/image/main/register_main_014.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -346,9 +625,18 @@
         "price": "130,000 ",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005861/image/main/register_main_073.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -357,9 +645,18 @@
         "price": "650,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005885/register_main_07.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -368,9 +665,18 @@
         "price": "250,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005843/image/main/register_main_027.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -379,9 +685,18 @@
         "price": "430,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005851/image/main/register_main_066.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -390,9 +705,18 @@
         "price": "390,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003571/image/main/register_main_026.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -401,9 +725,18 @@
         "price": "390,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003167/image/main/register_main_056.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -412,9 +745,18 @@
         "price": "390,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005859/image/main/register_main_093.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/6.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/6.png",
+                "공용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -423,9 +765,18 @@
         "price": "510,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003574/image/main/register_main_051.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -434,9 +785,18 @@
         "price": "350,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005892/register_main_010.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -445,9 +805,18 @@
         "price": "450,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005887/register_main_039.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -456,9 +825,18 @@
         "price": "650,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005885/register_main_07.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -467,9 +845,18 @@
         "price": "250,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005843/image/main/register_main_027.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -478,9 +865,18 @@
         "price": "430,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005851/image/main/register_main_066.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -489,9 +885,18 @@
         "price": "390,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003571/image/main/register_main_026.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -500,9 +905,18 @@
         "price": "390,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003167/image/main/register_main_056.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -511,9 +925,18 @@
         "price": "390,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005859/image/main/register_main_093.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/6.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/6.png",
+                "공용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -522,9 +945,18 @@
         "price": "510,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003574/image/main/register_main_051.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -533,9 +965,18 @@
         "price": "350,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005892/register_main_010.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -544,9 +985,18 @@
         "price": "450,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005887/register_main_039.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -555,9 +1005,18 @@
         "price": "650,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005885/register_main_07.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -566,9 +1025,18 @@
         "price": "250,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005843/image/main/register_main_027.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     },
     {
@@ -577,9 +1045,18 @@
         "price": "430,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005851/image/main/register_main_066.jpg",
         "labels": [
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-            "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png"
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
         ]
     }
 ]
