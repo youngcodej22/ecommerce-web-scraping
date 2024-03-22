@@ -88,6 +88,43 @@ $(element)
 -   해결
     -   결국 `labels.push(...labelSrc);` Spread 연산자로 해결하였다.
 
+<br />
+
+## 특이사항
+
+-   문제
+    -   기존에 사이트에 있는 데이터에는 `"acc"`라는 데이터가 없다.
+    -   그렇지만 현재 만들고 있는 쇼핑몰 프로젝트에서 스크래핑한 데이터 + `"acc": true`와 같은 데이터를 합치고 싶었다.
+-   해결
+    -   **기존에 스크래핑한 데이터 중 `"name"` 데이터에서 acc(악세서리)에 해당하는 키워드를 파악. (햇, 볼캡, 등...)**
+    -   아래 코드 참고. `includes()`를 이용해서 데이터를 추가시켰다.
+
+```js
+// mackayson-home.js
+// ...위에는 puppeteer를 이용한 스크래핑한 기존 코드
+
+// todo: acc에 해당하는 아래 키워드에 해당하는 것만 true로 한다.
+// * acc 카테고리 키워드: 햇, 볼캡, 파우치, 보스턴백, 양말, 니삭스,
+for (const item of products) {
+    const name = item.name.toLowerCase();
+    if (
+        name.includes("햇") ||
+        name.includes("볼캡") ||
+        name.includes("파우치") ||
+        name.includes("보스턴백") ||
+        name.includes("양말") ||
+        name.includes("니삭스")
+    ) {
+        item.acc = true;
+    } else {
+        // Optional: Set a default value for other cases
+        item.acc = false;
+    }
+}
+```
+
+<br />
+
 ---
 
 ## 참고
