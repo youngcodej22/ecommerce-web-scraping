@@ -60,6 +60,8 @@ async function run() {
     //     }))
     // );
 
+    // todo: scraping에 없는 데이터 acc를 넣는다. (tabs에서 상품 구분을 위해)
+    // todo: 데이터를 스크래핑할 때 기존 사이트에서 가지고 있지 않는 acc 데이터 추가
     const products = await page.$$eval("#container .item_cont", (elements) =>
         elements.map((e) => ({
             category: e.querySelector(
@@ -77,6 +79,36 @@ async function run() {
             ),
         }))
     );
+
+    // const products = await page.$$eval("#container .item_cont", (elements) =>
+    //     elements.map((e) => {
+    //         console.log("e:", e);
+    //         return {
+    //             name: e.querySelector(
+    //                 ".item_info_cont .item_tit_box .item_name"
+    //             ).innerText,
+    //         };
+    //     })
+    // );
+
+    // todo: acc에 해당하는 아래 키워드에 해당하는 것만 true로 한다.
+    // * acc 카테고리 키워드: 햇, 볼캡, 파우치, 보스턴백, 양말, 니삭스,
+    for (const item of products) {
+        const name = item.name.toLowerCase();
+        if (
+            name.includes("햇") ||
+            name.includes("볼캡") ||
+            name.includes("파우치") ||
+            name.includes("보스턴백") ||
+            name.includes("양말") ||
+            name.includes("니삭스")
+        ) {
+            item.acc = true;
+        } else {
+            // Optional: Set a default value for other cases
+            item.acc = false;
+        }
+    }
 
     // console.log("products: ", products);
 
