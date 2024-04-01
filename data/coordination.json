@@ -1,0 +1,632 @@
+[
+    {
+        "category": "티셔츠",
+        "name": "솔리드 카라 티셔츠 블루 MDW1TL603 LBL",
+        "price": "290,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005847/image/main/register_main_099.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false
+    },
+    {
+        "category": "NEW",
+        "name": "메탈리 씨슬 스웨터 베스트 화이트 MDW1SV603 WHI",
+        "price": "470,000",
+        "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/12/1000005959/register_main_041.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false
+    },
+    {
+        "category": "스커트",
+        "name": "반전 A라인 데님 스커트 네이비 MDW2PC611 NVY",
+        "price": "370,000",
+        "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005875/register_main_077.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false
+    },
+    {
+        "category": "MEN",
+        "name": "씨슬 프린트 폴로 에리 티셔츠 화이트 MDM1TL602 WHI",
+        "price": "290,000",
+        "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005888/register_main_022.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false
+    },
+    {
+        "category": "베스트",
+        "name": "세미오버 스웨터 베스트 베이지 MDM1SV601 LBE",
+        "price": "450,000",
+        "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005901/register_main_072.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false
+    },
+    {
+        "category": "팬츠",
+        "name": "청바지 네이비 MDM2PT653 NVY",
+        "price": "450,000",
+        "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005887/register_main_039.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false
+    },
+    {
+        "category": "NEW",
+        "name": "쿨울 패브릭 베이스레이어 블루 MDW2TL601 GBL",
+        "price": "250,000",
+        "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005912/register_main_019.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false
+    },
+    {
+        "category": "NEW",
+        "name": "프릴 레인 케이프 베이지 MDW1AZ604 BEG",
+        "price": "290,000",
+        "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005897/register_main_025.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false
+    },
+    {
+        "category": "NEW",
+        "name": "버튼 H라인 스커트 베이지 MDW1PC613 BEG",
+        "price": "470,000",
+        "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005920/register_main_087.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false
+    },
+    {
+        "category": "스웨터",
+        "name": "반집업 풀오버 카키 MDM1TL601 KHA",
+        "price": "350,000",
+        "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005891/register_main_01.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false
+    },
+    {
+        "category": "티셔츠",
+        "name": "터들넥 베이스레이어 티셔츠 화이트 MDM1TL603 WHI",
+        "price": "250,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005841/image/main/register_main_075.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false
+    },
+    {
+        "category": "팬츠",
+        "name": "밑단 니트 디테일 스탠다드핏 팬츠 베이지 MDM1PT603 LBE",
+        "price": "430,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005853/image/main/register_main_028.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false
+    },
+    {
+        "category": "티셔츠",
+        "name": "솔리드 카라 티셔츠 블루 MDW1TL603 LBL",
+        "price": "290,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005847/image/main/register_main_099.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false
+    },
+    {
+        "category": "WOMEN",
+        "name": "씨슬 크롭 베스트 네이비 MDW1JV601 NVY",
+        "price": "530,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005881/image/main/1000005881_main_096.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false
+    },
+    {
+        "category": "스커트",
+        "name": "개더 플리츠 스커트 베이지 MDW1PC615 LBE",
+        "price": "430,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005851/image/main/register_main_066.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false
+    },
+    {
+        "category": "WOMEN",
+        "name": "시그니처 씨슬 라운드 티셔츠 화이트 MDW1TL606 OWH",
+        "price": "330,000",
+        "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005911/register_main_083.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false
+    },
+    {
+        "category": "WOMEN",
+        "name": "씨슬 스탠다드 트레이닝 숏팬츠 그린 MDW1PS614 GRN",
+        "price": "370,000",
+        "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005874/register_main_060.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false
+    },
+    {
+        "category": "NEW",
+        "name": "공용 파스텔 민트 벨크로 골프화 MCU3SH601 CAM",
+        "price": "390,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003634/image/main/register_main_07.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/6.png",
+                "공용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false
+    },
+    {
+        "category": "점퍼",
+        "name": "크롭 자켓 베이지 MDW1JP601 LBE",
+        "price": "650,000",
+        "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005885/register_main_07.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false
+    },
+    {
+        "category": "티셔츠",
+        "name": "터들넥 베이스레이어 티셔츠 화이트 MDW1TL604 WHI",
+        "price": "250,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005843/image/main/register_main_027.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false
+    },
+    {
+        "category": "스커트",
+        "name": "개더 플리츠 스커트 네이비 MDW1PC615 NVY",
+        "price": "430,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005850/image/main/register_main_017.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false
+    },
+    {
+        "category": "남성",
+        "name": "리버시블 버킷햇 베이지 MDM1CA604 BEG",
+        "price": "170,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005948/image/main/1000005948_main_034.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true
+    },
+    {
+        "category": "MEN",
+        "name": "세미오버 스웨터 베스트 블루 MDM1SV601 LBL",
+        "price": "450,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005902/image/main/1000005902_main_030.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false
+    },
+    {
+        "category": "쇼츠",
+        "name": "데님 반바지 네이비 MDM2PT654 NVY",
+        "price": "370,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005886/image/main/1000005886_main_057.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false
+    },
+    {
+        "category": "NEW",
+        "name": "버튼 롱기장 베스트 베이지 MDW1JO612 BEG",
+        "price": "750,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005960/image/main/1000005960_main_026.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false
+    },
+    {
+        "category": "스웨터",
+        "name": "블록 컬러 포인트 홀가먼트 스웨터 베이지 MDW1SL601 LBE",
+        "price": "430,000",
+        "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005879/register_main_036.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false
+    },
+    {
+        "category": "NEW",
+        "name": "버튼 H라인 스커트 화이트 MDW1PC613 WHI",
+        "price": "470,000",
+        "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005921/register_main_098.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false
+    },
+    {
+        "category": "NEW",
+        "name": "와이드핏 볼캡 블랙 MDM1CA603 BLK",
+        "price": "130,000",
+        "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005942/register_main_07.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true
+    },
+    {
+        "category": "MEN",
+        "name": "씨슬 블루종 자켓 베이지 MDM1JP601 SBE",
+        "price": "670,000",
+        "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005906/register_main_012.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false
+    },
+    {
+        "category": "팬츠",
+        "name": "밑단 니트 디테일 스탠다드핏 팬츠 베이지 MDM1PT603 LBE",
+        "price": "430,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005853/image/main/register_main_028.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false
+    }
+]
