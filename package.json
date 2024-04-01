@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "test for web scraping using puppeteer and cheerio",
     "scripts": {
-        "dev": "node mackayson-coordination.js"
+        "dev": "node mackayson-product-new.js"
     },
     "dependencies": {
         "cheerio": "^1.0.0-rc.12",
