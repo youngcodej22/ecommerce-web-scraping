@@ -14,8 +14,48 @@ async function run() {
         "https://www.mckayson.com/goods/goods_list.php?page=6&cateCd=001",
         "https://www.mckayson.com/goods/goods_list.php?page=7&cateCd=001",
         "https://www.mckayson.com/goods/goods_list.php?page=8&cateCd=001",
-        // Add more URLs as needed
     ];
+
+    // * insert value for "date"
+    function generateRandomDate(start, end) {
+        return new Date(
+            start.getTime() + Math.random() * (end.getTime() - start.getTime())
+        )
+            .toISOString()
+            .slice(0, 10); // Format: YYYY-MM-DD
+    }
+    const startDate = new Date("2022-01-01");
+    const endDate = new Date("2024-12-31");
+
+    // * insert value for "like"
+    function generateRandomLikeCount(minLikes, maxLikes) {
+        // Ensure minLikes is smaller than maxLikes
+        if (minLikes > maxLikes) {
+            [minLikes, maxLikes] = [maxLikes, minLikes]; // Swap values
+        }
+
+        const likeRange = maxLikes - minLikes;
+        const randomLikes =
+            Math.floor(Math.random() * (likeRange + 1)) + minLikes;
+        return randomLikes;
+    }
+    const minLikes = 50;
+    const maxLikes = 2000;
+
+    // * insert value for "sale"
+    function generateRandomSaleCount(minSales, maxSales) {
+        // Ensure minSales is smaller than maxSales
+        if (minSales > maxSales) {
+            [minSales, maxSales] = [maxSales, minSales]; // Swap values
+        }
+
+        const saleRange = maxSales - minSales;
+        const randomSales =
+            Math.floor(Math.random() * (saleRange + 1)) + minSales;
+        return randomSales;
+    }
+    const minSales = 10;
+    const maxSales = 1000;
 
     let allProducts = [];
     for (const url of pagesToScrape) {
@@ -146,11 +186,26 @@ async function run() {
             }
         }
 
+        // * 추가: date
+        for (const item of products) {
+            item.date = generateRandomDate(startDate, endDate);
+        }
+
+        // * 추가 like
+        for (const item of products) {
+            item.like = generateRandomLikeCount(minLikes, maxLikes);
+        }
+
+        // * 추가 sale (sellcnt)
+        for (const item of products) {
+            item.sale = generateRandomSaleCount(minSales, maxSales);
+        }
+
         // Combine the products from this page with the overall list
         allProducts = allProducts.concat(products);
     }
 
-    console.log("All products: ", allProducts);
+    // console.log("All products: ", allProducts);
 
     // * save data to JSON file
     fs.writeFile(

@@ -1,6 +1,431 @@
 [
     {
         "category": "NEW",
+        "name": "가죽와펜 포인트 카라 티셔츠 베이지 MDM2TS644 ECR",
+        "price": "310,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006003/image/main/1000006003_main_080.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false,
+        "subCategory": "티셔츠",
+        "date": "2024-10-25",
+        "like": 1658,
+        "sale": 292
+    },
+    {
+        "category": "NEW",
+        "name": "가죽와펜 포인트 카라 티셔츠 네이비 MDM2TS644 NVY",
+        "price": "310,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006004/image/main/1000006004_main_035.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false,
+        "subCategory": "티셔츠",
+        "date": "2023-10-31",
+        "like": 1417,
+        "sale": 291
+    },
+    {
+        "category": "NEW",
+        "name": "가죽와펜 포인트 카라 티셔츠 오렌지 MDM2TS644 ORG",
+        "price": "310,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006005/image/main/1000006005_main_089.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false,
+        "subCategory": "티셔츠",
+        "date": "2022-06-18",
+        "like": 518,
+        "sale": 94
+    },
+    {
+        "category": "NEW",
+        "name": "시어서커 아노락 자켓 핑크 MDW2JP653 PIK",
+        "price": "390,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006006/image/main/1000006006_main_06.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false,
+        "subCategory": "아우터",
+        "date": "2024-03-20",
+        "like": 1994,
+        "sale": 285
+    },
+    {
+        "category": "NEW",
+        "name": "시어서커 아노락 자켓 화이트 MDW2JP653 WHI",
+        "price": "390,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006007/image/main/1000006007_main_049.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false,
+        "subCategory": "아우터",
+        "date": "2024-04-21",
+        "like": 1737,
+        "sale": 710
+    },
+    {
+        "category": "NEW",
+        "name": "등판 타공 카라 티셔츠 네이비 MDM2TS643 NVY",
+        "price": "290,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006002/image/main/1000006002_main_036.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false,
+        "subCategory": "티셔츠",
+        "date": "2022-09-28",
+        "like": 1251,
+        "sale": 103
+    },
+    {
+        "category": "NEW",
+        "name": "등판 타공 카라 티셔츠 그레이 MDM2TS643 MGR",
+        "price": "290,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006001/image/main/1000006001_main_041.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false,
+        "subCategory": "티셔츠",
+        "date": "2024-06-09",
+        "like": 1554,
+        "sale": 327
+    },
+    {
+        "category": "NEW",
+        "name": "스몰피스 스웨터 베스트 블루 MDW2SV604 LBL",
+        "price": "450,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006000/image/main/1000006000_main_061.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false,
+        "subCategory": "스웨터",
+        "date": "2022-04-15",
+        "like": 1020,
+        "sale": 988
+    },
+    {
+        "category": "NEW",
+        "name": "스몰피스 스웨터 베스트 베이지 MDW2SV604 ECR",
+        "price": "450,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005999/image/main/1000005999_main_091.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false,
+        "subCategory": "스웨터",
+        "date": "2023-09-14",
+        "like": 1103,
+        "sale": 455
+    },
+    {
+        "category": "NEW",
+        "name": "스카시 스웨터 가디건 블루 MDW2SC601 LBL",
+        "price": "530,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005998/image/main/1000005998_main_046.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false,
+        "subCategory": "스웨터",
+        "date": "2022-03-28",
+        "like": 1426,
+        "sale": 763
+    },
+    {
+        "category": "NEW",
+        "name": "스카시 스웨터 가디건 베이지 MDW2SC601 ECR",
+        "price": "530,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005997/image/main/1000005997_main_082.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false,
+        "subCategory": "스웨터",
+        "date": "2024-11-21",
+        "like": 696,
+        "sale": 937
+    },
+    {
+        "category": "NEW",
+        "name": "메탈리 씨슬 라운드 스웨터 화이트 MDW1SR605 WHI",
+        "price": "530,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005996/image/main/1000005996_main_017.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false,
+        "subCategory": "스웨터",
+        "date": "2023-06-26",
+        "like": 1215,
+        "sale": 641
+    },
+    {
+        "category": "NEW",
+        "name": "메탈리 씨슬 라운드 스웨터 네이비 MDW1SR605 NVY",
+        "price": "530,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005995/image/main/1000005995_main_032.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false,
+        "subCategory": "스웨터",
+        "date": "2024-04-18",
+        "like": 1013,
+        "sale": 581
+    },
+    {
+        "category": "NEW",
+        "name": "스카시 멕케이 카라 스웨터 네이비 MDM2SS601 NVY",
+        "price": "470,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005994/image/main/1000005994_main_098.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false,
+        "subCategory": "스웨터",
+        "date": "2022-11-25",
+        "like": 1839,
+        "sale": 986
+    },
+    {
+        "category": "NEW",
+        "name": "스카시 멕케이 카라 스웨터 베이지 MDM2SS601 ECR",
+        "price": "470,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005993/image/main/1000005993_main_028.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false,
+        "subCategory": "스웨터",
+        "date": "2022-03-25",
+        "like": 263,
+        "sale": 320
+    },
+    {
+        "category": "NEW",
+        "name": "레인 팬츠 블랙 MDM1RW631 BLK",
+        "price": "490,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005992/image/main/1000005992_main_027.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false,
+        "subCategory": "팬츠",
+        "date": "2024-11-15",
+        "like": 1172,
+        "sale": 526
+    },
+    {
+        "category": "NEW",
+        "name": "디테쳐블 레인 자켓 블랙 MDM1RW601 BLK",
+        "price": "790,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005991/image/main/1000005991_main_013.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": false,
+        "subCategory": "아우터",
+        "date": "2024-04-09",
+        "like": 277,
+        "sale": 109
+    },
+    {
+        "category": "NEW",
         "name": "시슬 세미오버 디테일링 카라 티셔츠 네이비 MDW2TS625 NVY",
         "price": "310,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/12/1000005970/register_main_078.jpg",
@@ -19,7 +444,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-05-17",
+        "like": 1166,
+        "sale": 201
     },
     {
         "category": "NEW",
@@ -41,7 +469,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2022-11-04",
+        "like": 1017,
+        "sale": 93
     },
     {
         "category": "NEW",
@@ -63,7 +494,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-06-19",
+        "like": 271,
+        "sale": 228
     },
     {
         "category": "NEW",
@@ -85,7 +519,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-05-31",
+        "like": 1891,
+        "sale": 526
     },
     {
         "category": "NEW",
@@ -107,7 +544,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-09-08",
+        "like": 1784,
+        "sale": 576
     },
     {
         "category": "NEW",
@@ -129,7 +569,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-04-14",
+        "like": 592,
+        "sale": 822
     },
     {
         "category": "NEW",
@@ -151,7 +594,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-11-07",
+        "like": 360,
+        "sale": 75
     },
     {
         "category": "NEW",
@@ -173,7 +619,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2024-02-24",
+        "like": 1379,
+        "sale": 761
     },
     {
         "category": "NEW",
@@ -195,7 +644,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2023-11-03",
+        "like": 712,
+        "sale": 981
     },
     {
         "category": "NEW",
@@ -217,7 +669,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2024-09-23",
+        "like": 274,
+        "sale": 236
     },
     {
         "category": "NEW",
@@ -239,13 +694,16 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2023-09-10",
+        "like": 1341,
+        "sale": 101
     },
     {
         "category": "NEW",
         "name": "씨슬 블루종 자켓 베이지 MDM1JP601 SBE",
-        "price": "670,000",
-        "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005906/register_main_012.jpg",
+        "price": "650,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005906/image/magnify/1000005906_magnify_018.jpg",
         "labels": [
             [
                 "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
@@ -261,7 +719,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2022-12-14",
+        "like": 1263,
+        "sale": 724
     },
     {
         "category": "NEW",
@@ -283,7 +744,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2022-08-30",
+        "like": 1066,
+        "sale": 149
     },
     {
         "category": "NEW",
@@ -305,7 +769,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-12-22",
+        "like": 1109,
+        "sale": 369
     },
     {
         "category": "NEW",
@@ -327,7 +794,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2024-12-03",
+        "like": 1095,
+        "sale": 475
     },
     {
         "category": "NEW",
@@ -349,7 +819,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2024-06-24",
+        "like": 1718,
+        "sale": 506
     },
     {
         "category": "NEW",
@@ -371,7 +844,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-11-15",
+        "like": 1018,
+        "sale": 953
     },
     {
         "category": "NEW",
@@ -393,7 +869,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2022-01-16",
+        "like": 1697,
+        "sale": 777
     },
     {
         "category": "NEW",
@@ -415,7 +894,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2024-05-29",
+        "like": 1533,
+        "sale": 951
     },
     {
         "category": "NEW",
@@ -437,7 +919,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2022-11-26",
+        "like": 636,
+        "sale": 424
     },
     {
         "category": "NEW",
@@ -459,7 +944,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2024-04-20",
+        "like": 1895,
+        "sale": 225
     },
     {
         "category": "NEW",
@@ -481,7 +969,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2024-03-07",
+        "like": 262,
+        "sale": 707
     },
     {
         "category": "NEW",
@@ -503,7 +994,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2022-07-20",
+        "like": 324,
+        "sale": 559
     },
     {
         "category": "NEW",
@@ -525,7 +1019,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2023-04-08",
+        "like": 1011,
+        "sale": 983
     },
     {
         "category": "NEW",
@@ -546,7 +1043,10 @@
                 "신상품"
             ]
         ],
-        "acc": false
+        "acc": false,
+        "date": "2024-11-28",
+        "like": 535,
+        "sale": 981
     },
     {
         "category": "NEW",
@@ -567,7 +1067,10 @@
                 "신상품"
             ]
         ],
-        "acc": false
+        "acc": false,
+        "date": "2024-03-30",
+        "like": 220,
+        "sale": 690
     },
     {
         "category": "NEW",
@@ -589,7 +1092,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-07-10",
+        "like": 347,
+        "sale": 421
     },
     {
         "category": "NEW",
@@ -611,7 +1117,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-08-02",
+        "like": 596,
+        "sale": 242
     },
     {
         "category": "NEW",
@@ -633,7 +1142,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2024-12-12",
+        "like": 666,
+        "sale": 794
     },
     {
         "category": "NEW",
@@ -655,7 +1167,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2022-07-10",
+        "like": 717,
+        "sale": 992
     },
     {
         "category": "NEW",
@@ -677,7 +1192,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "숏팬츠"
+        "subCategory": "숏팬츠",
+        "date": "2023-02-03",
+        "like": 1606,
+        "sale": 155
     },
     {
         "category": "NEW",
@@ -699,7 +1217,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2022-07-14",
+        "like": 1055,
+        "sale": 358
     },
     {
         "category": "NEW",
@@ -721,7 +1242,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2023-10-26",
+        "like": 1217,
+        "sale": 769
     },
     {
         "category": "NEW",
@@ -743,7 +1267,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2022-02-17",
+        "like": 1002,
+        "sale": 214
     },
     {
         "category": "NEW",
@@ -765,7 +1292,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2023-02-02",
+        "like": 883,
+        "sale": 850
     },
     {
         "category": "NEW",
@@ -787,7 +1317,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "베스트"
+        "subCategory": "베스트",
+        "date": "2024-06-04",
+        "like": 914,
+        "sale": 523
     },
     {
         "category": "NEW",
@@ -809,7 +1342,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "베스트"
+        "subCategory": "베스트",
+        "date": "2022-08-09",
+        "like": 1775,
+        "sale": 76
     },
     {
         "category": "NEW",
@@ -831,7 +1367,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2023-09-23",
+        "like": 414,
+        "sale": 559
     },
     {
         "category": "NEW",
@@ -853,7 +1392,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2023-09-02",
+        "like": 1498,
+        "sale": 304
     },
     {
         "category": "NEW",
@@ -875,7 +1417,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2024-09-10",
+        "like": 1288,
+        "sale": 417
     },
     {
         "category": "NEW",
@@ -897,7 +1442,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2024-01-31",
+        "like": 941,
+        "sale": 953
     },
     {
         "category": "NEW",
@@ -919,7 +1467,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-10-07",
+        "like": 1289,
+        "sale": 532
     },
     {
         "category": "NEW",
@@ -941,7 +1492,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2022-10-05",
+        "like": 856,
+        "sale": 681
     },
     {
         "category": "NEW",
@@ -963,7 +1517,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2024-10-06",
+        "like": 1614,
+        "sale": 731
     },
     {
         "category": "NEW",
@@ -985,7 +1542,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2022-02-26",
+        "like": 1848,
+        "sale": 387
     },
     {
         "category": "NEW",
@@ -1007,7 +1567,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2024-08-22",
+        "like": 1594,
+        "sale": 1000
     },
     {
         "category": "NEW",
@@ -1029,7 +1592,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2024-01-27",
+        "like": 236,
+        "sale": 172
     },
     {
         "category": "NEW",
@@ -1051,7 +1617,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-07-14",
+        "like": 1685,
+        "sale": 932
     },
     {
         "category": "NEW",
@@ -1073,7 +1642,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-01-18",
+        "like": 1849,
+        "sale": 196
     },
     {
         "category": "NEW",
@@ -1095,7 +1667,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-07-29",
+        "like": 77,
+        "sale": 448
     },
     {
         "category": "NEW",
@@ -1117,7 +1692,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2024-09-13",
+        "like": 1112,
+        "sale": 192
     },
     {
         "category": "NEW",
@@ -1139,7 +1717,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-07-13",
+        "like": 878,
+        "sale": 323
     },
     {
         "category": "NEW",
@@ -1161,7 +1742,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2023-02-22",
+        "like": 1759,
+        "sale": 356
     },
     {
         "category": "NEW",
@@ -1183,7 +1767,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2023-10-21",
+        "like": 1466,
+        "sale": 28
     },
     {
         "category": "NEW",
@@ -1205,7 +1792,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2023-02-23",
+        "like": 1927,
+        "sale": 700
     },
     {
         "category": "NEW",
@@ -1227,7 +1817,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2022-10-24",
+        "like": 1954,
+        "sale": 931
     },
     {
         "category": "NEW",
@@ -1249,7 +1842,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2022-05-01",
+        "like": 225,
+        "sale": 426
     },
     {
         "category": "NEW",
@@ -1271,7 +1867,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2022-11-18",
+        "like": 273,
+        "sale": 831
     },
     {
         "category": "NEW",
@@ -1293,7 +1892,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-10-19",
+        "like": 954,
+        "sale": 631
     },
     {
         "category": "NEW",
@@ -1315,7 +1917,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-12-26",
+        "like": 1977,
+        "sale": 985
     },
     {
         "category": "NEW",
@@ -1337,95 +1942,274 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-02-17",
+        "like": 696,
+        "sale": 624
     },
     {
         "category": "NEW",
         "name": "양피 왼손 장갑 브라운 MDM1GL653 BRO",
         "price": "59,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005984/image/main/1000005984_main_016.jpg",
-        "labels": [],
-        "acc": true
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "date": "2022-11-18",
+        "like": 816,
+        "sale": 385
     },
     {
         "category": "NEW",
         "name": "스탠다드 썬 바이저 블랙 MDW2CA602 BLK",
         "price": "130,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005983/image/main/1000005983_main_04.jpg",
-        "labels": [],
-        "acc": true
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "date": "2022-05-29",
+        "like": 1381,
+        "sale": 244
     },
     {
         "category": "NEW",
         "name": "스탠다드 썬 바이저 화이트 MDW2CA602 WHI",
         "price": "130,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005982/image/main/1000005982_main_078.jpg",
-        "labels": [],
-        "acc": true
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "date": "2024-02-07",
+        "like": 991,
+        "sale": 658
     },
     {
         "category": "NEW",
         "name": "씨슬 프릴 햇 퍼플 MDW2CA610 LAV",
         "price": "150,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005981/image/main/1000005981_main_038.jpg",
-        "labels": [],
-        "acc": true
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "date": "2022-04-17",
+        "like": 628,
+        "sale": 794
     },
     {
         "category": "NEW",
         "name": "씨슬 프릴 햇 화이트 MDW2CA610 WHI",
         "price": "150,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005980/image/main/1000005980_main_087.jpg",
-        "labels": [],
-        "acc": true
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "date": "2022-12-26",
+        "like": 977,
+        "sale": 705
     },
     {
         "category": "NEW",
         "name": "씨슬 프릴 햇 그린 MDW2CA610 GRN",
         "price": "150,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005979/image/main/1000005979_main_016.jpg",
-        "labels": [],
-        "acc": true
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "date": "2023-12-26",
+        "like": 1010,
+        "sale": 797
     },
     {
         "category": "NEW",
         "name": "양피 왼손 장갑 베이지 MDW1GL651 BEG",
         "price": "59,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005978/image/main/1000005978_main_068.jpg",
-        "labels": [],
-        "acc": true
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "date": "2023-08-05",
+        "like": 308,
+        "sale": 688
     },
     {
         "category": "NEW",
         "name": "양피 양손 장갑 블루 MDW1GL652 LBL",
         "price": "99,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005977/image/main/1000005977_main_039.jpg",
-        "labels": [],
-        "acc": true
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "date": "2023-05-31",
+        "like": 1300,
+        "sale": 769
     },
     {
         "category": "NEW",
         "name": "양피 왼손 장갑 블루 MDW1GL651 LBL",
         "price": "59,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005976/image/main/1000005976_main_027.jpg",
-        "labels": [],
-        "acc": true
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "date": "2023-12-28",
+        "like": 1015,
+        "sale": 708
     },
     {
         "category": "NEW",
         "name": "양피 양손 장갑 베이지 MDW1GL652 BEG",
         "price": "99,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005975/image/main/1000005975_main_098.jpg",
-        "labels": [],
-        "acc": true
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "date": "2024-04-22",
+        "like": 967,
+        "sale": 518
     },
     {
         "category": "NEW",
         "name": "양피 양손 장갑 브라운 MDW1GL652 BRO",
         "price": "99,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005974/image/main/1000005974_main_01.jpg",
-        "labels": [],
-        "acc": true
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "date": "2023-05-02",
+        "like": 71,
+        "sale": 174
     },
     {
         "category": "NEW",
@@ -1446,11 +2230,14 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2022-01-03",
+        "like": 1127,
+        "sale": 276
     },
     {
         "category": "NEW",
-        "name": "[사전예약] 파우치 블랙 MDM2PO603 BLK",
+        "name": "파우치 블랙 MDM2PO603 BLK",
         "price": "250,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005860/image/main/register_main_038.jpg",
         "labels": [
@@ -1467,7 +2254,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2024-04-01",
+        "like": 1838,
+        "sale": 99
     },
     {
         "category": "NEW",
@@ -1488,7 +2278,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2023-11-07",
+        "like": 852,
+        "sale": 113
     },
     {
         "category": "NEW",
@@ -1509,11 +2302,14 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2023-01-17",
+        "like": 524,
+        "sale": 121
     },
     {
         "category": "NEW",
-        "name": "[사전예약] 패커블 보스턴백 블랙 MDM2BG601 BLK",
+        "name": "패커블 보스턴백 블랙 MDM2BG601 BLK",
         "price": "550,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005858/image/main/register_main_050.jpg",
         "labels": [
@@ -1530,11 +2326,14 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2023-03-04",
+        "like": 1930,
+        "sale": 493
     },
     {
         "category": "NEW",
-        "name": "[사전예약] 토트백 블랙 MDM2PO601 BLK",
+        "name": "토트백 블랙 MDM2PO601 BLK",
         "price": "390,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005859/image/main/register_main_093.jpg",
         "labels": [
@@ -1551,7 +2350,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2024-11-09",
+        "like": 232,
+        "sale": 167
     },
     {
         "category": "NEW",
@@ -1572,7 +2374,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2022-12-13",
+        "like": 777,
+        "sale": 879
     },
     {
         "category": "NEW",
@@ -1593,7 +2398,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2023-06-03",
+        "like": 1007,
+        "sale": 490
     },
     {
         "category": "NEW",
@@ -1614,7 +2422,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2023-11-10",
+        "like": 1587,
+        "sale": 415
     },
     {
         "category": "NEW",
@@ -1635,7 +2446,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2023-09-10",
+        "like": 466,
+        "sale": 286
     },
     {
         "category": "NEW",
@@ -1656,7 +2470,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2022-12-26",
+        "like": 907,
+        "sale": 139
     },
     {
         "category": "NEW",
@@ -1677,7 +2494,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2023-05-19",
+        "like": 146,
+        "sale": 69
     },
     {
         "category": "NEW",
@@ -1698,7 +2518,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2022-09-19",
+        "like": 578,
+        "sale": 879
     },
     {
         "category": "NEW",
@@ -1719,7 +2542,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2024-08-14",
+        "like": 89,
+        "sale": 492
     },
     {
         "category": "NEW",
@@ -1740,7 +2566,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2024-06-27",
+        "like": 1082,
+        "sale": 712
     },
     {
         "category": "NEW",
@@ -1761,7 +2590,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2022-03-21",
+        "like": 454,
+        "sale": 315
     },
     {
         "category": "NEW",
@@ -1782,7 +2614,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2024-06-13",
+        "like": 1815,
+        "sale": 488
     },
     {
         "category": "NEW",
@@ -1803,7 +2638,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2024-05-25",
+        "like": 415,
+        "sale": 793
     },
     {
         "category": "NEW",
@@ -1824,7 +2662,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2024-06-23",
+        "like": 318,
+        "sale": 386
     },
     {
         "category": "NEW",
@@ -1845,7 +2686,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2023-11-25",
+        "like": 394,
+        "sale": 666
     },
     {
         "category": "NEW",
@@ -1866,7 +2710,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2022-07-30",
+        "like": 1738,
+        "sale": 855
     },
     {
         "category": "NEW",
@@ -1887,7 +2734,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2022-10-18",
+        "like": 772,
+        "sale": 488
     },
     {
         "category": "NEW",
@@ -1908,7 +2758,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2023-08-12",
+        "like": 1233,
+        "sale": 623
     },
     {
         "category": "NEW",
@@ -1929,7 +2782,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2024-07-09",
+        "like": 1633,
+        "sale": 471
     },
     {
         "category": "NEW",
@@ -1950,7 +2806,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2023-12-27",
+        "like": 1666,
+        "sale": 904
     },
     {
         "category": "NEW",
@@ -1971,7 +2830,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2022-02-09",
+        "like": 1324,
+        "sale": 126
     },
     {
         "category": "NEW",
@@ -1992,7 +2854,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2022-08-05",
+        "like": 1865,
+        "sale": 248
     },
     {
         "category": "NEW",
@@ -2013,7 +2878,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2024-04-10",
+        "like": 934,
+        "sale": 575
     },
     {
         "category": "NEW",
@@ -2034,7 +2902,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2024-08-26",
+        "like": 562,
+        "sale": 758
     },
     {
         "category": "NEW",
@@ -2055,7 +2926,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2022-07-14",
+        "like": 807,
+        "sale": 225
     },
     {
         "category": "NEW",
@@ -2076,7 +2950,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2023-07-14",
+        "like": 373,
+        "sale": 131
     },
     {
         "category": "NEW",
@@ -2097,11 +2974,14 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2023-02-10",
+        "like": 781,
+        "sale": 131
     },
     {
         "category": "NEW",
-        "name": "[사전예약] 씨슬 패턴 중목 양말 그린 MDW2OC608 GRN",
+        "name": "씨슬 패턴 중목 양말 그린 MDW2OC608 GRN",
         "price": "39,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005931/register_main_097.jpg",
         "labels": [
@@ -2118,11 +2998,14 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2022-05-07",
+        "like": 249,
+        "sale": 474
     },
     {
         "category": "NEW",
-        "name": "[사전예약] 씨슬 패턴 중목 양말 퍼플 MDW2OC608 LAV",
+        "name": "씨슬 패턴 중목 양말 퍼플 MDW2OC608 LAV",
         "price": "39,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005932/register_main_040.jpg",
         "labels": [
@@ -2139,11 +3022,14 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2024-11-11",
+        "like": 1829,
+        "sale": 312
     },
     {
         "category": "NEW",
-        "name": "[사전예약] 씨슬 패턴 중목 양말 화이트 MDW2OC608 WHI",
+        "name": "씨슬 패턴 중목 양말 화이트 MDW2OC608 WHI",
         "price": "39,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005933/register_main_081.jpg",
         "labels": [
@@ -2160,7 +3046,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2024-10-07",
+        "like": 439,
+        "sale": 547
     },
     {
         "category": "NEW",
@@ -2181,7 +3070,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2024-11-24",
+        "like": 477,
+        "sale": 648
     },
     {
         "category": "NEW",
@@ -2202,7 +3094,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2022-08-28",
+        "like": 1256,
+        "sale": 469
     },
     {
         "category": "NEW",
@@ -2223,7 +3118,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2024-11-04",
+        "like": 1363,
+        "sale": 922
     },
     {
         "category": "NEW",
@@ -2244,7 +3142,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2023-04-07",
+        "like": 169,
+        "sale": 196
     },
     {
         "category": "NEW",
@@ -2265,7 +3166,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2022-11-30",
+        "like": 1489,
+        "sale": 495
     },
     {
         "category": "NEW",
@@ -2286,7 +3190,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2022-03-23",
+        "like": 963,
+        "sale": 987
     },
     {
         "category": "NEW",
@@ -2307,7 +3214,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2024-04-10",
+        "like": 1795,
+        "sale": 767
     },
     {
         "category": "NEW",
@@ -2328,7 +3238,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2022-02-14",
+        "like": 1396,
+        "sale": 10
     },
     {
         "category": "NEW",
@@ -2349,7 +3262,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2024-10-22",
+        "like": 214,
+        "sale": 764
     },
     {
         "category": "NEW",
@@ -2370,7 +3286,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2024-06-21",
+        "like": 1619,
+        "sale": 41
     },
     {
         "category": "NEW",
@@ -2391,7 +3310,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2022-07-29",
+        "like": 807,
+        "sale": 195
     },
     {
         "category": "NEW",
@@ -2412,7 +3334,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2023-07-10",
+        "like": 1532,
+        "sale": 415
     },
     {
         "category": "NEW",
@@ -2433,7 +3358,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2022-09-09",
+        "like": 1477,
+        "sale": 793
     },
     {
         "category": "NEW",
@@ -2454,7 +3382,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2023-02-27",
+        "like": 644,
+        "sale": 392
     },
     {
         "category": "NEW",
@@ -2475,7 +3406,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2023-05-22",
+        "like": 950,
+        "sale": 335
     },
     {
         "category": "NEW",
@@ -2496,7 +3430,10 @@
                 "신상품"
             ]
         ],
-        "acc": true
+        "acc": true,
+        "date": "2024-09-04",
+        "like": 778,
+        "sale": 440
     },
     {
         "category": "NEW",
@@ -2517,7 +3454,10 @@
                 "신상품"
             ]
         ],
-        "acc": false
+        "acc": false,
+        "date": "2023-01-29",
+        "like": 453,
+        "sale": 860
     },
     {
         "category": "NEW",
@@ -2539,7 +3479,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-02-10",
+        "like": 969,
+        "sale": 663
     },
     {
         "category": "NEW",
@@ -2561,7 +3504,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2024-08-11",
+        "like": 1278,
+        "sale": 115
     },
     {
         "category": "NEW",
@@ -2583,7 +3529,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2023-12-30",
+        "like": 1328,
+        "sale": 425
     },
     {
         "category": "NEW",
@@ -2605,7 +3554,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2024-05-28",
+        "like": 103,
+        "sale": 133
     },
     {
         "category": "NEW",
@@ -2627,7 +3579,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-04-12",
+        "like": 1292,
+        "sale": 244
     },
     {
         "category": "NEW",
@@ -2649,7 +3604,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-01-20",
+        "like": 466,
+        "sale": 894
     },
     {
         "category": "NEW",
@@ -2671,7 +3629,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2022-12-10",
+        "like": 387,
+        "sale": 826
     },
     {
         "category": "NEW",
@@ -2693,7 +3654,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2022-07-16",
+        "like": 451,
+        "sale": 437
     },
     {
         "category": "NEW",
@@ -2715,7 +3679,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "베스트"
+        "subCategory": "베스트",
+        "date": "2022-12-12",
+        "like": 396,
+        "sale": 455
     },
     {
         "category": "NEW",
@@ -2737,7 +3704,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-06-06",
+        "like": 1144,
+        "sale": 112
     },
     {
         "category": "NEW",
@@ -2759,7 +3729,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-03-16",
+        "like": 1791,
+        "sale": 648
     },
     {
         "category": "NEW",
@@ -2781,7 +3754,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-02-01",
+        "like": 1495,
+        "sale": 620
     },
     {
         "category": "NEW",
@@ -2798,7 +3774,10 @@
                 "신상품"
             ]
         ],
-        "acc": false
+        "acc": false,
+        "date": "2024-02-06",
+        "like": 501,
+        "sale": 731
     },
     {
         "category": "NEW",
@@ -2815,7 +3794,10 @@
                 "신상품"
             ]
         ],
-        "acc": false
+        "acc": false,
+        "date": "2022-10-03",
+        "like": 364,
+        "sale": 859
     },
     {
         "category": "NEW",
@@ -2832,7 +3814,10 @@
                 "신상품"
             ]
         ],
-        "acc": false
+        "acc": false,
+        "date": "2024-09-17",
+        "like": 1649,
+        "sale": 318
     },
     {
         "category": "NEW",
@@ -2849,14 +3834,33 @@
                 "신상품"
             ]
         ],
-        "acc": false
+        "acc": false,
+        "date": "2024-01-10",
+        "like": 1355,
+        "sale": 599
     },
     {
         "category": "NEW",
         "name": "씨슬 와펜 바이저 그린 MDM2CA606 GRN",
         "price": "130,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005990/image/main/1000005990_main_025.jpg",
-        "labels": [],
-        "acc": true
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "date": "2024-02-08",
+        "like": 595,
+        "sale": 68
     }
 ]

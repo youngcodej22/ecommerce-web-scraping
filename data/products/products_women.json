@@ -1,6 +1,174 @@
 [
     {
         "category": "WOMEN",
+        "name": "시어서커 아노락 자켓 핑크 MDW2JP653 PIK",
+        "price": "390,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006006/image/main/1000006006_main_06.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ]
+        ],
+        "acc": false,
+        "subCategory": "아우터",
+        "date": "2024-06-29",
+        "like": 358,
+        "sale": 705
+    },
+    {
+        "category": "WOMEN",
+        "name": "시어서커 아노락 자켓 화이트 MDW2JP653 WHI",
+        "price": "390,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006007/image/main/1000006007_main_049.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ]
+        ],
+        "acc": false,
+        "subCategory": "아우터",
+        "date": "2023-03-22",
+        "like": 392,
+        "sale": 399
+    },
+    {
+        "category": "WOMEN",
+        "name": "스몰피스 스웨터 베스트 블루 MDW2SV604 LBL",
+        "price": "450,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006000/image/main/1000006000_main_061.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ]
+        ],
+        "acc": false,
+        "subCategory": "스웨터",
+        "date": "2024-11-08",
+        "like": 68,
+        "sale": 41
+    },
+    {
+        "category": "WOMEN",
+        "name": "스몰피스 스웨터 베스트 베이지 MDW2SV604 ECR",
+        "price": "450,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005999/image/main/1000005999_main_091.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ]
+        ],
+        "acc": false,
+        "subCategory": "스웨터",
+        "date": "2023-10-27",
+        "like": 1259,
+        "sale": 611
+    },
+    {
+        "category": "WOMEN",
+        "name": "스카시 스웨터 가디건 블루 MDW2SC601 LBL",
+        "price": "530,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005998/image/main/1000005998_main_046.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ]
+        ],
+        "acc": false,
+        "subCategory": "스웨터",
+        "date": "2023-08-31",
+        "like": 1889,
+        "sale": 373
+    },
+    {
+        "category": "WOMEN",
+        "name": "스카시 스웨터 가디건 베이지 MDW2SC601 ECR",
+        "price": "530,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005997/image/main/1000005997_main_082.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ]
+        ],
+        "acc": false,
+        "subCategory": "스웨터",
+        "date": "2022-03-30",
+        "like": 94,
+        "sale": 458
+    },
+    {
+        "category": "WOMEN",
+        "name": "메탈리 씨슬 라운드 스웨터 화이트 MDW1SR605 WHI",
+        "price": "530,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005996/image/main/1000005996_main_017.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ]
+        ],
+        "acc": false,
+        "subCategory": "스웨터",
+        "date": "2024-01-27",
+        "like": 1148,
+        "sale": 521
+    },
+    {
+        "category": "WOMEN",
+        "name": "메탈리 씨슬 라운드 스웨터 네이비 MDW1SR605 NVY",
+        "price": "530,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005995/image/main/1000005995_main_032.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ]
+        ],
+        "acc": false,
+        "subCategory": "스웨터",
+        "date": "2024-07-05",
+        "like": 924,
+        "sale": 427
+    },
+    {
+        "category": "WOMEN",
         "name": "시슬 세미오버 디테일링 카라 티셔츠 네이비 MDW2TS625 NVY",
         "price": "310,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/12/1000005970/register_main_078.jpg",
@@ -19,7 +187,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-11-19",
+        "like": 981,
+        "sale": 364
     },
     {
         "category": "WOMEN",
@@ -41,7 +212,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-04-24",
+        "like": 1232,
+        "sale": 369
     },
     {
         "category": "WOMEN",
@@ -63,7 +237,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-08-12",
+        "like": 1240,
+        "sale": 574
     },
     {
         "category": "WOMEN",
@@ -85,7 +262,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2024-02-26",
+        "like": 363,
+        "sale": 253
     },
     {
         "category": "WOMEN",
@@ -107,7 +287,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "원피스"
+        "subCategory": "원피스",
+        "date": "2023-08-24",
+        "like": 883,
+        "sale": 767
     },
     {
         "category": "WOMEN",
@@ -129,7 +312,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-03-24",
+        "like": 1103,
+        "sale": 919
     },
     {
         "category": "WOMEN",
@@ -151,7 +337,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2024-10-02",
+        "like": 1249,
+        "sale": 465
     },
     {
         "category": "WOMEN",
@@ -173,7 +362,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2023-02-09",
+        "like": 921,
+        "sale": 18
     },
     {
         "category": "WOMEN",
@@ -195,7 +387,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2022-04-28",
+        "like": 1480,
+        "sale": 632
     },
     {
         "category": "WOMEN",
@@ -217,7 +412,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-09-01",
+        "like": 669,
+        "sale": 375
     },
     {
         "category": "WOMEN",
@@ -239,7 +437,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-01-11",
+        "like": 1514,
+        "sale": 333
     },
     {
         "category": "WOMEN",
@@ -261,7 +462,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2024-03-07",
+        "like": 446,
+        "sale": 322
     },
     {
         "category": "WOMEN",
@@ -283,7 +487,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2023-07-04",
+        "like": 268,
+        "sale": 634
     },
     {
         "category": "WOMEN",
@@ -305,7 +512,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "베스트"
+        "subCategory": "베스트",
+        "date": "2023-01-20",
+        "like": 91,
+        "sale": 497
     },
     {
         "category": "WOMEN",
@@ -327,7 +537,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2024-01-02",
+        "like": 987,
+        "sale": 230
     },
     {
         "category": "WOMEN",
@@ -349,7 +562,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-06-10",
+        "like": 1529,
+        "sale": 26
     },
     {
         "category": "WOMEN",
@@ -371,7 +587,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-03-09",
+        "like": 88,
+        "sale": 29
     },
     {
         "category": "WOMEN",
@@ -393,7 +612,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2024-04-23",
+        "like": 1709,
+        "sale": 326
     },
     {
         "category": "WOMEN",
@@ -415,7 +637,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2023-01-14",
+        "like": 1914,
+        "sale": 604
     },
     {
         "category": "WOMEN",
@@ -437,7 +662,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2023-10-07",
+        "like": 1355,
+        "sale": 645
     },
     {
         "category": "WOMEN",
@@ -459,7 +687,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2022-10-01",
+        "like": 762,
+        "sale": 108
     },
     {
         "category": "WOMEN",
@@ -481,7 +712,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "베스트"
+        "subCategory": "베스트",
+        "date": "2022-06-07",
+        "like": 404,
+        "sale": 26
     },
     {
         "category": "WOMEN",
@@ -503,7 +737,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "베스트"
+        "subCategory": "베스트",
+        "date": "2023-07-17",
+        "like": 411,
+        "sale": 685
     },
     {
         "category": "WOMEN",
@@ -525,7 +762,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2024-10-02",
+        "like": 1981,
+        "sale": 237
     },
     {
         "category": "WOMEN",
@@ -547,7 +787,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2024-01-08",
+        "like": 308,
+        "sale": 370
     },
     {
         "category": "WOMEN",
@@ -569,7 +812,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2024-05-05",
+        "like": 1156,
+        "sale": 382
     },
     {
         "category": "WOMEN",
@@ -591,7 +837,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-08-15",
+        "like": 593,
+        "sale": 62
     },
     {
         "category": "WOMEN",
@@ -613,7 +862,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2024-06-14",
+        "like": 702,
+        "sale": 66
     },
     {
         "category": "WOMEN",
@@ -635,7 +887,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2024-02-20",
+        "like": 1845,
+        "sale": 989
     },
     {
         "category": "WOMEN",
@@ -657,7 +912,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-04-22",
+        "like": 643,
+        "sale": 554
     },
     {
         "category": "WOMEN",
@@ -679,7 +937,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-04-27",
+        "like": 1084,
+        "sale": 857
     },
     {
         "category": "WOMEN",
@@ -701,7 +962,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-01-06",
+        "like": 1915,
+        "sale": 725
     },
     {
         "category": "WOMEN",
@@ -723,7 +987,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-07-11",
+        "like": 1044,
+        "sale": 107
     },
     {
         "category": "WOMEN",
@@ -745,7 +1012,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-04-29",
+        "like": 1770,
+        "sale": 986
     },
     {
         "category": "WOMEN",
@@ -767,7 +1037,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-10-29",
+        "like": 1886,
+        "sale": 185
     },
     {
         "category": "WOMEN",
@@ -789,7 +1062,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-11-23",
+        "like": 1112,
+        "sale": 730
     },
     {
         "category": "WOMEN",
@@ -811,7 +1087,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2022-06-25",
+        "like": 435,
+        "sale": 707
     },
     {
         "category": "WOMEN",
@@ -833,7 +1112,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2024-08-31",
+        "like": 1368,
+        "sale": 683
     },
     {
         "category": "WOMEN",
@@ -855,7 +1137,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2022-10-29",
+        "like": 1277,
+        "sale": 37
     },
     {
         "category": "WOMEN",
@@ -877,7 +1162,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-02-17",
+        "like": 1116,
+        "sale": 873
     },
     {
         "category": "WOMEN",
@@ -899,7 +1187,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2024-01-16",
+        "like": 1469,
+        "sale": 682
     },
     {
         "category": "WOMEN",
@@ -921,7 +1212,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2024-06-29",
+        "like": 171,
+        "sale": 679
     },
     {
         "category": "WOMEN",
@@ -943,7 +1237,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2024-07-08",
+        "like": 1450,
+        "sale": 10
     },
     {
         "category": "WOMEN",
@@ -965,7 +1262,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-02-11",
+        "like": 306,
+        "sale": 636
     },
     {
         "category": "WOMEN",
@@ -987,7 +1287,10 @@
             ]
         ],
         "acc": true,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-12-03",
+        "like": 684,
+        "sale": 288
     },
     {
         "category": "WOMEN",
@@ -1009,7 +1312,10 @@
             ]
         ],
         "acc": true,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-07-04",
+        "like": 809,
+        "sale": 23
     },
     {
         "category": "WOMEN",
@@ -1031,7 +1337,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-09-26",
+        "like": 1258,
+        "sale": 645
     },
     {
         "category": "WOMEN",
@@ -1053,7 +1362,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-11-25",
+        "like": 985,
+        "sale": 610
     },
     {
         "category": "WOMEN",
@@ -1075,7 +1387,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-10-07",
+        "like": 579,
+        "sale": 497
     },
     {
         "category": "WOMEN",
@@ -1097,7 +1412,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "베스트"
+        "subCategory": "베스트",
+        "date": "2024-07-16",
+        "like": 275,
+        "sale": 503
     },
     {
         "category": "WOMEN",
@@ -1119,7 +1437,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "베스트"
+        "subCategory": "베스트",
+        "date": "2024-09-06",
+        "like": 132,
+        "sale": 323
     },
     {
         "category": "WOMEN",
@@ -1141,7 +1462,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "베스트"
+        "subCategory": "베스트",
+        "date": "2022-10-06",
+        "like": 335,
+        "sale": 621
     },
     {
         "category": "WOMEN",
@@ -1163,7 +1487,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2024-06-24",
+        "like": 1222,
+        "sale": 449
     },
     {
         "category": "WOMEN",
@@ -1185,7 +1512,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-06-10",
+        "like": 899,
+        "sale": 556
     },
     {
         "category": "WOMEN",
@@ -1207,7 +1537,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-09-17",
+        "like": 1501,
+        "sale": 770
     },
     {
         "category": "WOMEN",
@@ -1229,7 +1562,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2023-03-12",
+        "like": 1541,
+        "sale": 278
     },
     {
         "category": "WOMEN",
@@ -1251,7 +1587,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2023-08-13",
+        "like": 861,
+        "sale": 537
     },
     {
         "category": "WOMEN",
@@ -1273,7 +1612,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2024-12-13",
+        "like": 580,
+        "sale": 599
     },
     {
         "category": "WOMEN",
@@ -1295,7 +1637,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-05-27",
+        "like": 1838,
+        "sale": 331
     },
     {
         "category": "WOMEN",
@@ -1317,7 +1662,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-12-28",
+        "like": 862,
+        "sale": 254
     },
     {
         "category": "WOMEN",
@@ -1339,7 +1687,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2024-07-08",
+        "like": 1686,
+        "sale": 884
     },
     {
         "category": "WOMEN",
@@ -1361,7 +1712,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2022-01-08",
+        "like": 712,
+        "sale": 935
     },
     {
         "category": "WOMEN",
@@ -1383,7 +1737,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2023-02-12",
+        "like": 148,
+        "sale": 882
     },
     {
         "category": "WOMEN",
@@ -1405,7 +1762,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-08-28",
+        "like": 1490,
+        "sale": 848
     },
     {
         "category": "WOMEN",
@@ -1427,7 +1787,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2024-05-01",
+        "like": 993,
+        "sale": 74
     },
     {
         "category": "WOMEN",
@@ -1449,7 +1812,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2024-03-22",
+        "like": 1466,
+        "sale": 98
     },
     {
         "category": "WOMEN",
@@ -1471,7 +1837,10 @@
             ]
         ],
         "acc": true,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2024-10-13",
+        "like": 1906,
+        "sale": 651
     },
     {
         "category": "WOMEN",
@@ -1493,7 +1862,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2024-03-16",
+        "like": 153,
+        "sale": 606
     },
     {
         "category": "WOMEN",
@@ -1515,7 +1887,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2024-06-19",
+        "like": 1422,
+        "sale": 980
     },
     {
         "category": "WOMEN",
@@ -1537,7 +1912,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2022-08-05",
+        "like": 546,
+        "sale": 34
     },
     {
         "category": "WOMEN",
@@ -1559,7 +1937,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2022-09-23",
+        "like": 1021,
+        "sale": 140
     },
     {
         "category": "WOMEN",
@@ -1581,7 +1962,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2023-12-29",
+        "like": 595,
+        "sale": 505
     },
     {
         "category": "WOMEN",
@@ -1603,7 +1987,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2024-11-20",
+        "like": 744,
+        "sale": 43
     },
     {
         "category": "WOMEN",
@@ -1625,7 +2012,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2023-05-23",
+        "like": 1099,
+        "sale": 755
     },
     {
         "category": "WOMEN",
@@ -1647,7 +2037,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-02-07",
+        "like": 830,
+        "sale": 572
     },
     {
         "category": "WOMEN",
@@ -1669,7 +2062,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-08-07",
+        "like": 895,
+        "sale": 441
     },
     {
         "category": "WOMEN",
@@ -1691,7 +2087,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2024-02-11",
+        "like": 1186,
+        "sale": 161
     },
     {
         "category": "WOMEN",
@@ -1713,7 +2112,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2023-03-03",
+        "like": 297,
+        "sale": 263
     },
     {
         "category": "WOMEN",
@@ -1735,7 +2137,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2022-12-08",
+        "like": 1993,
+        "sale": 309
     },
     {
         "category": "WOMEN",
@@ -1757,7 +2162,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2022-11-22",
+        "like": 1159,
+        "sale": 596
     },
     {
         "category": "WOMEN",
@@ -1779,7 +2187,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-06-16",
+        "like": 1780,
+        "sale": 781
     },
     {
         "category": "WOMEN",
@@ -1801,7 +2212,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-07-05",
+        "like": 1889,
+        "sale": 331
     },
     {
         "category": "WOMEN",
@@ -1823,7 +2237,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-11-02",
+        "like": 1097,
+        "sale": 409
     },
     {
         "category": "WOMEN",
@@ -1845,7 +2262,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2022-08-18",
+        "like": 1800,
+        "sale": 857
     },
     {
         "category": "WOMEN",
@@ -1867,7 +2287,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-10-02",
+        "like": 1946,
+        "sale": 248
     },
     {
         "category": "WOMEN",
@@ -1889,7 +2312,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2024-05-07",
+        "like": 755,
+        "sale": 448
     },
     {
         "category": "WOMEN",
@@ -1911,7 +2337,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2024-07-30",
+        "like": 1638,
+        "sale": 471
     },
     {
         "category": "WOMEN",
@@ -1933,7 +2362,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2023-11-30",
+        "like": 959,
+        "sale": 139
     },
     {
         "category": "WOMEN",
@@ -1955,7 +2387,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2024-10-09",
+        "like": 405,
+        "sale": 427
     },
     {
         "category": "WOMEN",
@@ -1977,7 +2412,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2024-07-13",
+        "like": 355,
+        "sale": 522
     },
     {
         "category": "WOMEN",
@@ -1999,7 +2437,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-10-22",
+        "like": 388,
+        "sale": 402
     },
     {
         "category": "WOMEN",
@@ -2021,7 +2462,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2024-07-20",
+        "like": 1522,
+        "sale": 161
     },
     {
         "category": "WOMEN",
@@ -2043,7 +2487,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2022-03-28",
+        "like": 1078,
+        "sale": 725
     },
     {
         "category": "WOMEN",
@@ -2065,7 +2512,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2023-08-09",
+        "like": 796,
+        "sale": 292
     },
     {
         "category": "WOMEN",
@@ -2087,7 +2537,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2023-07-20",
+        "like": 1604,
+        "sale": 890
     },
     {
         "category": "WOMEN",
@@ -2109,7 +2562,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2024-04-28",
+        "like": 182,
+        "sale": 954
     },
     {
         "category": "WOMEN",
@@ -2131,7 +2587,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2022-06-01",
+        "like": 464,
+        "sale": 945
     },
     {
         "category": "WOMEN",
@@ -2153,7 +2612,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2023-09-23",
+        "like": 327,
+        "sale": 438
     },
     {
         "category": "WOMEN",
@@ -2175,7 +2637,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2024-03-28",
+        "like": 1339,
+        "sale": 390
     },
     {
         "category": "WOMEN",
@@ -2197,7 +2662,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-11-01",
+        "like": 313,
+        "sale": 654
     },
     {
         "category": "WOMEN",
@@ -2219,7 +2687,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2024-01-10",
+        "like": 497,
+        "sale": 964
     },
     {
         "category": "WOMEN",
@@ -2241,7 +2712,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-09-14",
+        "like": 1318,
+        "sale": 790
     },
     {
         "category": "WOMEN",
@@ -2263,7 +2737,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2024-07-08",
+        "like": 1555,
+        "sale": 547
     },
     {
         "category": "WOMEN",
@@ -2285,7 +2762,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-03-11",
+        "like": 1615,
+        "sale": 93
     },
     {
         "category": "WOMEN",
@@ -2307,7 +2787,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2022-01-26",
+        "like": 1147,
+        "sale": 185
     },
     {
         "category": "WOMEN",
@@ -2329,7 +2812,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2022-11-20",
+        "like": 306,
+        "sale": 643
     },
     {
         "category": "WOMEN",
@@ -2351,7 +2837,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2022-04-27",
+        "like": 1428,
+        "sale": 732
     },
     {
         "category": "WOMEN",
@@ -2373,7 +2862,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-03-04",
+        "like": 1237,
+        "sale": 405
     },
     {
         "category": "WOMEN",
@@ -2395,7 +2887,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2023-07-19",
+        "like": 88,
+        "sale": 150
     },
     {
         "category": "WOMEN",
@@ -2417,7 +2912,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2022-11-13",
+        "like": 91,
+        "sale": 75
     },
     {
         "category": "WOMEN",
@@ -2439,7 +2937,10 @@
             ]
         ],
         "acc": true,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2022-06-02",
+        "like": 504,
+        "sale": 297
     },
     {
         "category": "WOMEN",
@@ -2461,7 +2962,10 @@
             ]
         ],
         "acc": true,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2022-09-13",
+        "like": 1686,
+        "sale": 942
     },
     {
         "category": "WOMEN",
@@ -2483,7 +2987,10 @@
             ]
         ],
         "acc": true,
-        "subCategory": "스커트"
+        "subCategory": "스커트",
+        "date": "2024-07-20",
+        "like": 628,
+        "sale": 956
     },
     {
         "category": "WOMEN",
@@ -2505,7 +3012,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2024-09-26",
+        "like": 102,
+        "sale": 586
     },
     {
         "category": "WOMEN",
@@ -2527,7 +3037,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2024-02-25",
+        "like": 1360,
+        "sale": 250
     },
     {
         "category": "WOMEN",
@@ -2549,7 +3062,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2023-04-14",
+        "like": 175,
+        "sale": 637
     },
     {
         "category": "WOMEN",
@@ -2571,7 +3087,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-10-03",
+        "like": 381,
+        "sale": 38
     },
     {
         "category": "WOMEN",
@@ -2593,7 +3112,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2024-11-29",
+        "like": 1331,
+        "sale": 450
     },
     {
         "category": "WOMEN",
@@ -2615,7 +3137,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-11-24",
+        "like": 1006,
+        "sale": 371
     },
     {
         "category": "WOMEN",
@@ -2637,7 +3162,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2024-04-29",
+        "like": 746,
+        "sale": 682
     },
     {
         "category": "WOMEN",
@@ -2659,7 +3187,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-05-22",
+        "like": 1195,
+        "sale": 188
     },
     {
         "category": "WOMEN",
@@ -2681,7 +3212,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2022-05-23",
+        "like": 63,
+        "sale": 211
     },
     {
         "category": "WOMEN",
@@ -2703,7 +3237,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2022-03-05",
+        "like": 1145,
+        "sale": 369
     },
     {
         "category": "WOMEN",
@@ -2725,7 +3262,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2022-04-12",
+        "like": 1842,
+        "sale": 285
     },
     {
         "category": "WOMEN",
@@ -2747,7 +3287,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2023-07-11",
+        "like": 1529,
+        "sale": 906
     },
     {
         "category": "WOMEN",
@@ -2769,7 +3312,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2024-07-17",
+        "like": 911,
+        "sale": 272
     },
     {
         "category": "WOMEN",
@@ -2791,7 +3337,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2024-04-26",
+        "like": 1730,
+        "sale": 311
     },
     {
         "category": "WOMEN",
@@ -2813,7 +3362,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2024-07-17",
+        "like": 655,
+        "sale": 580
     },
     {
         "category": "WOMEN",
@@ -2835,7 +3387,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2023-05-01",
+        "like": 68,
+        "sale": 231
     },
     {
         "category": "WOMEN",
@@ -2857,7 +3412,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "베스트"
+        "subCategory": "베스트",
+        "date": "2023-01-23",
+        "like": 1170,
+        "sale": 611
     },
     {
         "category": "WOMEN",
@@ -2879,7 +3437,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "베스트"
+        "subCategory": "베스트",
+        "date": "2022-07-31",
+        "like": 1987,
+        "sale": 812
     },
     {
         "category": "WOMEN",
@@ -2901,7 +3462,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-03-25",
+        "like": 311,
+        "sale": 511
     },
     {
         "category": "WOMEN",
@@ -2923,7 +3487,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-05-24",
+        "like": 885,
+        "sale": 706
     },
     {
         "category": "WOMEN",
@@ -2945,7 +3512,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2024-01-24",
+        "like": 1980,
+        "sale": 738
     },
     {
         "category": "WOMEN",
@@ -2967,7 +3537,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2022-08-04",
+        "like": 1797,
+        "sale": 875
     },
     {
         "category": "WOMEN",
@@ -2989,7 +3562,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2023-08-19",
+        "like": 727,
+        "sale": 227
     },
     {
         "category": "WOMEN",
@@ -3011,7 +3587,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2022-11-26",
+        "like": 1830,
+        "sale": 450
     },
     {
         "category": "WOMEN",
@@ -3033,7 +3612,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2022-03-02",
+        "like": 453,
+        "sale": 544
     },
     {
         "category": "WOMEN",
@@ -3055,7 +3637,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2023-12-20",
+        "like": 1747,
+        "sale": 908
     },
     {
         "category": "WOMEN",
@@ -3077,7 +3662,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2022-11-19",
+        "like": 1114,
+        "sale": 284
     },
     {
         "category": "WOMEN",
@@ -3099,7 +3687,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "베스트"
+        "subCategory": "베스트",
+        "date": "2022-06-18",
+        "like": 1050,
+        "sale": 704
     },
     {
         "category": "WOMEN",
@@ -3121,7 +3712,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "베스트"
+        "subCategory": "베스트",
+        "date": "2024-04-06",
+        "like": 1149,
+        "sale": 862
     },
     {
         "category": "WOMEN",
@@ -3143,7 +3737,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "베스트"
+        "subCategory": "베스트",
+        "date": "2024-07-28",
+        "like": 764,
+        "sale": 246
     },
     {
         "category": "WOMEN",
@@ -3165,7 +3762,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "베스트"
+        "subCategory": "베스트",
+        "date": "2023-08-11",
+        "like": 1128,
+        "sale": 817
     },
     {
         "category": "WOMEN",
@@ -3187,7 +3787,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "베스트"
+        "subCategory": "베스트",
+        "date": "2023-05-02",
+        "like": 1030,
+        "sale": 673
     },
     {
         "category": "WOMEN",
@@ -3209,7 +3812,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2024-07-15",
+        "like": 1146,
+        "sale": 706
     },
     {
         "category": "WOMEN",
@@ -3231,7 +3837,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2024-01-03",
+        "like": 645,
+        "sale": 275
     },
     {
         "category": "WOMEN",
@@ -3253,7 +3862,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2022-01-04",
+        "like": 1158,
+        "sale": 741
     },
     {
         "category": "WOMEN",
@@ -3275,7 +3887,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2023-03-14",
+        "like": 1039,
+        "sale": 471
     },
     {
         "category": "WOMEN",
@@ -3297,7 +3912,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2024-10-03",
+        "like": 1750,
+        "sale": 680
     },
     {
         "category": "WOMEN",
@@ -3319,7 +3937,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2024-08-24",
+        "like": 695,
+        "sale": 862
     },
     {
         "category": "WOMEN",
@@ -3341,7 +3962,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2022-02-14",
+        "like": 250,
+        "sale": 995
     },
     {
         "category": "WOMEN",
@@ -3363,7 +3987,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2023-09-04",
+        "like": 404,
+        "sale": 310
     },
     {
         "category": "WOMEN",
@@ -3385,6 +4012,9 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2024-05-02",
+        "like": 704,
+        "sale": 30
     }
 ]

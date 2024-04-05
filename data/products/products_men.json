@@ -4,81 +4,189 @@
         "name": "가죽와펜 포인트 카라 티셔츠 베이지 MDM2TS644 ECR",
         "price": "310,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006003/image/main/1000006003_main_080.jpg",
-        "labels": [],
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ]
+        ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2024-07-29",
+        "like": 122,
+        "sale": 467
     },
     {
         "category": "MEN",
         "name": "가죽와펜 포인트 카라 티셔츠 네이비 MDM2TS644 NVY",
         "price": "310,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006004/image/main/1000006004_main_035.jpg",
-        "labels": [],
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ]
+        ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2024-09-21",
+        "like": 1283,
+        "sale": 199
     },
     {
         "category": "MEN",
         "name": "가죽와펜 포인트 카라 티셔츠 오렌지 MDM2TS644 ORG",
         "price": "310,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006005/image/main/1000006005_main_089.jpg",
-        "labels": [],
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ]
+        ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-02-08",
+        "like": 87,
+        "sale": 490
     },
     {
         "category": "MEN",
         "name": "등판 타공 카라 티셔츠 네이비 MDM2TS643 NVY",
         "price": "290,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006002/image/main/1000006002_main_036.jpg",
-        "labels": [],
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ]
+        ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-10-22",
+        "like": 62,
+        "sale": 876
     },
     {
         "category": "MEN",
         "name": "등판 타공 카라 티셔츠 그레이 MDM2TS643 MGR",
         "price": "290,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006001/image/main/1000006001_main_041.jpg",
-        "labels": [],
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ]
+        ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-07-05",
+        "like": 875,
+        "sale": 908
     },
     {
         "category": "MEN",
         "name": "스카시 멕케이 카라 스웨터 네이비 MDM2SS601 NVY",
         "price": "470,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005994/image/main/1000005994_main_098.jpg",
-        "labels": [],
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ]
+        ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2022-06-17",
+        "like": 1181,
+        "sale": 594
     },
     {
         "category": "MEN",
         "name": "스카시 멕케이 카라 스웨터 베이지 MDM2SS601 ECR",
         "price": "470,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005993/image/main/1000005993_main_028.jpg",
-        "labels": [],
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ]
+        ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2022-05-30",
+        "like": 1591,
+        "sale": 330
     },
     {
         "category": "MEN",
         "name": "레인 팬츠 블랙 MDM1RW631 BLK",
         "price": "490,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005992/image/main/1000005992_main_027.jpg",
-        "labels": [],
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ]
+        ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-05-04",
+        "like": 1960,
+        "sale": 531
     },
     {
         "category": "MEN",
         "name": "디테쳐블 레인 자켓 블랙 MDM1RW601 BLK",
         "price": "790,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005991/image/main/1000005991_main_013.jpg",
-        "labels": [],
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ]
+        ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2023-05-22",
+        "like": 1158,
+        "sale": 511
     },
     {
         "category": "MEN",
@@ -100,7 +208,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2022-02-10",
+        "like": 1274,
+        "sale": 419
     },
     {
         "category": "MEN",
@@ -122,7 +233,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-12-20",
+        "like": 1068,
+        "sale": 598
     },
     {
         "category": "MEN",
@@ -144,7 +258,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-10-27",
+        "like": 904,
+        "sale": 481
     },
     {
         "category": "MEN",
@@ -166,7 +283,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2022-07-26",
+        "like": 1922,
+        "sale": 256
     },
     {
         "category": "MEN",
@@ -188,7 +308,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2024-05-04",
+        "like": 1544,
+        "sale": 381
     },
     {
         "category": "MEN",
@@ -210,7 +333,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2024-05-07",
+        "like": 194,
+        "sale": 121
     },
     {
         "category": "MEN",
@@ -232,7 +358,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2023-09-03",
+        "like": 301,
+        "sale": 64
     },
     {
         "category": "MEN",
@@ -254,7 +383,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2024-07-15",
+        "like": 1348,
+        "sale": 276
     },
     {
         "category": "MEN",
@@ -276,7 +408,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2022-02-27",
+        "like": 638,
+        "sale": 493
     },
     {
         "category": "MEN",
@@ -298,7 +433,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2022-06-08",
+        "like": 426,
+        "sale": 728
     },
     {
         "category": "MEN",
@@ -320,7 +458,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2024-01-01",
+        "like": 562,
+        "sale": 304
     },
     {
         "category": "MEN",
@@ -342,7 +483,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-10-04",
+        "like": 1301,
+        "sale": 695
     },
     {
         "category": "MEN",
@@ -364,7 +508,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2024-09-24",
+        "like": 1408,
+        "sale": 178
     },
     {
         "category": "MEN",
@@ -386,7 +533,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2023-07-28",
+        "like": 994,
+        "sale": 282
     },
     {
         "category": "MEN",
@@ -408,7 +558,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2022-09-01",
+        "like": 254,
+        "sale": 359
     },
     {
         "category": "MEN",
@@ -430,7 +583,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2023-09-24",
+        "like": 785,
+        "sale": 442
     },
     {
         "category": "MEN",
@@ -452,13 +608,16 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2022-09-14",
+        "like": 1379,
+        "sale": 236
     },
     {
         "category": "MEN",
         "name": "씨슬 블루종 자켓 베이지 MDM1JP601 SBE",
-        "price": "670,000",
-        "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005906/register_main_012.jpg",
+        "price": "650,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005906/image/magnify/1000005906_magnify_018.jpg",
         "labels": [
             [
                 "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
@@ -474,7 +633,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2023-05-30",
+        "like": 1010,
+        "sale": 571
     },
     {
         "category": "MEN",
@@ -495,7 +657,10 @@
                 "신상품"
             ]
         ],
-        "acc": false
+        "acc": false,
+        "date": "2023-01-18",
+        "like": 1557,
+        "sale": 333
     },
     {
         "category": "MEN",
@@ -516,7 +681,10 @@
                 "신상품"
             ]
         ],
-        "acc": false
+        "acc": false,
+        "date": "2022-10-13",
+        "like": 1105,
+        "sale": 832
     },
     {
         "category": "MEN",
@@ -538,7 +706,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-11-17",
+        "like": 1208,
+        "sale": 684
     },
     {
         "category": "MEN",
@@ -560,7 +731,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2022-12-26",
+        "like": 1063,
+        "sale": 946
     },
     {
         "category": "MEN",
@@ -582,7 +756,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2024-09-16",
+        "like": 581,
+        "sale": 569
     },
     {
         "category": "MEN",
@@ -604,7 +781,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-07-11",
+        "like": 106,
+        "sale": 716
     },
     {
         "category": "MEN",
@@ -626,7 +806,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-09-16",
+        "like": 259,
+        "sale": 419
     },
     {
         "category": "MEN",
@@ -648,7 +831,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-04-15",
+        "like": 766,
+        "sale": 392
     },
     {
         "category": "MEN",
@@ -670,7 +856,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2024-02-20",
+        "like": 1389,
+        "sale": 749
     },
     {
         "category": "MEN",
@@ -692,7 +881,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-01-22",
+        "like": 866,
+        "sale": 832
     },
     {
         "category": "MEN",
@@ -714,7 +906,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "숏팬츠"
+        "subCategory": "숏팬츠",
+        "date": "2023-04-01",
+        "like": 1276,
+        "sale": 658
     },
     {
         "category": "MEN",
@@ -736,7 +931,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-07-06",
+        "like": 1623,
+        "sale": 538
     },
     {
         "category": "MEN",
@@ -758,7 +956,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-03-29",
+        "like": 330,
+        "sale": 86
     },
     {
         "category": "MEN",
@@ -780,7 +981,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-09-01",
+        "like": 696,
+        "sale": 39
     },
     {
         "category": "MEN",
@@ -802,7 +1006,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2024-10-11",
+        "like": 629,
+        "sale": 452
     },
     {
         "category": "MEN",
@@ -824,7 +1031,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2022-06-25",
+        "like": 1084,
+        "sale": 286
     },
     {
         "category": "MEN",
@@ -846,7 +1056,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2022-08-26",
+        "like": 1274,
+        "sale": 715
     },
     {
         "category": "MEN",
@@ -868,7 +1081,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-09-24",
+        "like": 1886,
+        "sale": 806
     },
     {
         "category": "MEN",
@@ -890,7 +1106,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2024-05-12",
+        "like": 1395,
+        "sale": 685
     },
     {
         "category": "MEN",
@@ -912,7 +1131,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2023-06-17",
+        "like": 511,
+        "sale": 120
     },
     {
         "category": "MEN",
@@ -934,7 +1156,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-10-11",
+        "like": 1137,
+        "sale": 492
     },
     {
         "category": "MEN",
@@ -956,7 +1181,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2022-09-02",
+        "like": 1116,
+        "sale": 118
     },
     {
         "category": "MEN",
@@ -978,7 +1206,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-08-04",
+        "like": 839,
+        "sale": 746
     },
     {
         "category": "MEN",
@@ -1000,7 +1231,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2024-03-04",
+        "like": 410,
+        "sale": 541
     },
     {
         "category": "MEN",
@@ -1022,7 +1256,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-01-26",
+        "like": 960,
+        "sale": 946
     },
     {
         "category": "MEN",
@@ -1044,7 +1281,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2024-12-28",
+        "like": 213,
+        "sale": 832
     },
     {
         "category": "MEN",
@@ -1066,7 +1306,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-01-25",
+        "like": 784,
+        "sale": 101
     },
     {
         "category": "MEN",
@@ -1088,7 +1331,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "베스트"
+        "subCategory": "베스트",
+        "date": "2023-11-04",
+        "like": 1327,
+        "sale": 835
     },
     {
         "category": "MEN",
@@ -1110,7 +1356,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "베스트"
+        "subCategory": "베스트",
+        "date": "2022-05-02",
+        "like": 1170,
+        "sale": 375
     },
     {
         "category": "MEN",
@@ -1132,7 +1381,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "베스트"
+        "subCategory": "베스트",
+        "date": "2022-01-22",
+        "like": 556,
+        "sale": 259
     },
     {
         "category": "MEN",
@@ -1154,7 +1406,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2023-07-04",
+        "like": 1116,
+        "sale": 120
     },
     {
         "category": "MEN",
@@ -1176,7 +1431,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2022-02-11",
+        "like": 911,
+        "sale": 836
     },
     {
         "category": "MEN",
@@ -1198,7 +1456,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-11-16",
+        "like": 1289,
+        "sale": 436
     },
     {
         "category": "MEN",
@@ -1220,7 +1481,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-06-23",
+        "like": 1710,
+        "sale": 553
     },
     {
         "category": "MEN",
@@ -1242,7 +1506,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2022-11-08",
+        "like": 376,
+        "sale": 85
     },
     {
         "category": "MEN",
@@ -1264,7 +1531,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2024-07-26",
+        "like": 1378,
+        "sale": 297
     },
     {
         "category": "MEN",
@@ -1286,7 +1556,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2024-10-10",
+        "like": 1967,
+        "sale": 878
     },
     {
         "category": "MEN",
@@ -1308,7 +1581,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2024-10-18",
+        "like": 1108,
+        "sale": 684
     },
     {
         "category": "MEN",
@@ -1330,7 +1606,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2022-07-12",
+        "like": 481,
+        "sale": 467
     },
     {
         "category": "MEN",
@@ -1352,7 +1631,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-05-09",
+        "like": 955,
+        "sale": 991
     },
     {
         "category": "MEN",
@@ -1374,7 +1656,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-04-28",
+        "like": 350,
+        "sale": 29
     },
     {
         "category": "MEN",
@@ -1396,7 +1681,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2024-02-11",
+        "like": 196,
+        "sale": 771
     },
     {
         "category": "MEN",
@@ -1418,7 +1706,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2024-08-09",
+        "like": 750,
+        "sale": 928
     },
     {
         "category": "MEN",
@@ -1440,7 +1731,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-06-09",
+        "like": 1087,
+        "sale": 924
     },
     {
         "category": "MEN",
@@ -1462,7 +1756,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-09-21",
+        "like": 377,
+        "sale": 632
     },
     {
         "category": "MEN",
@@ -1484,7 +1781,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-02-10",
+        "like": 1676,
+        "sale": 161
     },
     {
         "category": "MEN",
@@ -1506,7 +1806,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-01-25",
+        "like": 1997,
+        "sale": 867
     },
     {
         "category": "MEN",
@@ -1528,7 +1831,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2024-08-10",
+        "like": 567,
+        "sale": 733
     },
     {
         "category": "MEN",
@@ -1550,7 +1856,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2024-11-10",
+        "like": 104,
+        "sale": 313
     },
     {
         "category": "MEN",
@@ -1572,7 +1881,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-02-05",
+        "like": 1178,
+        "sale": 498
     },
     {
         "category": "MEN",
@@ -1594,7 +1906,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "원피스"
+        "subCategory": "원피스",
+        "date": "2024-09-09",
+        "like": 416,
+        "sale": 392
     },
     {
         "category": "MEN",
@@ -1616,7 +1931,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2022-03-22",
+        "like": 487,
+        "sale": 778
     },
     {
         "category": "MEN",
@@ -1638,7 +1956,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2023-05-16",
+        "like": 763,
+        "sale": 560
     },
     {
         "category": "MEN",
@@ -1660,7 +1981,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-06-08",
+        "like": 890,
+        "sale": 405
     },
     {
         "category": "MEN",
@@ -1682,7 +2006,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-08-16",
+        "like": 1059,
+        "sale": 318
     },
     {
         "category": "MEN",
@@ -1704,7 +2031,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-03-15",
+        "like": 341,
+        "sale": 42
     },
     {
         "category": "MEN",
@@ -1726,7 +2056,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "베스트"
+        "subCategory": "베스트",
+        "date": "2024-12-15",
+        "like": 1015,
+        "sale": 695
     },
     {
         "category": "MEN",
@@ -1748,7 +2081,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-08-20",
+        "like": 1319,
+        "sale": 365
     },
     {
         "category": "MEN",
@@ -1770,7 +2106,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "베스트"
+        "subCategory": "베스트",
+        "date": "2023-10-11",
+        "like": 1689,
+        "sale": 941
     },
     {
         "category": "MEN",
@@ -1792,7 +2131,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2023-04-16",
+        "like": 352,
+        "sale": 539
     },
     {
         "category": "MEN",
@@ -1814,7 +2156,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2024-09-07",
+        "like": 996,
+        "sale": 727
     },
     {
         "category": "MEN",
@@ -1836,7 +2181,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "베스트"
+        "subCategory": "베스트",
+        "date": "2022-05-16",
+        "like": 1246,
+        "sale": 938
     },
     {
         "category": "MEN",
@@ -1858,7 +2206,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "베스트"
+        "subCategory": "베스트",
+        "date": "2024-10-15",
+        "like": 1404,
+        "sale": 329
     },
     {
         "category": "MEN",
@@ -1880,7 +2231,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2024-03-12",
+        "like": 382,
+        "sale": 235
     },
     {
         "category": "MEN",
@@ -1902,7 +2256,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-04-30",
+        "like": 958,
+        "sale": 406
     },
     {
         "category": "MEN",
@@ -1924,7 +2281,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2022-10-12",
+        "like": 841,
+        "sale": 24
     },
     {
         "category": "MEN",
@@ -1946,7 +2306,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2022-09-23",
+        "like": 231,
+        "sale": 400
     },
     {
         "category": "MEN",
@@ -1968,7 +2331,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-02-06",
+        "like": 1852,
+        "sale": 626
     },
     {
         "category": "MEN",
@@ -1990,7 +2356,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2024-12-01",
+        "like": 1469,
+        "sale": 183
     },
     {
         "category": "MEN",
@@ -2012,7 +2381,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2023-04-05",
+        "like": 1418,
+        "sale": 711
     },
     {
         "category": "MEN",
@@ -2034,7 +2406,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2023-07-20",
+        "like": 1557,
+        "sale": 531
     },
     {
         "category": "MEN",
@@ -2056,7 +2431,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2023-06-28",
+        "like": 667,
+        "sale": 623
     },
     {
         "category": "MEN",
@@ -2078,7 +2456,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-09-20",
+        "like": 347,
+        "sale": 415
     },
     {
         "category": "MEN",
@@ -2100,7 +2481,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2022-09-10",
+        "like": 1021,
+        "sale": 317
     },
     {
         "category": "MEN",
@@ -2122,7 +2506,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "베스트"
+        "subCategory": "베스트",
+        "date": "2023-11-01",
+        "like": 541,
+        "sale": 928
     },
     {
         "category": "MEN",
@@ -2144,7 +2531,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "베스트"
+        "subCategory": "베스트",
+        "date": "2022-12-29",
+        "like": 1945,
+        "sale": 593
     },
     {
         "category": "MEN",
@@ -2166,7 +2556,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2024-05-03",
+        "like": 1824,
+        "sale": 162
     },
     {
         "category": "MEN",
@@ -2188,7 +2581,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2022-02-10",
+        "like": 889,
+        "sale": 455
     },
     {
         "category": "MEN",
@@ -2210,7 +2606,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "팬츠"
+        "subCategory": "팬츠",
+        "date": "2024-06-04",
+        "like": 497,
+        "sale": 651
     },
     {
         "category": "MEN",
@@ -2232,7 +2631,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "베스트"
+        "subCategory": "베스트",
+        "date": "2023-03-11",
+        "like": 407,
+        "sale": 257
     },
     {
         "category": "MEN",
@@ -2254,7 +2656,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2022-02-24",
+        "like": 558,
+        "sale": 379
     },
     {
         "category": "MEN",
@@ -2276,7 +2681,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2023-12-06",
+        "like": 1078,
+        "sale": 175
     },
     {
         "category": "MEN",
@@ -2298,7 +2706,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-09-28",
+        "like": 497,
+        "sale": 901
     },
     {
         "category": "MEN",
@@ -2320,7 +2731,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "티셔츠"
+        "subCategory": "티셔츠",
+        "date": "2023-04-09",
+        "like": 1969,
+        "sale": 193
     },
     {
         "category": "MEN",
@@ -2342,7 +2756,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2024-07-19",
+        "like": 463,
+        "sale": 954
     },
     {
         "category": "MEN",
@@ -2364,7 +2781,10 @@
             ]
         ],
         "acc": false,
-        "subCategory": "스웨터"
+        "subCategory": "스웨터",
+        "date": "2022-04-25",
+        "like": 1308,
+        "sale": 902
     },
     {
         "category": "MEN",
@@ -2385,7 +2805,10 @@
                 "신상품"
             ]
         ],
-        "acc": false
+        "acc": false,
+        "date": "2024-08-24",
+        "like": 562,
+        "sale": 536
     },
     {
         "category": "MEN",
@@ -2406,7 +2829,10 @@
                 "신상품"
             ]
         ],
-        "acc": false
+        "acc": false,
+        "date": "2022-10-03",
+        "like": 1200,
+        "sale": 351
     },
     {
         "category": "MEN",
@@ -2428,6 +2854,9 @@
             ]
         ],
         "acc": false,
-        "subCategory": "아우터"
+        "subCategory": "아우터",
+        "date": "2022-07-12",
+        "like": 320,
+        "sale": 333
     }
 ]
