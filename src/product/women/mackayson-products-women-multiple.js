@@ -149,41 +149,49 @@ async function run() {
                 case name.includes("상의"):
                 case name.includes("맨투맨"):
                 case name.includes("니트"):
-                    item.subCategory = "티셔츠";
+                    item.subCategory = "상의";
+                    item.thirdCategory = "티셔츠";
                     break;
                 case name.includes("팬츠"):
                 case name.includes("하의"):
                 case name.includes("청바지"):
                 case name.includes("조거팬츠"):
                 case name.includes("조거 팬츠"):
-                    item.subCategory = "팬츠";
+                    item.subCategory = "하의";
+                    item.thirdCategory = "팬츠";
                     break;
                 case name.includes("스웨터"):
-                    item.subCategory = "스웨터";
+                    item.subCategory = "상의";
+                    item.thirdCategory = "스웨터";
                     break;
                 case name.includes("숏팬츠"):
                 case name.includes("숏 팬츠"):
                 case name.includes("스커트 팬츠"):
                 case name.includes("반바지"):
                 case name.includes("버뮤다 팬츠"):
-                    item.subCategory = "숏팬츠";
+                    item.subCategory = "하의";
+                    item.thirdCategory = "숏팬츠";
                     break;
                 case name.includes("스커트"):
                 case name.includes("큐롯"):
-                    item.subCategory = "스커트";
+                    item.subCategory = "하의";
+                    item.thirdCategory = "스커트";
                     break;
                 case name.includes("원피스"):
                 case name.includes("점프슈트"):
-                    item.subCategory = "원피스";
+                    item.subCategory = "상의";
+                    item.thirdCategory = "원피스";
                     break;
                 case name.includes("자켓"):
                 case name.includes("점퍼"):
                 case name.includes("바람막이"):
                 case name.includes("윈드 브레이커"):
                     item.subCategory = "아우터";
+                    item.thirdCategory = "점퍼";
                     break;
                 case name.includes("베스트"):
-                    item.subCategory = "베스트";
+                    item.subCategory = "아우터";
+                    item.thirdCategory = "베스트";
                     break;
             }
         }

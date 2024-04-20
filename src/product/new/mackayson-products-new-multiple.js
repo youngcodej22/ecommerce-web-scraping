@@ -14,6 +14,7 @@ async function run() {
         "https://www.mckayson.com/goods/goods_list.php?page=6&cateCd=001",
         "https://www.mckayson.com/goods/goods_list.php?page=7&cateCd=001",
         "https://www.mckayson.com/goods/goods_list.php?page=8&cateCd=001",
+        "https://www.mckayson.com/goods/goods_list.php?page=9&cateCd=001",
     ];
 
     // * insert value for "date"
@@ -133,58 +134,58 @@ async function run() {
         }
 
         // todo: subCategory 생성, category에 정확한 값 넣기
-        for (const item of products) {
-            const name = item.name.toLowerCase();
-            // if (name.includes("티셔츠")) {
-            //     item.subCategory = "티셔츠";
-            // } else if (name.includes("팬츠")) {
-            //     item.subCategory = "팬츠";
-            // }
-            switch (true) {
-                case name.includes("티셔츠"):
-                case name.includes("블라우스"):
-                case name.includes("베이스레이어"):
-                case name.includes("상의"):
-                case name.includes("맨투맨"):
-                case name.includes("니트"):
-                    item.subCategory = "티셔츠";
-                    break;
-                case name.includes("팬츠"):
-                case name.includes("하의"):
-                case name.includes("청바지"):
-                case name.includes("조거팬츠"):
-                case name.includes("조거 팬츠"):
-                    item.subCategory = "팬츠";
-                    break;
-                case name.includes("스웨터"):
-                    item.subCategory = "스웨터";
-                    break;
-                case name.includes("숏팬츠"):
-                case name.includes("숏 팬츠"):
-                case name.includes("스커트 팬츠"):
-                case name.includes("반바지"):
-                case name.includes("버뮤다 팬츠"):
-                    item.subCategory = "숏팬츠";
-                    break;
-                case name.includes("스커트"):
-                case name.includes("큐롯"):
-                    item.subCategory = "스커트";
-                    break;
-                case name.includes("원피스"):
-                case name.includes("점프슈트"):
-                    item.subCategory = "원피스";
-                    break;
-                case name.includes("자켓"):
-                case name.includes("점퍼"):
-                case name.includes("바람막이"):
-                case name.includes("윈드 브레이커"):
-                    item.subCategory = "아우터";
-                    break;
-                case name.includes("베스트"):
-                    item.subCategory = "베스트";
-                    break;
-            }
-        }
+        // for (const item of products) {
+        //     const name = item.name.toLowerCase();
+        //     // if (name.includes("티셔츠")) {
+        //     //     item.subCategory = "티셔츠";
+        //     // } else if (name.includes("팬츠")) {
+        //     //     item.subCategory = "팬츠";
+        //     // }
+        //     switch (true) {
+        //         case name.includes("티셔츠"):
+        //         case name.includes("블라우스"):
+        //         case name.includes("베이스레이어"):
+        //         case name.includes("상의"):
+        //         case name.includes("맨투맨"):
+        //         case name.includes("니트"):
+        //             item.subCategory = "티셔츠";
+        //             break;
+        //         case name.includes("팬츠"):
+        //         case name.includes("하의"):
+        //         case name.includes("청바지"):
+        //         case name.includes("조거팬츠"):
+        //         case name.includes("조거 팬츠"):
+        //             item.subCategory = "팬츠";
+        //             break;
+        //         case name.includes("스웨터"):
+        //             item.subCategory = "스웨터";
+        //             break;
+        //         case name.includes("숏팬츠"):
+        //         case name.includes("숏 팬츠"):
+        //         case name.includes("스커트 팬츠"):
+        //         case name.includes("반바지"):
+        //         case name.includes("버뮤다 팬츠"):
+        //             item.subCategory = "숏팬츠";
+        //             break;
+        //         case name.includes("스커트"):
+        //         case name.includes("큐롯"):
+        //             item.subCategory = "스커트";
+        //             break;
+        //         case name.includes("원피스"):
+        //         case name.includes("점프슈트"):
+        //             item.subCategory = "원피스";
+        //             break;
+        //         case name.includes("자켓"):
+        //         case name.includes("점퍼"):
+        //         case name.includes("바람막이"):
+        //         case name.includes("윈드 브레이커"):
+        //             item.subCategory = "아우터";
+        //             break;
+        //         case name.includes("베스트"):
+        //             item.subCategory = "베스트";
+        //             break;
+        //     }
+        // }
 
         // * 추가: date
         for (const item of products) {

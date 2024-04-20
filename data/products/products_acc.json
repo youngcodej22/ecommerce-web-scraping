@@ -1,23 +1,263 @@
 [
     {
         "category": "ACC",
-        "name": "슬림핏 와펜 볼캡 네이비 MDM2CA602 NVY",
-        "price": "130,000",
-        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005986/image/main/1000005986_main_092.jpg",
+        "name": "투톤 스트라이프 중목 양말 블랙 MDM2OC610 BLK",
+        "price": "39,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006051/image/main/1000006051_main_055.jpg",
         "labels": [
             [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/6.png",
-                "공용"
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
             ],
             [
                 "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
                 "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
             ]
         ],
         "acc": true,
-        "date": "2024-08-01",
-        "like": 560,
-        "sale": 458
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2022-07-23",
+        "like": 516,
+        "sale": 936
+    },
+    {
+        "category": "ACC",
+        "name": "솔리드 바이저 네이비 MDM2CA607 NVY",
+        "price": "130,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006016/image/main/1000006016_main_039.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2024-10-12",
+        "like": 455,
+        "sale": 711
+    },
+    {
+        "category": "ACC",
+        "name": "로프 와이드 볼캡 블랙 MDW2CA601 BLK",
+        "price": "130,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006015/image/main/1000006015_main_074.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2023-08-04",
+        "like": 212,
+        "sale": 39
+    },
+    {
+        "category": "ACC",
+        "name": "로프 와이드 볼캡 화이트 MDW2CA601 WHI",
+        "price": "130,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006014/image/main/1000006014_main_09.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2023-11-20",
+        "like": 702,
+        "sale": 403
+    },
+    {
+        "category": "ACC",
+        "name": "씨슬 리본 바이저 그린 MDW2CA609 GRN",
+        "price": "150,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006013/image/main/1000006013_main_077.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2022-06-20",
+        "like": 1456,
+        "sale": 853
+    },
+    {
+        "category": "ACC",
+        "name": "씨슬 리본 바이저 퍼플 MDW2CA609 LAV",
+        "price": "150,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006012/image/main/1000006012_main_021.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2023-06-10",
+        "like": 1420,
+        "sale": 630
+    },
+    {
+        "category": "ACC",
+        "name": "씨슬 리본 바이저 화이트 MDW2CA609 WHI",
+        "price": "150,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006011/image/main/1000006011_main_065.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2022-05-16",
+        "like": 853,
+        "sale": 622
+    },
+    {
+        "category": "ACC",
+        "name": "피케 베이직 바이저 베이지 MDW2CA616 ECR",
+        "price": "130,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006010/image/main/1000006010_main_050.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2022-04-04",
+        "like": 1802,
+        "sale": 351
+    },
+    {
+        "category": "ACC",
+        "name": "피케 베이직 바이저 오렌지 MDW2CA616 ORA",
+        "price": "130,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006008/image/main/1000006008_main_017.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2023-11-25",
+        "like": 929,
+        "sale": 38
+    },
+    {
+        "category": "ACC",
+        "name": "피케 베이직 바이저 블루 MDW2CA616 GBL",
+        "price": "130,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006009/image/main/1000006009_main_043.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2022-05-05",
+        "like": 1808,
+        "sale": 283
     },
     {
         "category": "ACC",
@@ -26,18 +266,24 @@
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005985/image/main/1000005985_main_090.jpg",
         "labels": [
             [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/6.png",
-                "공용"
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
             ],
             [
                 "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
                 "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
             ]
         ],
         "acc": true,
-        "date": "2022-07-23",
-        "like": 260,
-        "sale": 119
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2024-11-19",
+        "like": 1668,
+        "sale": 516
     },
     {
         "category": "ACC",
@@ -59,10 +305,11 @@
             ]
         ],
         "acc": true,
-        "subCategory": "스웨터",
-        "date": "2022-07-27",
-        "like": 389,
-        "sale": 141
+        "subCategory": "용품",
+        "thirdCategory": "기타",
+        "date": "2023-05-08",
+        "like": 833,
+        "sale": 581
     },
     {
         "category": "ACC",
@@ -84,10 +331,11 @@
             ]
         ],
         "acc": true,
-        "subCategory": "스웨터",
-        "date": "2022-05-23",
-        "like": 609,
-        "sale": 143
+        "subCategory": "용품",
+        "thirdCategory": "기타",
+        "date": "2023-08-30",
+        "like": 1561,
+        "sale": 454
     },
     {
         "category": "ACC",
@@ -109,33 +357,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-11-04",
-        "like": 1995,
-        "sale": 373
-    },
-    {
-        "category": "ACC",
-        "name": "스퀘어 미니 볼케이스 MCU3AZ873 MIN",
-        "price": "89,000",
-        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005609/image/main/register_main_093.jpg",
-        "labels": [
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/6.png",
-                "공용"
-            ],
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-                "두배적립"
-            ],
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
-                "신상품"
-            ]
-        ],
-        "acc": true,
-        "date": "2023-07-10",
-        "like": 1089,
-        "sale": 945
+        "subCategory": "가방",
+        "thirdCategory": "캐디백",
+        "date": "2022-07-20",
+        "like": 248,
+        "sale": 74
     },
     {
         "category": "ACC",
@@ -157,9 +383,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-10-15",
-        "like": 246,
-        "sale": 412
+        "subCategory": "가방",
+        "thirdCategory": "파우치",
+        "date": "2022-12-10",
+        "like": 1130,
+        "sale": 295
     },
     {
         "category": "ACC",
@@ -181,9 +409,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-10-12",
-        "like": 993,
-        "sale": 649
+        "subCategory": "가방",
+        "thirdCategory": "파우치",
+        "date": "2022-08-12",
+        "like": 1493,
+        "sale": 137
     },
     {
         "category": "ACC",
@@ -205,9 +435,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-03-14",
-        "like": 1938,
-        "sale": 411
+        "subCategory": "가방",
+        "thirdCategory": "파우치",
+        "date": "2023-03-29",
+        "like": 615,
+        "sale": 927
     },
     {
         "category": "ACC",
@@ -229,9 +461,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-12-14",
-        "like": 1085,
-        "sale": 496
+        "subCategory": "가방",
+        "thirdCategory": "파우치",
+        "date": "2024-09-20",
+        "like": 1134,
+        "sale": 604
     },
     {
         "category": "ACC",
@@ -253,9 +487,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-12-21",
-        "like": 1658,
-        "sale": 498
+        "subCategory": "가방",
+        "thirdCategory": "파우치",
+        "date": "2023-05-07",
+        "like": 666,
+        "sale": 20
     },
     {
         "category": "ACC",
@@ -277,9 +513,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-04-14",
-        "like": 161,
-        "sale": 677
+        "subCategory": "가방",
+        "thirdCategory": "파우치",
+        "date": "2023-06-08",
+        "like": 708,
+        "sale": 205
     },
     {
         "category": "ACC",
@@ -301,9 +539,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-09-06",
-        "like": 95,
-        "sale": 811
+        "subCategory": "가방",
+        "thirdCategory": "파우치",
+        "date": "2024-09-07",
+        "like": 1157,
+        "sale": 533
     },
     {
         "category": "ACC",
@@ -325,9 +565,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-06-27",
-        "like": 508,
-        "sale": 193
+        "subCategory": "가방",
+        "thirdCategory": "보스턴백",
+        "date": "2024-12-06",
+        "like": 1404,
+        "sale": 827
     },
     {
         "category": "ACC",
@@ -349,9 +591,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-12-28",
-        "like": 465,
-        "sale": 31
+        "subCategory": "가방",
+        "thirdCategory": "보스턴백",
+        "date": "2024-06-07",
+        "like": 1015,
+        "sale": 281
     },
     {
         "category": "ACC",
@@ -373,9 +617,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-03-03",
-        "like": 507,
-        "sale": 908
+        "subCategory": "가방",
+        "thirdCategory": "보스턴백",
+        "date": "2023-02-24",
+        "like": 1095,
+        "sale": 747
     },
     {
         "category": "ACC",
@@ -397,9 +643,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-09-14",
-        "like": 741,
-        "sale": 815
+        "subCategory": "가방",
+        "thirdCategory": "보스턴백",
+        "date": "2023-10-16",
+        "like": 310,
+        "sale": 891
     },
     {
         "category": "ACC",
@@ -421,9 +669,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-06-15",
-        "like": 655,
-        "sale": 14
+        "subCategory": "가방",
+        "thirdCategory": "보스턴백",
+        "date": "2024-01-28",
+        "like": 1601,
+        "sale": 132
     },
     {
         "category": "ACC",
@@ -445,9 +695,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-01-06",
-        "like": 1821,
-        "sale": 584
+        "subCategory": "가방",
+        "thirdCategory": "보스턴백",
+        "date": "2023-04-20",
+        "like": 1306,
+        "sale": 490
     },
     {
         "category": "ACC",
@@ -469,9 +721,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-12-09",
-        "like": 678,
-        "sale": 171
+        "subCategory": "가방",
+        "thirdCategory": "보스턴백",
+        "date": "2022-12-26",
+        "like": 569,
+        "sale": 243
     },
     {
         "category": "ACC",
@@ -493,9 +747,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-08-14",
-        "like": 1565,
-        "sale": 436
+        "subCategory": "가방",
+        "thirdCategory": "보스턴백",
+        "date": "2023-09-11",
+        "like": 761,
+        "sale": 887
     },
     {
         "category": "ACC",
@@ -517,9 +773,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-10-21",
-        "like": 1283,
-        "sale": 76
+        "subCategory": "가방",
+        "thirdCategory": "보스턴백",
+        "date": "2024-10-13",
+        "like": 1268,
+        "sale": 365
     },
     {
         "category": "ACC",
@@ -541,9 +799,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-09-05",
-        "like": 215,
-        "sale": 52
+        "subCategory": "가방",
+        "thirdCategory": "보스턴백",
+        "date": "2024-11-22",
+        "like": 1744,
+        "sale": 210
     },
     {
         "category": "ACC",
@@ -565,9 +825,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-04-14",
-        "like": 1097,
-        "sale": 631
+        "subCategory": "가방",
+        "thirdCategory": "보스턴백",
+        "date": "2023-08-24",
+        "like": 924,
+        "sale": 455
     },
     {
         "category": "ACC",
@@ -589,9 +851,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-01-03",
-        "like": 891,
-        "sale": 870
+        "subCategory": "가방",
+        "thirdCategory": "보스턴백",
+        "date": "2024-07-29",
+        "like": 172,
+        "sale": 335
     },
     {
         "category": "ACC",
@@ -613,33 +877,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-04-15",
-        "like": 689,
-        "sale": 313
-    },
-    {
-        "category": "ACC",
-        "name": "공용 타탄 체크 보스턴백 MCU3BG684 GRN",
-        "price": "590,000",
-        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003243/image/main/register_main_032.jpg",
-        "labels": [
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/6.png",
-                "공용"
-            ],
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-                "두배적립"
-            ],
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
-                "신상품"
-            ]
-        ],
-        "acc": true,
-        "date": "2023-12-14",
-        "like": 205,
-        "sale": 124
+        "subCategory": "가방",
+        "thirdCategory": "보스턴백",
+        "date": "2022-01-22",
+        "like": 1753,
+        "sale": 821
     },
     {
         "category": "ACC",
@@ -661,15 +903,17 @@
             ]
         ],
         "acc": true,
-        "date": "2022-02-19",
-        "like": 1293,
-        "sale": 382
+        "subCategory": "가방",
+        "thirdCategory": "보스턴백",
+        "date": "2022-07-23",
+        "like": 875,
+        "sale": 614
     },
     {
         "category": "ACC",
         "name": "여성 타탄 체크 토트백 MCW3BG687 BRO",
         "price": "390,000",
-        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003237/image/main/1000003237_main_06.jpg",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003237/image/main/1000003237_main_029.jpg",
         "labels": [
             [
                 "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
@@ -685,9 +929,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-06-15",
-        "like": 197,
-        "sale": 637
+        "subCategory": "가방",
+        "thirdCategory": "보스턴백",
+        "date": "2023-03-29",
+        "like": 285,
+        "sale": 31
     },
     {
         "category": "ACC",
@@ -709,39 +955,17 @@
             ]
         ],
         "acc": true,
-        "date": "2024-12-21",
-        "like": 1931,
-        "sale": 43
-    },
-    {
-        "category": "ACC",
-        "name": "여성 타탄 체크 토트백 MCW3BG687 IVY",
-        "price": "390,000",
-        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003235/image/main/register_main_032.jpg",
-        "labels": [
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-                "여성용"
-            ],
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-                "두배적립"
-            ],
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
-                "신상품"
-            ]
-        ],
-        "acc": true,
-        "date": "2024-02-24",
-        "like": 705,
-        "sale": 307
+        "subCategory": "가방",
+        "thirdCategory": "보스턴백",
+        "date": "2023-10-05",
+        "like": 545,
+        "sale": 552
     },
     {
         "category": "ACC",
         "name": "프릴 휠 캐디백 베이지 MDW1CB601 BEG",
         "price": "990,000",
-        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005909/image/main/1000005909_main_082.jpg",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005909/image/main/1000005909_main_038.jpg",
         "labels": [
             [
                 "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
@@ -757,9 +981,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-09-30",
-        "like": 56,
-        "sale": 113
+        "subCategory": "가방",
+        "thirdCategory": "캐디백",
+        "date": "2022-12-01",
+        "like": 520,
+        "sale": 844
     },
     {
         "category": "ACC",
@@ -781,9 +1007,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-05-24",
-        "like": 1741,
-        "sale": 777
+        "subCategory": "가방",
+        "thirdCategory": "캐디백",
+        "date": "2023-06-02",
+        "like": 664,
+        "sale": 322
     },
     {
         "category": "ACC",
@@ -805,9 +1033,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-05-05",
-        "like": 288,
-        "sale": 763
+        "subCategory": "가방",
+        "thirdCategory": "캐디백",
+        "date": "2023-04-01",
+        "like": 256,
+        "sale": 914
     },
     {
         "category": "ACC",
@@ -829,9 +1059,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-02-27",
-        "like": 1908,
-        "sale": 442
+        "subCategory": "가방",
+        "thirdCategory": "캐디백",
+        "date": "2024-02-24",
+        "like": 943,
+        "sale": 915
     },
     {
         "category": "ACC",
@@ -853,9 +1085,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-07-28",
-        "like": 1882,
-        "sale": 800
+        "subCategory": "가방",
+        "thirdCategory": "캐디백",
+        "date": "2023-04-30",
+        "like": 768,
+        "sale": 503
     },
     {
         "category": "ACC",
@@ -877,9 +1111,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-11-02",
-        "like": 1264,
-        "sale": 867
+        "subCategory": "가방",
+        "thirdCategory": "캐디백",
+        "date": "2023-07-12",
+        "like": 1150,
+        "sale": 858
     },
     {
         "category": "ACC",
@@ -901,9 +1137,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-11-14",
-        "like": 1061,
-        "sale": 73
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2022-04-27",
+        "like": 308,
+        "sale": 33
     },
     {
         "category": "ACC",
@@ -925,9 +1163,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-11-19",
-        "like": 746,
-        "sale": 995
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2023-02-28",
+        "like": 1013,
+        "sale": 439
     },
     {
         "category": "ACC",
@@ -949,9 +1189,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-07-13",
-        "like": 106,
-        "sale": 448
+        "subCategory": "용품",
+        "thirdCategory": "기타",
+        "date": "2024-04-29",
+        "like": 150,
+        "sale": 706
     },
     {
         "category": "ACC",
@@ -973,9 +1215,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-02-03",
-        "like": 424,
-        "sale": 160
+        "subCategory": "용품",
+        "thirdCategory": "기타",
+        "date": "2024-09-11",
+        "like": 1392,
+        "sale": 315
     },
     {
         "category": "ACC",
@@ -997,9 +1241,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-02-05",
-        "like": 1138,
-        "sale": 620
+        "subCategory": "용품",
+        "thirdCategory": "기타",
+        "date": "2024-12-23",
+        "like": 1781,
+        "sale": 681
     },
     {
         "category": "ACC",
@@ -1021,9 +1267,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-01-28",
-        "like": 944,
-        "sale": 875
+        "subCategory": "용품",
+        "thirdCategory": "기타",
+        "date": "2022-03-15",
+        "like": 177,
+        "sale": 507
     },
     {
         "category": "ACC",
@@ -1045,9 +1293,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-08-23",
-        "like": 567,
-        "sale": 138
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2022-04-17",
+        "like": 1804,
+        "sale": 814
     },
     {
         "category": "ACC",
@@ -1069,9 +1319,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-07-04",
-        "like": 345,
-        "sale": 603
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2022-01-04",
+        "like": 140,
+        "sale": 551
     },
     {
         "category": "ACC",
@@ -1093,9 +1345,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-02-19",
-        "like": 583,
-        "sale": 366
+        "subCategory": "용품",
+        "thirdCategory": "기타",
+        "date": "2023-04-07",
+        "like": 1526,
+        "sale": 739
     },
     {
         "category": "ACC",
@@ -1117,9 +1371,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-05-02",
-        "like": 1578,
-        "sale": 313
+        "subCategory": "용품",
+        "thirdCategory": "기타",
+        "date": "2024-11-06",
+        "like": 250,
+        "sale": 875
     },
     {
         "category": "ACC",
@@ -1141,9 +1397,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-02-10",
-        "like": 337,
-        "sale": 184
+        "subCategory": "용품",
+        "thirdCategory": "기타",
+        "date": "2023-06-06",
+        "like": 359,
+        "sale": 721
     },
     {
         "category": "ACC",
@@ -1165,9 +1423,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-11-22",
-        "like": 1614,
-        "sale": 864
+        "subCategory": "용품",
+        "thirdCategory": "기타",
+        "date": "2022-05-03",
+        "like": 110,
+        "sale": 642
     },
     {
         "category": "ACC",
@@ -1189,9 +1449,37 @@
             ]
         ],
         "acc": true,
-        "date": "2023-02-14",
-        "like": 1874,
-        "sale": 817
+        "subCategory": "용품",
+        "thirdCategory": "기타",
+        "date": "2024-11-03",
+        "like": 318,
+        "sale": 514
+    },
+    {
+        "category": "ACC",
+        "name": "양피 여성 양손장갑 MCW3GL711 WHI",
+        "price": "89,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003204/image/main/register_main_030.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "subCategory": "용품",
+        "thirdCategory": "장갑",
+        "date": "2022-02-24",
+        "like": 1942,
+        "sale": 688
     },
     {
         "category": "ACC",
@@ -1213,19 +1501,21 @@
             ]
         ],
         "acc": true,
-        "date": "2022-03-25",
-        "like": 1731,
-        "sale": 865
+        "subCategory": "용품",
+        "thirdCategory": "장갑",
+        "date": "2024-10-08",
+        "like": 1487,
+        "sale": 522
     },
     {
         "category": "ACC",
-        "name": "양피 여성 양손장갑 MCW3GL711 BRO",
-        "price": "89,000",
-        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003206/image/main/register_main_073.jpg",
+        "name": "한 손 양피 장갑 MCM3GL711 WHI",
+        "price": "59,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003207/image/main/register_main_029.jpg",
         "labels": [
             [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-                "여성용"
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
             ],
             [
                 "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
@@ -1237,9 +1527,37 @@
             ]
         ],
         "acc": true,
-        "date": "2022-09-24",
-        "like": 1653,
-        "sale": 871
+        "subCategory": "용품",
+        "thirdCategory": "장갑",
+        "date": "2022-10-30",
+        "like": 901,
+        "sale": 660
+    },
+    {
+        "category": "ACC",
+        "name": "한 손 양피 장갑 MCM3GL711 LBL",
+        "price": "59,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003208/image/main/1000003208_main_058.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "subCategory": "용품",
+        "thirdCategory": "장갑",
+        "date": "2022-06-24",
+        "like": 1129,
+        "sale": 448
     },
     {
         "category": "ACC",
@@ -1261,9 +1579,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-11-09",
-        "like": 375,
-        "sale": 626
+        "subCategory": "용품",
+        "thirdCategory": "장갑",
+        "date": "2023-11-17",
+        "like": 689,
+        "sale": 604
     },
     {
         "category": "ACC",
@@ -1285,9 +1605,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-11-13",
-        "like": 1875,
-        "sale": 940
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2024-06-23",
+        "like": 1636,
+        "sale": 682
     },
     {
         "category": "ACC",
@@ -1309,9 +1631,37 @@
             ]
         ],
         "acc": true,
-        "date": "2022-09-15",
-        "like": 1520,
-        "sale": 394
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2022-01-11",
+        "like": 272,
+        "sale": 832
+    },
+    {
+        "category": "ACC",
+        "name": "언발란스 스트라이프 니삭스 MCW3OC763 BLK",
+        "price": "59,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003200/image/main/register_main_060.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2024-08-26",
+        "like": 925,
+        "sale": 827
     },
     {
         "category": "ACC",
@@ -1333,9 +1683,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-09-26",
-        "like": 483,
-        "sale": 126
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2023-01-13",
+        "like": 88,
+        "sale": 789
     },
     {
         "category": "ACC",
@@ -1357,9 +1709,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-09-21",
-        "like": 918,
-        "sale": 177
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2022-06-02",
+        "like": 323,
+        "sale": 367
     },
     {
         "category": "ACC",
@@ -1381,9 +1735,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-03-22",
-        "like": 1245,
-        "sale": 180
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2024-05-23",
+        "like": 1661,
+        "sale": 199
     },
     {
         "category": "ACC",
@@ -1405,9 +1761,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-10-20",
-        "like": 1270,
-        "sale": 917
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2024-02-11",
+        "like": 359,
+        "sale": 293
     },
     {
         "category": "ACC",
@@ -1429,9 +1787,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-06-26",
-        "like": 1514,
-        "sale": 365
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2023-12-24",
+        "like": 1998,
+        "sale": 742
     },
     {
         "category": "ACC",
@@ -1453,57 +1813,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-05-04",
-        "like": 820,
-        "sale": 823
-    },
-    {
-        "category": "ACC",
-        "name": "씨슬 패턴 니삭스 그린 MDW2OC609 GRN",
-        "price": "59,000",
-        "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005934/register_main_082.jpg",
-        "labels": [
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-                "여성용"
-            ],
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-                "두배적립"
-            ],
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
-                "신상품"
-            ]
-        ],
-        "acc": true,
-        "date": "2022-06-04",
-        "like": 1740,
-        "sale": 658
-    },
-    {
-        "category": "ACC",
-        "name": "씨슬 패턴 니삭스 퍼플 MDW2OC609 LAV",
-        "price": "59,000",
-        "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005935/register_main_027.jpg",
-        "labels": [
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-                "여성용"
-            ],
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-                "두배적립"
-            ],
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
-                "신상품"
-            ]
-        ],
-        "acc": true,
-        "date": "2024-12-19",
-        "like": 442,
-        "sale": 267
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2023-08-21",
+        "like": 268,
+        "sale": 283
     },
     {
         "category": "ACC",
@@ -1525,9 +1839,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-03-28",
-        "like": 1207,
-        "sale": 346
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2023-11-16",
+        "like": 1860,
+        "sale": 549
     },
     {
         "category": "ACC",
@@ -1549,9 +1865,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-12-21",
-        "like": 1509,
-        "sale": 251
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2022-11-30",
+        "like": 864,
+        "sale": 394
     },
     {
         "category": "ACC",
@@ -1573,9 +1891,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-05-06",
-        "like": 1855,
-        "sale": 147
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2024-02-29",
+        "like": 1170,
+        "sale": 856
     },
     {
         "category": "ACC",
@@ -1597,9 +1917,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-01-09",
-        "like": 793,
-        "sale": 480
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2024-07-31",
+        "like": 1850,
+        "sale": 406
     },
     {
         "category": "ACC",
@@ -1621,9 +1943,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-11-06",
-        "like": 1570,
-        "sale": 657
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2022-06-09",
+        "like": 903,
+        "sale": 993
     },
     {
         "category": "ACC",
@@ -1645,9 +1969,11 @@
             ]
         ],
         "acc": true,
+        "subCategory": "용품",
+        "thirdCategory": "양말",
         "date": "2023-12-20",
-        "like": 1957,
-        "sale": 376
+        "like": 1086,
+        "sale": 307
     },
     {
         "category": "ACC",
@@ -1669,9 +1995,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-01-19",
-        "like": 1710,
-        "sale": 385
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2023-08-05",
+        "like": 1989,
+        "sale": 153
     },
     {
         "category": "ACC",
@@ -1693,9 +2021,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-11-16",
-        "like": 716,
-        "sale": 336
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2023-08-27",
+        "like": 503,
+        "sale": 886
     },
     {
         "category": "ACC",
@@ -1717,9 +2047,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-03-10",
-        "like": 437,
-        "sale": 246
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2022-07-02",
+        "like": 366,
+        "sale": 470
     },
     {
         "category": "ACC",
@@ -1741,9 +2073,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-08-20",
-        "like": 1344,
-        "sale": 822
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2024-05-16",
+        "like": 773,
+        "sale": 868
     },
     {
         "category": "ACC",
@@ -1765,9 +2099,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-04-21",
-        "like": 1369,
-        "sale": 355
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2023-09-19",
+        "like": 918,
+        "sale": 832
     },
     {
         "category": "ACC",
@@ -1789,9 +2125,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-11-11",
-        "like": 910,
-        "sale": 329
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2023-05-22",
+        "like": 1282,
+        "sale": 880
     },
     {
         "category": "ACC",
@@ -1813,9 +2151,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-11-28",
-        "like": 1947,
-        "sale": 36
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2024-08-13",
+        "like": 1180,
+        "sale": 228
     },
     {
         "category": "ACC",
@@ -1837,9 +2177,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-11-12",
-        "like": 1185,
-        "sale": 451
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2022-05-18",
+        "like": 533,
+        "sale": 616
     },
     {
         "category": "ACC",
@@ -1861,9 +2203,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-04-03",
-        "like": 743,
-        "sale": 712
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2023-02-20",
+        "like": 62,
+        "sale": 670
     },
     {
         "category": "ACC",
@@ -1885,9 +2229,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-12-13",
-        "like": 1130,
-        "sale": 969
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2022-08-15",
+        "like": 1727,
+        "sale": 998
     },
     {
         "category": "ACC",
@@ -1909,9 +2255,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-09-11",
-        "like": 476,
-        "sale": 505
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2023-03-10",
+        "like": 1158,
+        "sale": 752
     },
     {
         "category": "ACC",
@@ -1933,9 +2281,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-07-18",
-        "like": 129,
-        "sale": 260
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2024-05-03",
+        "like": 1274,
+        "sale": 890
     },
     {
         "category": "ACC",
@@ -1957,9 +2307,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-10-13",
-        "like": 1302,
-        "sale": 753
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2023-04-21",
+        "like": 185,
+        "sale": 756
     },
     {
         "category": "ACC",
@@ -1981,9 +2333,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-03-08",
-        "like": 1320,
-        "sale": 649
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2023-04-23",
+        "like": 1185,
+        "sale": 756
     },
     {
         "category": "ACC",
@@ -2005,9 +2359,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-04-19",
-        "like": 1903,
-        "sale": 352
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2024-01-13",
+        "like": 1074,
+        "sale": 462
     },
     {
         "category": "ACC",
@@ -2029,9 +2385,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-01-15",
-        "like": 446,
-        "sale": 950
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2023-01-22",
+        "like": 1406,
+        "sale": 881
     },
     {
         "category": "ACC",
@@ -2053,9 +2411,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-02-14",
-        "like": 813,
-        "sale": 439
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2022-02-21",
+        "like": 1629,
+        "sale": 493
     },
     {
         "category": "ACC",
@@ -2077,9 +2437,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-09-02",
-        "like": 1997,
-        "sale": 597
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2022-05-12",
+        "like": 1108,
+        "sale": 637
     },
     {
         "category": "ACC",
@@ -2101,9 +2463,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-03-13",
-        "like": 1950,
-        "sale": 565
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2022-09-15",
+        "like": 376,
+        "sale": 10
     },
     {
         "category": "ACC",
@@ -2125,9 +2489,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-06-11",
-        "like": 1724,
-        "sale": 616
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2024-01-26",
+        "like": 1569,
+        "sale": 474
     },
     {
         "category": "ACC",
@@ -2149,9 +2515,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-03-11",
-        "like": 1594,
-        "sale": 416
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2023-06-06",
+        "like": 1249,
+        "sale": 688
     },
     {
         "category": "ACC",
@@ -2173,9 +2541,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-05-12",
-        "like": 1069,
-        "sale": 616
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2022-12-11",
+        "like": 104,
+        "sale": 325
     },
     {
         "category": "ACC",
@@ -2197,9 +2567,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-05-26",
-        "like": 1496,
-        "sale": 293
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2024-06-10",
+        "like": 1396,
+        "sale": 193
     },
     {
         "category": "ACC",
@@ -2221,9 +2593,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-04-26",
-        "like": 742,
-        "sale": 337
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2023-05-23",
+        "like": 722,
+        "sale": 369
     },
     {
         "category": "ACC",
@@ -2245,9 +2619,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-01-21",
-        "like": 1026,
-        "sale": 532
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2022-03-14",
+        "like": 726,
+        "sale": 75
     },
     {
         "category": "ACC",
@@ -2269,9 +2645,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-02-23",
-        "like": 1287,
-        "sale": 934
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2022-06-19",
+        "like": 413,
+        "sale": 578
     },
     {
         "category": "ACC",
@@ -2293,9 +2671,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-05-25",
-        "like": 359,
-        "sale": 277
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2024-04-19",
+        "like": 475,
+        "sale": 965
     },
     {
         "category": "ACC",
@@ -2317,9 +2697,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-11-24",
-        "like": 1336,
-        "sale": 696
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2022-10-21",
+        "like": 281,
+        "sale": 353
     },
     {
         "category": "ACC",
@@ -2341,9 +2723,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-07-18",
-        "like": 1062,
-        "sale": 233
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2022-02-06",
+        "like": 670,
+        "sale": 405
     },
     {
         "category": "ACC",
@@ -2365,9 +2749,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-10-17",
-        "like": 1246,
-        "sale": 332
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2023-09-27",
+        "like": 694,
+        "sale": 913
     },
     {
         "category": "ACC",
@@ -2389,9 +2775,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-05-18",
-        "like": 1852,
-        "sale": 387
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2024-10-21",
+        "like": 1847,
+        "sale": 313
     },
     {
         "category": "ACC",
@@ -2413,33 +2801,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-05-04",
-        "like": 1509,
-        "sale": 352
-    },
-    {
-        "category": "ACC",
-        "name": "원포인트 엉겅퀴 중목 양말 네이비 MDW2OC604 NAV",
-        "price": "39,000",
-        "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/12/1000005955/register_main_05.jpg",
-        "labels": [
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-                "여성용"
-            ],
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-                "두배적립"
-            ],
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
-                "신상품"
-            ]
-        ],
-        "acc": true,
-        "date": "2022-11-21",
-        "like": 184,
-        "sale": 550
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2024-12-01",
+        "like": 1174,
+        "sale": 320
     },
     {
         "category": "ACC",
@@ -2461,9 +2827,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-06-16",
-        "like": 976,
-        "sale": 232
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2022-04-15",
+        "like": 1704,
+        "sale": 350
     },
     {
         "category": "ACC",
@@ -2485,9 +2853,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-06-22",
-        "like": 100,
-        "sale": 559
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2022-08-25",
+        "like": 962,
+        "sale": 39
     },
     {
         "category": "ACC",
@@ -2509,9 +2879,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-05-21",
-        "like": 1844,
-        "sale": 395
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2023-08-22",
+        "like": 858,
+        "sale": 194
     },
     {
         "category": "ACC",
@@ -2533,9 +2905,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-12-30",
-        "like": 995,
-        "sale": 132
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2022-06-11",
+        "like": 1702,
+        "sale": 944
     },
     {
         "category": "ACC",
@@ -2557,9 +2931,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-07-24",
-        "like": 473,
-        "sale": 162
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2024-01-04",
+        "like": 394,
+        "sale": 407
     },
     {
         "category": "ACC",
@@ -2581,9 +2957,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-09-18",
-        "like": 462,
-        "sale": 414
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2023-08-11",
+        "like": 923,
+        "sale": 931
     },
     {
         "category": "ACC",
@@ -2605,15 +2983,17 @@
             ]
         ],
         "acc": true,
-        "date": "2022-05-22",
-        "like": 1469,
-        "sale": 658
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2024-04-10",
+        "like": 267,
+        "sale": 746
     },
     {
         "category": "ACC",
         "name": "코듀로이 삼원 로고 포인트 바이저 MCW3CA643 IVY",
         "price": "130,000",
-        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003581/image/main/1000003581_main_08.jpg",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003581/image/main/1000003581_main_010.jpg",
         "labels": [
             [
                 "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
@@ -2629,9 +3009,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-04-10",
-        "like": 444,
-        "sale": 876
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2024-12-29",
+        "like": 1424,
+        "sale": 345
     },
     {
         "category": "ACC",
@@ -2653,15 +3035,17 @@
             ]
         ],
         "acc": true,
-        "date": "2023-08-17",
-        "like": 1936,
-        "sale": 540
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2024-08-27",
+        "like": 576,
+        "sale": 452
     },
     {
         "category": "ACC",
         "name": "삼원 포인트 체크 바이저 MCW3CA642 BEG",
         "price": "130,000",
-        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003583/image/main/1000003583_main_084.jpg",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003583/image/main/1000003583_main_049.jpg",
         "labels": [
             [
                 "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
@@ -2677,9 +3061,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-01-12",
-        "like": 424,
-        "sale": 466
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2022-12-17",
+        "like": 120,
+        "sale": 82
     },
     {
         "category": "ACC",
@@ -2701,9 +3087,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-01-12",
-        "like": 769,
-        "sale": 831
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2023-07-01",
+        "like": 1591,
+        "sale": 396
     },
     {
         "category": "ACC",
@@ -2725,9 +3113,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-04-30",
-        "like": 1473,
-        "sale": 335
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2024-07-11",
+        "like": 1220,
+        "sale": 521
     },
     {
         "category": "ACC",
@@ -2749,9 +3139,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-12-12",
-        "like": 848,
-        "sale": 324
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2024-04-18",
+        "like": 1462,
+        "sale": 388
     },
     {
         "category": "ACC",
@@ -2773,9 +3165,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-11-24",
-        "like": 629,
-        "sale": 225
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2023-11-03",
+        "like": 1403,
+        "sale": 204
     },
     {
         "category": "ACC",
@@ -2797,9 +3191,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-04-08",
-        "like": 1378,
-        "sale": 170
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2024-10-31",
+        "like": 330,
+        "sale": 813
     },
     {
         "category": "ACC",
@@ -2821,9 +3217,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-10-11",
-        "like": 1079,
-        "sale": 115
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2022-10-28",
+        "like": 272,
+        "sale": 46
     },
     {
         "category": "ACC",
@@ -2845,9 +3243,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-08-22",
-        "like": 294,
-        "sale": 415
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2023-10-11",
+        "like": 1779,
+        "sale": 517
     },
     {
         "category": "ACC",
@@ -2869,9 +3269,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-10-04",
-        "like": 482,
-        "sale": 376
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2023-09-22",
+        "like": 746,
+        "sale": 91
     },
     {
         "category": "ACC",
@@ -2893,15 +3295,17 @@
             ]
         ],
         "acc": true,
-        "date": "2023-07-12",
-        "like": 233,
-        "sale": 986
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2022-09-24",
+        "like": 443,
+        "sale": 310
     },
     {
         "category": "ACC",
         "name": "공용 해리스 트위드 헌팅캡 MCU3CA640 CAM",
         "price": "210,000 ",
-        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003651/image/main/1000003651_main_012.jpg",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003651/image/main/1000003651_main_080.jpg",
         "labels": [
             [
                 "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/6.png",
@@ -2917,9 +3321,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-11-05",
-        "like": 936,
-        "sale": 128
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2022-01-01",
+        "like": 1477,
+        "sale": 821
     },
     {
         "category": "ACC",
@@ -2941,9 +3347,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-07-04",
-        "like": 52,
-        "sale": 945
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2024-01-15",
+        "like": 1110,
+        "sale": 624
     },
     {
         "category": "ACC",
@@ -2965,9 +3373,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-09-05",
-        "like": 1023,
-        "sale": 893
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2023-04-03",
+        "like": 855,
+        "sale": 146
     },
     {
         "category": "ACC",
@@ -2989,9 +3399,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-10-13",
-        "like": 944,
-        "sale": 544
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2023-02-23",
+        "like": 1984,
+        "sale": 300
     },
     {
         "category": "ACC",
@@ -3013,9 +3425,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-12-06",
-        "like": 1184,
-        "sale": 968
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2022-08-06",
+        "like": 1812,
+        "sale": 211
     },
     {
         "category": "ACC",
@@ -3037,9 +3451,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-04-02",
-        "like": 1303,
-        "sale": 900
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2022-01-10",
+        "like": 599,
+        "sale": 958
     },
     {
         "category": "ACC",
@@ -3061,9 +3477,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-12-25",
-        "like": 738,
-        "sale": 357
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2024-04-22",
+        "like": 1217,
+        "sale": 781
     },
     {
         "category": "ACC",
@@ -3085,9 +3503,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-12-10",
-        "like": 1579,
-        "sale": 208
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2023-05-20",
+        "like": 565,
+        "sale": 462
     },
     {
         "category": "ACC",
@@ -3109,9 +3529,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-05-07",
-        "like": 307,
-        "sale": 76
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2024-09-30",
+        "like": 1429,
+        "sale": 227
     },
     {
         "category": "ACC",
@@ -3133,9 +3555,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-04-07",
-        "like": 1158,
-        "sale": 904
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2023-10-28",
+        "like": 1865,
+        "sale": 816
     },
     {
         "category": "ACC",
@@ -3157,33 +3581,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-10-14",
-        "like": 833,
-        "sale": 588
-    },
-    {
-        "category": "ACC",
-        "name": "메시 볼캡 화이트 MDM2CA613 WHI",
-        "price": "130,000",
-        "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/12/1000005951/register_main_087.jpg",
-        "labels": [
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
-                "남성용"
-            ],
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-                "두배적립"
-            ],
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
-                "신상품"
-            ]
-        ],
-        "acc": true,
-        "date": "2022-05-24",
-        "like": 1598,
-        "sale": 243
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2024-12-03",
+        "like": 813,
+        "sale": 111
     },
     {
         "category": "ACC",
@@ -3205,15 +3607,17 @@
             ]
         ],
         "acc": true,
-        "date": "2022-04-29",
-        "like": 277,
-        "sale": 501
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2022-02-26",
+        "like": 1669,
+        "sale": 21
     },
     {
         "category": "ACC",
         "name": "해리스 트위드 버킷햇 MCW3CA632 GRN",
         "price": "210,000 ",
-        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003549/image/main/1000003549_main_075.jpg",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003549/image/main/1000003549_main_090.jpg",
         "labels": [
             [
                 "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
@@ -3229,9 +3633,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-04-15",
-        "like": 858,
-        "sale": 145
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2024-11-15",
+        "like": 80,
+        "sale": 414
     },
     {
         "category": "ACC",
@@ -3253,9 +3659,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-05-05",
-        "like": 1041,
-        "sale": 113
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2023-07-07",
+        "like": 1964,
+        "sale": 362
     },
     {
         "category": "ACC",
@@ -3277,15 +3685,17 @@
             ]
         ],
         "acc": true,
-        "date": "2024-05-02",
-        "like": 1171,
-        "sale": 833
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2024-11-27",
+        "like": 354,
+        "sale": 641
     },
     {
         "category": "ACC",
         "name": "삼원 포인트 체크 패턴 버킷 햇 MCW3CA641 BEG",
         "price": "150,000",
-        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003585/image/main/1000003585_main_055.jpg",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003585/image/main/1000003585_main_09.jpg",
         "labels": [
             [
                 "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
@@ -3301,9 +3711,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-12-21",
-        "like": 621,
-        "sale": 603
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2022-03-02",
+        "like": 1838,
+        "sale": 815
     },
     {
         "category": "ACC",
@@ -3325,9 +3737,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-06-27",
-        "like": 1209,
-        "sale": 326
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2022-11-05",
+        "like": 709,
+        "sale": 780
     },
     {
         "category": "ACC",
@@ -3349,9 +3763,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-01-24",
-        "like": 493,
-        "sale": 588
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2023-02-24",
+        "like": 1429,
+        "sale": 367
     },
     {
         "category": "ACC",
@@ -3373,9 +3789,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-08-28",
-        "like": 1630,
-        "sale": 417
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2024-12-30",
+        "like": 1397,
+        "sale": 515
     },
     {
         "category": "ACC",
@@ -3397,57 +3815,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-01-24",
-        "like": 1106,
-        "sale": 860
-    },
-    {
-        "category": "ACC",
-        "name": "메시 뒷터널 햇 네이비 MDW1CA604 NVY",
-        "price": "190,000",
-        "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005943/register_main_038.jpg",
-        "labels": [
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-                "여성용"
-            ],
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-                "두배적립"
-            ],
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
-                "신상품"
-            ]
-        ],
-        "acc": true,
-        "date": "2024-06-12",
-        "like": 1007,
-        "sale": 163
-    },
-    {
-        "category": "ACC",
-        "name": "메시 뒷터널 햇 화이트 MDW1CA604 WHI",
-        "price": "190,000",
-        "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005944/register_main_057.jpg",
-        "labels": [
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-                "여성용"
-            ],
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-                "두배적립"
-            ],
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
-                "신상품"
-            ]
-        ],
-        "acc": true,
-        "date": "2022-09-17",
-        "like": 1999,
-        "sale": 47
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2022-06-04",
+        "like": 1633,
+        "sale": 31
     },
     {
         "category": "ACC",
@@ -3469,39 +3841,17 @@
             ]
         ],
         "acc": true,
-        "date": "2023-10-06",
-        "like": 741,
-        "sale": 263
-    },
-    {
-        "category": "ACC",
-        "name": "뒷트임 햇 네이비 MDW1CA605 NVY",
-        "price": "190,000",
-        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005946/image/main/1000005946_main_058.jpg",
-        "labels": [
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-                "여성용"
-            ],
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-                "두배적립"
-            ],
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
-                "신상품"
-            ]
-        ],
-        "acc": true,
-        "date": "2024-01-31",
-        "like": 1692,
-        "sale": 234
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2022-11-25",
+        "like": 614,
+        "sale": 935
     },
     {
         "category": "ACC",
         "name": "리버시블 버킷햇 베이지 MDM1CA604 BEG",
         "price": "170,000",
-        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005948/image/main/1000005948_main_034.jpg",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005948/image/main/1000005948_main_060.jpg",
         "labels": [
             [
                 "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
@@ -3517,9 +3867,11 @@
             ]
         ],
         "acc": true,
-        "date": "2022-10-04",
-        "like": 350,
-        "sale": 720
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2023-01-02",
+        "like": 281,
+        "sale": 974
     },
     {
         "category": "ACC",
@@ -3541,9 +3893,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-01-25",
-        "like": 259,
-        "sale": 791
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2022-12-30",
+        "like": 1159,
+        "sale": 671
     },
     {
         "category": "ACC",
@@ -3565,9 +3919,11 @@
             ]
         ],
         "acc": true,
-        "date": "2023-09-09",
-        "like": 1462,
-        "sale": 21
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2023-11-07",
+        "like": 1140,
+        "sale": 577
     },
     {
         "category": "ACC",
@@ -3589,33 +3945,11 @@
             ]
         ],
         "acc": true,
-        "date": "2024-02-28",
-        "like": 698,
-        "sale": 958
-    },
-    {
-        "category": "ACC",
-        "name": "프릴 레인 케이프 베이지 MDW1AZ604 BEG",
-        "price": "290,000",
-        "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005897/register_main_025.jpg",
-        "labels": [
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
-                "여성용"
-            ],
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
-                "두배적립"
-            ],
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
-                "신상품"
-            ]
-        ],
-        "acc": false,
-        "date": "2024-01-17",
-        "like": 557,
-        "sale": 800
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2023-11-07",
+        "like": 1988,
+        "sale": 67
     },
     {
         "category": "ACC",
@@ -3636,10 +3970,10 @@
                 "신상품"
             ]
         ],
-        "acc": false,
-        "date": "2022-01-14",
-        "like": 1623,
-        "sale": 878
+        "acc": true,
+        "date": "2023-07-10",
+        "like": 497,
+        "sale": 376
     },
     {
         "category": "ACC",
@@ -3660,10 +3994,10 @@
                 "신상품"
             ]
         ],
-        "acc": false,
-        "date": "2024-03-15",
-        "like": 76,
-        "sale": 185
+        "acc": true,
+        "date": "2024-04-06",
+        "like": 806,
+        "sale": 410
     },
     {
         "category": "ACC",
@@ -3684,10 +4018,244 @@
                 "신상품"
             ]
         ],
-        "acc": false,
-        "date": "2024-09-28",
-        "like": 1471,
-        "sale": 571
+        "acc": true,
+        "date": "2023-01-04",
+        "like": 1388,
+        "sale": 32
+    },
+    {
+        "category": "ACC",
+        "name": "투톤 스트라이프 중목 양말 화이트 MDM2OC610 WHI",
+        "price": "39,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006056/image/main/1000006056_main_046.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2022-03-25",
+        "like": 1912,
+        "sale": 319
+    },
+    {
+        "category": "ACC",
+        "name": "솔리드 발목 양말 화이트 MDM2OC604 WHI",
+        "price": "19,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006050/image/main/1000006050_main_062.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2023-03-19",
+        "like": 683,
+        "sale": 690
+    },
+    {
+        "category": "ACC",
+        "name": "솔리드 발목 양말 블랙 MDM2OC604 BLK",
+        "price": "19,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006049/image/main/1000006049_main_039.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2022-07-16",
+        "like": 437,
+        "sale": 825
+    },
+    {
+        "category": "ACC",
+        "name": "솔리드 발목 양말 그레이 MDM2OC604 GRE",
+        "price": "19,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006048/image/main/1000006048_main_098.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2024-08-16",
+        "like": 942,
+        "sale": 120
+    },
+    {
+        "category": "ACC",
+        "name": "씨슬 원포인트 단목 양말 그레이 MDM2OC603 GRE",
+        "price": "39,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006047/image/main/1000006047_main_080.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2022-06-19",
+        "like": 1950,
+        "sale": 592
+    },
+    {
+        "category": "ACC",
+        "name": "컬러배색 중목 양말 네이비 MDM2OC602 NAV",
+        "price": "39,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006046/image/main/1000006046_main_024.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "subCategory": "용품",
+        "thirdCategory": "양말",
+        "date": "2022-06-17",
+        "like": 342,
+        "sale": 372
+    },
+    {
+        "category": "ACC",
+        "name": "씨슬 원포인트 단목 양말 베이지 MDM2OC603 BEG",
+        "price": "39,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006045/image/main/1000006045_main_01.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2023-03-28",
+        "like": 1113,
+        "sale": 917
+    },
+    {
+        "category": "ACC",
+        "name": "챙 포인트 바이저 화이트 MDM2CA612 WHI",
+        "price": "130,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006018/image/main/1000006018_main_088.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2023-02-24",
+        "like": 993,
+        "sale": 305
+    },
+    {
+        "category": "ACC",
+        "name": "솔리드 바이저 베이지 MDM2CA607 ECR",
+        "price": "130,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006017/image/main/1000006017_main_027.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
+                "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
+            ]
+        ],
+        "acc": true,
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2023-08-19",
+        "like": 309,
+        "sale": 719
     },
     {
         "category": "ACC",
@@ -3696,18 +4264,24 @@
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005990/image/main/1000005990_main_025.jpg",
         "labels": [
             [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/6.png",
-                "공용"
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
             ],
             [
                 "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
                 "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
             ]
         ],
         "acc": true,
-        "date": "2023-03-30",
-        "like": 1970,
-        "sale": 262
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2024-09-22",
+        "like": 1359,
+        "sale": 985
     },
     {
         "category": "ACC",
@@ -3716,18 +4290,24 @@
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005989/image/main/1000005989_main_067.jpg",
         "labels": [
             [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/6.png",
-                "공용"
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
             ],
             [
                 "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
                 "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
             ]
         ],
         "acc": true,
-        "date": "2023-11-15",
-        "like": 1711,
-        "sale": 308
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2022-06-17",
+        "like": 1314,
+        "sale": 572
     },
     {
         "category": "ACC",
@@ -3736,18 +4316,24 @@
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005988/image/main/1000005988_main_039.jpg",
         "labels": [
             [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/6.png",
-                "공용"
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
             ],
             [
                 "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
                 "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
             ]
         ],
         "acc": true,
-        "date": "2024-05-28",
-        "like": 972,
-        "sale": 214
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2024-06-13",
+        "like": 419,
+        "sale": 606
     },
     {
         "category": "ACC",
@@ -3756,18 +4342,24 @@
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005987/image/main/1000005987_main_095.jpg",
         "labels": [
             [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/6.png",
-                "공용"
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
             ],
             [
                 "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
                 "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
             ]
         ],
         "acc": true,
-        "date": "2022-05-02",
-        "like": 681,
-        "sale": 459
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2024-02-27",
+        "like": 1077,
+        "sale": 55
     },
     {
         "category": "ACC",
@@ -3776,18 +4368,24 @@
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005984/image/main/1000005984_main_016.jpg",
         "labels": [
             [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/6.png",
-                "공용"
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/3.png",
+                "남성용"
             ],
             [
                 "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
                 "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
             ]
         ],
         "acc": true,
-        "date": "2024-05-30",
-        "like": 1959,
-        "sale": 658
+        "subCategory": "용품",
+        "thirdCategory": "장갑",
+        "date": "2023-01-24",
+        "like": 1121,
+        "sale": 383
     },
     {
         "category": "ACC",
@@ -3796,18 +4394,24 @@
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005983/image/main/1000005983_main_04.jpg",
         "labels": [
             [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/6.png",
-                "공용"
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
             ],
             [
                 "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
                 "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
             ]
         ],
         "acc": true,
-        "date": "2022-02-01",
-        "like": 334,
-        "sale": 657
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2024-07-09",
+        "like": 421,
+        "sale": 998
     },
     {
         "category": "ACC",
@@ -3816,18 +4420,24 @@
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005982/image/main/1000005982_main_078.jpg",
         "labels": [
             [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/6.png",
-                "공용"
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
             ],
             [
                 "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
                 "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
             ]
         ],
         "acc": true,
-        "date": "2023-06-05",
-        "like": 690,
-        "sale": 792
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2022-10-29",
+        "like": 1484,
+        "sale": 261
     },
     {
         "category": "ACC",
@@ -3836,18 +4446,24 @@
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005981/image/main/1000005981_main_038.jpg",
         "labels": [
             [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/6.png",
-                "공용"
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
             ],
             [
                 "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
                 "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
             ]
         ],
         "acc": true,
-        "date": "2024-11-10",
-        "like": 337,
-        "sale": 729
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2023-07-15",
+        "like": 1228,
+        "sale": 466
     },
     {
         "category": "ACC",
@@ -3856,18 +4472,24 @@
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005980/image/main/1000005980_main_087.jpg",
         "labels": [
             [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/6.png",
-                "공용"
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
             ],
             [
                 "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
                 "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
             ]
         ],
         "acc": true,
-        "date": "2024-03-31",
-        "like": 848,
-        "sale": 595
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2023-10-02",
+        "like": 1170,
+        "sale": 765
     },
     {
         "category": "ACC",
@@ -3876,18 +4498,24 @@
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005979/image/main/1000005979_main_016.jpg",
         "labels": [
             [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/6.png",
-                "공용"
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
             ],
             [
                 "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
                 "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
             ]
         ],
         "acc": true,
-        "date": "2022-09-26",
-        "like": 534,
-        "sale": 453
+        "subCategory": "용품",
+        "thirdCategory": "모자",
+        "date": "2024-10-25",
+        "like": 953,
+        "sale": 786
     },
     {
         "category": "ACC",
@@ -3896,18 +4524,24 @@
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005978/image/main/1000005978_main_068.jpg",
         "labels": [
             [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/6.png",
-                "공용"
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
             ],
             [
                 "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
                 "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
             ]
         ],
         "acc": true,
-        "date": "2022-10-01",
-        "like": 918,
-        "sale": 328
+        "subCategory": "용품",
+        "thirdCategory": "장갑",
+        "date": "2022-05-27",
+        "like": 1227,
+        "sale": 321
     },
     {
         "category": "ACC",
@@ -3916,18 +4550,24 @@
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005977/image/main/1000005977_main_039.jpg",
         "labels": [
             [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/6.png",
-                "공용"
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
             ],
             [
                 "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
                 "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
             ]
         ],
         "acc": true,
-        "date": "2022-09-25",
-        "like": 975,
-        "sale": 586
+        "subCategory": "용품",
+        "thirdCategory": "장갑",
+        "date": "2024-11-09",
+        "like": 1822,
+        "sale": 740
     },
     {
         "category": "ACC",
@@ -3936,18 +4576,24 @@
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005976/image/main/1000005976_main_027.jpg",
         "labels": [
             [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/6.png",
-                "공용"
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
             ],
             [
                 "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
                 "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
             ]
         ],
         "acc": true,
-        "date": "2022-02-20",
-        "like": 746,
-        "sale": 855
+        "subCategory": "용품",
+        "thirdCategory": "장갑",
+        "date": "2024-05-04",
+        "like": 1024,
+        "sale": 728
     },
     {
         "category": "ACC",
@@ -3956,18 +4602,24 @@
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005975/image/main/1000005975_main_098.jpg",
         "labels": [
             [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/6.png",
-                "공용"
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
             ],
             [
                 "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
                 "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
             ]
         ],
         "acc": true,
-        "date": "2022-05-17",
-        "like": 1229,
-        "sale": 346
+        "subCategory": "용품",
+        "thirdCategory": "장갑",
+        "date": "2022-03-09",
+        "like": 872,
+        "sale": 299
     },
     {
         "category": "ACC",
@@ -3976,18 +4628,24 @@
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005974/image/main/1000005974_main_01.jpg",
         "labels": [
             [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/6.png",
-                "공용"
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/4.png",
+                "여성용"
             ],
             [
                 "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/2.png",
                 "두배적립"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/1.png",
+                "신상품"
             ]
         ],
         "acc": true,
-        "date": "2023-03-08",
-        "like": 1481,
-        "sale": 125
+        "subCategory": "용품",
+        "thirdCategory": "장갑",
+        "date": "2022-07-18",
+        "like": 1583,
+        "sale": 221
     },
     {
         "category": "ACC",
@@ -4009,8 +4667,10 @@
             ]
         ],
         "acc": true,
-        "date": "2024-03-29",
-        "like": 503,
-        "sale": 750
+        "subCategory": "가방",
+        "thirdCategory": "보스턴백",
+        "date": "2022-04-18",
+        "like": 1987,
+        "sale": 832
     }
 ]

@@ -125,7 +125,8 @@ async function run() {
                 name.includes("마프") ||
                 name.includes("레깅스") ||
                 name.includes("팔토시") ||
-                name.includes("스카프")
+                name.includes("스카프") ||
+                name.includes("웨지 커버")
             ) {
                 item.acc = true;
             } else {
@@ -137,53 +138,56 @@ async function run() {
         // todo: subCategory 생성, category에 정확한 값 넣기
         for (const item of products) {
             const name = item.name.toLowerCase();
-            // if (name.includes("티셔츠")) {
-            //     item.subCategory = "티셔츠";
-            // } else if (name.includes("팬츠")) {
-            //     item.subCategory = "팬츠";
-            // }
+
             switch (true) {
-                case name.includes("티셔츠"):
-                case name.includes("블라우스"):
-                case name.includes("베이스레이어"):
-                case name.includes("상의"):
-                case name.includes("맨투맨"):
-                case name.includes("니트"):
-                    item.subCategory = "티셔츠";
+                case name.includes("캐디백"):
+                case name.includes("항공커버"):
+                    item.subCategory = "가방";
+                    item.thirdCategory = "캐디백";
                     break;
-                case name.includes("팬츠"):
-                case name.includes("하의"):
-                case name.includes("청바지"):
-                case name.includes("조거팬츠"):
-                case name.includes("조거 팬츠"):
-                    item.subCategory = "팬츠";
+                case name.includes("보스턴백"):
+                case name.includes("토트백"):
+                case name.includes("버킷백"):
+                    item.subCategory = "가방";
+                    item.thirdCategory = "보스턴백";
                     break;
-                case name.includes("스웨터"):
-                    item.subCategory = "스웨터";
+                case name.includes("파우치"):
+                case name.includes("힙색"):
+                case name.includes("케이스"):
+                case name.includes("볼파우치"):
+                    item.subCategory = "가방";
+                    item.thirdCategory = "파우치";
                     break;
-                case name.includes("숏팬츠"):
-                case name.includes("숏 팬츠"):
-                case name.includes("스커트 팬츠"):
-                case name.includes("반바지"):
-                case name.includes("버뮤다 팬츠"):
-                    item.subCategory = "숏팬츠";
+                case name.includes("바이져"):
+                case name.includes("바이저"):
+                case name.includes("포인트"):
+                case name.includes("볼캡"):
+                case name.includes("헌팅캡"):
+                case name.includes("캠프캡"):
+                case name.includes("버킷햇"):
+                case name.includes("버킷 햇"):
+                case name.includes("햇"):
+                case name.includes("햇"):
+                    item.subCategory = "용품";
+                    item.thirdCategory = "모자";
                     break;
-                case name.includes("스커트"):
-                case name.includes("큐롯"):
-                    item.subCategory = "스커트";
+                case name.includes("양말"):
+                case name.includes("니삭스"):
+                    item.subCategory = "용품";
+                    item.thirdCategory = "양말";
                     break;
-                case name.includes("원피스"):
-                case name.includes("점프슈트"):
-                    item.subCategory = "원피스";
+                case name.includes("장갑"):
+                case name.includes("양손장갑"):
+                    item.subCategory = "용품";
+                    item.thirdCategory = "장갑";
                     break;
-                case name.includes("자켓"):
-                case name.includes("점퍼"):
-                case name.includes("바람막이"):
-                case name.includes("윈드 브레이커"):
-                    item.subCategory = "아우터";
-                    break;
-                case name.includes("베스트"):
-                    item.subCategory = "베스트";
+                case name.includes("키링"):
+                case name.includes("슈즈"):
+                case name.includes("롱부츠"):
+                case name.includes("골프화"):
+                case name.includes("벨트"):
+                    item.subCategory = "용품";
+                    item.thirdCategory = "기타";
                     break;
             }
         }

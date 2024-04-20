@@ -3,7 +3,11 @@
     "version": "1.0.0",
     "description": "test for web scraping using puppeteer and cheerio",
     "scripts": {
-        "dev": "node src/product/women/mackayson-products-women-multiple.js"
+        "acc": "node src/product/acc/mackayson-products-acc-multiple.js",
+        "men": "node src/product/men/mackayson-products-men-multiple.js",
+        "new": "node src/product/new/mackayson-products-new-multiple.js",
+        "outlet": "node src/product/outlet/mackayson-products-outlet-multiple.js",
+        "women": "node src/product/women/mackayson-products-women-multiple.js"
     },
     "dependencies": {
         "cheerio": "^1.0.0-rc.12",
