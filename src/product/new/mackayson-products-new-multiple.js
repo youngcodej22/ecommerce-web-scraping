@@ -104,6 +104,7 @@ async function run() {
                     item.color = "네이비";
                     break;
                 case name.includes("베이지"):
+                case name.includes("라이트베이지"):
                     item.color = "베이지";
                     break;
                 case name.includes("핑크"):
@@ -288,11 +289,61 @@ async function run() {
             }
         }
 
+        // * 사이즈
+        for (const item of products) {
+            const name = item.name.toLowerCase();
+            const gender = item.gender.toLowerCase();
+
+            switch (true) {
+                case gender.includes("여성용") &&
+                    name.includes("티셔츠") &&
+                    name.includes("블라우스") &&
+                    name.includes("베이스레이어") &&
+                    name.includes("상의") &&
+                    name.includes("맨투맨") &&
+                    name.includes("스웨터") &&
+                    name.includes("니트"):
+                    item.size = ["080", "085", "090", "095"];
+                    break;
+                case gender.includes("여성용") &&
+                    name.includes("팬츠") &&
+                    name.includes("하의") &&
+                    name.includes("청바지") &&
+                    name.includes("조거팬츠") &&
+                    name.includes("조거 팬츠"):
+                    item.size = ["061", "064", "067", "070", "073"];
+                    break;
+                case gender.includes("여성용") &&
+                    name.includes("숏팬츠") &&
+                    name.includes("숏 팬츠") &&
+                    name.includes("스커트 팬츠") &&
+                    name.includes("반바지") &&
+                    name.includes("버뮤다 팬츠") &&
+                    name.includes("스커트") &&
+                    name.includes("큐롯"):
+                    item.size = ["061", "064", "067", "070", "073"];
+                    break;
+
+                case gender.includes("남성용"):
+                    item.size = "블랙";
+                    break;
+                case gender.includes("공용"):
+                    item.size = "네이비";
+                    break;
+                case gender.includes("unspecified"):
+                case gender.includes("라이트베이지"):
+                    item.size = "베이지";
+                    break;
+                default:
+                    item.size = "nonsize";
+            }
+        }
+
         // Combine the products from this page with the overall list
         allProducts = allProducts.concat(products);
     }
 
-    console.log("All products: ", allProducts);
+    // console.log("All products: ", allProducts);
 
     // * save data to JSON file
     // fs.writeFile(
