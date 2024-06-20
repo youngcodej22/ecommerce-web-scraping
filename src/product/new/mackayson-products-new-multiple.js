@@ -18,6 +18,8 @@ async function run() {
         "https://www.mckayson.com/goods/goods_list.php?page=10&cateCd=001",
         "https://www.mckayson.com/goods/goods_list.php?page=11&cateCd=001",
         "https://www.mckayson.com/goods/goods_list.php?page=12&cateCd=001",
+        "https://www.mckayson.com/goods/goods_list.php?page=13&cateCd=001",
+        "https://www.mckayson.com/goods/goods_list.php?page=14&cateCd=001",
     ];
 
     // * insert value for "date"
@@ -200,59 +202,7 @@ async function run() {
             }
         }
 
-        // todo: subCategory 생성, category에 정확한 값 넣기
-        // for (const item of products) {
-        //     const name = item.name.toLowerCase();
-        //     // if (name.includes("티셔츠")) {
-        //     //     item.subCategory = "티셔츠";
-        //     // } else if (name.includes("팬츠")) {
-        //     //     item.subCategory = "팬츠";
-        //     // }
-        //     switch (true) {
-        //         case name.includes("티셔츠"):
-        //         case name.includes("블라우스"):
-        //         case name.includes("베이스레이어"):
-        //         case name.includes("상의"):
-        //         case name.includes("맨투맨"):
-        //         case name.includes("니트"):
-        //             item.subCategory = "티셔츠";
-        //             break;
-        //         case name.includes("팬츠"):
-        //         case name.includes("하의"):
-        //         case name.includes("청바지"):
-        //         case name.includes("조거팬츠"):
-        //         case name.includes("조거 팬츠"):
-        //             item.subCategory = "팬츠";
-        //             break;
-        //         case name.includes("스웨터"):
-        //             item.subCategory = "스웨터";
-        //             break;
-        //         case name.includes("숏팬츠"):
-        //         case name.includes("숏 팬츠"):
-        //         case name.includes("스커트 팬츠"):
-        //         case name.includes("반바지"):
-        //         case name.includes("버뮤다 팬츠"):
-        //             item.subCategory = "숏팬츠";
-        //             break;
-        //         case name.includes("스커트"):
-        //         case name.includes("큐롯"):
-        //             item.subCategory = "스커트";
-        //             break;
-        //         case name.includes("원피스"):
-        //         case name.includes("점프슈트"):
-        //             item.subCategory = "원피스";
-        //             break;
-        //         case name.includes("자켓"):
-        //         case name.includes("점퍼"):
-        //         case name.includes("바람막이"):
-        //         case name.includes("윈드 브레이커"):
-        //             item.subCategory = "아우터";
-        //             break;
-        //         case name.includes("베스트"):
-        //             item.subCategory = "베스트";
-        //             break;
-        //     }
-        // }
+        // ! New는 첫번째 category 한개라서 subCategory 생성 안함
 
         // * 추가: date
         for (const item of products) {
@@ -271,13 +221,6 @@ async function run() {
 
         // todo: insert value for "filtering", 성별, 컬러, 사이즈, 계절, 가격
         // * 성별
-        // for (const item of products) {
-        //     const label = item.labels.map((label) => label[1]);
-
-        //     if (label[0] !== undefined) {
-        //         item.gender = label[0];
-        //     }
-        // }
         for (const item of products) {
             const genderLabel = item.labels.find((label) =>
                 ["여성용", "남성용", "공용"].includes(label[1])
@@ -289,54 +232,386 @@ async function run() {
             }
         }
 
-        // * 사이즈
+        // * 사이즈 , 계절
+        // for (const item of products) {
+        //     const name = item.name.toLowerCase();
+        //     const gender = item.gender.toLowerCase();
+
+        //     switch (true) {
+        //         // * 여성
+        //         case (gender.includes("여성용") && name.includes("티셔츠")) ||
+        //             (gender.includes("여성용") && name.includes("레이어")) ||
+        //             (gender.includes("여성용") &&
+        //                 name.includes("베이스레이어")) ||
+        //             (gender.includes("여성용") && name.includes("가디건")) ||
+        //             (gender.includes("여성용") &&
+        //                 name.includes("슬리브리스")) ||
+        //             (gender.includes("여성용") && name.includes("블라우스")) ||
+        //             (gender.includes("여성용") && name.includes("상의")) ||
+        //             (gender.includes("여성용") && name.includes("맨투맨")):
+        //             item.size = ["080", "085", "090", "095", "100"];
+        //             item.season = ["봄", "여름"];
+        //             break;
+        //         case (gender.includes("여성용") && name.includes("스웨터")) ||
+        //             (gender.includes("여성용") && name.includes("베스트")) ||
+        //             (gender.includes("여성용") && name.includes("니트")):
+        //             item.size = [
+        //                 "080",
+        //                 "085",
+        //                 "090",
+        //                 "095",
+        //                 "100",
+        //                 "105",
+        //                 "110",
+        //             ];
+        //             item.season = ["가을", "겨울"];
+        //             break;
+        //         case (gender.includes("여성용") && name.includes("원피스")) ||
+        //             (gender.includes("여성용") && name.includes("점프슈트")):
+        //             item.size = ["080", "085", "090", "095"];
+        //             item.season = ["봄", "여름"];
+        //             break;
+        //         case (gender.includes("여성용") && name.includes("팬츠")) ||
+        //             (gender.includes("여성용") && name.includes("레깅스")) ||
+        //             (gender.includes("여성용") && name.includes("하의")) ||
+        //             (gender.includes("여성용") && name.includes("청바지")) ||
+        //             (gender.includes("여성용") && name.includes("조거팬츠")) ||
+        //             (gender.includes("여성용") && name.includes("조거 팬츠")):
+        //             item.size = [
+        //                 "061",
+        //                 "064",
+        //                 "067",
+        //                 "070",
+        //                 "073",
+        //                 "076",
+        //                 "080",
+        //                 "084",
+        //                 "FRE",
+        //             ];
+        //             item.season = ["봄", "여름", "가을"];
+        //             break;
+        //         case (gender.includes("여성용") && name.includes("숏팬츠")) ||
+        //             (gender.includes("여성용") && name.includes("숏 팬츠")) ||
+        //             (gender.includes("여성용") && name.includes("쇼츠")) ||
+        //             (gender.includes("여성용") &&
+        //                 name.includes("스커트 팬츠")) ||
+        //             (gender.includes("여성용") && name.includes("반바지")) ||
+        //             (gender.includes("여성용") &&
+        //                 name.includes("버뮤다 팬츠")) ||
+        //             (gender.includes("여성용") && name.includes("스커트")) ||
+        //             (gender.includes("여성용") && name.includes("랩스커트")) ||
+        //             (gender.includes("여성용") && name.includes("큐롯")):
+        //             item.size = ["061", "064", "067", "070", "073", "076"];
+        //             item.season = ["봄", "여름"];
+        //             break;
+        //         case (gender.includes("여성용") && name.includes("자켓")) ||
+        //             (gender.includes("여성용") && name.includes("바람막이")) ||
+        //             (gender.includes("여성용") &&
+        //                 name.includes("윈드 브레이커")) ||
+        //             (gender.includes("여성용") && name.includes("점퍼")):
+        //             item.size = ["080", "085", "090", "095"];
+        //             item.season = ["가을", "겨울"];
+        //             break;
+        //         case (gender.includes("여성용") && name.includes("카트백")) ||
+        //             (gender.includes("여성용") && name.includes("보스턴백")) ||
+        //             (gender.includes("여성용") && name.includes("토트백")) ||
+        //             (gender.includes("여성용") && name.includes("슬링백")) ||
+        //             (gender.includes("여성용") && name.includes("파우치")) ||
+        //             (gender.includes("여성용") && name.includes("토시")) ||
+        //             (gender.includes("여성용") && name.includes("바이저")) ||
+        //             (gender.includes("여성용") && name.includes("햇")) ||
+        //             (gender.includes("여성용") && name.includes("버킷백")):
+        //             item.size = [
+        //                 "00L",
+        //                 "00M",
+        //                 "018",
+        //                 "019",
+        //                 "020",
+        //                 "021",
+        //                 "022",
+        //                 "023",
+        //                 "024",
+        //                 "FRE",
+        //                 "230",
+        //                 "240",
+        //                 "250",
+        //                 "260",
+        //                 "270",
+        //             ];
+        //             item.season = ["ALW"];
+        //             break;
+
+        //         // * 남성
+        //         case (gender.includes("남성용") && name.includes("티셔츠")) ||
+        //             (gender.includes("남성용") && name.includes("레이어")) ||
+        //             (gender.includes("남성용") &&
+        //                 name.includes("베이스레이어")) ||
+        //             (gender.includes("남성용") && name.includes("가디건")) ||
+        //             (gender.includes("남성용") &&
+        //                 name.includes("슬리브리스")) ||
+        //             (gender.includes("남성용") && name.includes("상의")) ||
+        //             (gender.includes("남성용") && name.includes("맨투맨")):
+        //             item.size = ["080", "085", "090", "095", "100"];
+        //             item.season = ["봄", "여름"];
+        //             break;
+        //         case (gender.includes("남성용") && name.includes("스웨터")) ||
+        //             (gender.includes("남성용") && name.includes("베스트")) ||
+        //             (gender.includes("남성용") && name.includes("니트")):
+        //             item.size = ["095", "100", "105", "110"];
+        //             item.season = ["가을", "겨울"];
+        //             break;
+        //         case (gender.includes("남성용") && name.includes("팬츠")) ||
+        //             (gender.includes("남성용") && name.includes("하의")) ||
+        //             (gender.includes("남성용") && name.includes("청바지")) ||
+        //             (gender.includes("남성용") && name.includes("본딩팬츠")) ||
+        //             (gender.includes("남성용") && name.includes("조거팬츠")) ||
+        //             (gender.includes("남성용") && name.includes("조거 팬츠")):
+        //             item.size = [
+        //                 "078",
+        //                 "080",
+        //                 "082",
+        //                 "084",
+        //                 "086",
+        //                 "088",
+        //                 "090",
+        //                 "092",
+        //             ];
+        //             item.season = ["봄", "여름", "가을"];
+        //             break;
+        //         case (gender.includes("남성용") && name.includes("숏팬츠")) ||
+        //             (gender.includes("남성용") && name.includes("숏 팬츠")) ||
+        //             (gender.includes("남성용") && name.includes("쇼츠")) ||
+        //             (gender.includes("남성용") &&
+        //                 name.includes("스커트 팬츠")) ||
+        //             (gender.includes("남성용") && name.includes("반바지")) ||
+        //             (gender.includes("남성용") &&
+        //                 name.includes("버뮤다 팬츠")) ||
+        //             (gender.includes("남성용") && name.includes("버뮤다 팬츠")):
+        //             item.size = [
+        //                 "078",
+        //                 "080",
+        //                 "082",
+        //                 "084",
+        //                 "086",
+        //                 "088",
+        //                 "090",
+        //             ];
+        //             item.season = ["봄", "여름"];
+        //             break;
+        //         case (gender.includes("남성용") && name.includes("자켓")) ||
+        //             (gender.includes("남성용") && name.includes("바람막이")) ||
+        //             (gender.includes("남성용") && name.includes("점프슈트")) ||
+        //             (gender.includes("남성용") &&
+        //                 name.includes("윈드 브레이커")) ||
+        //             (gender.includes("남성용") && name.includes("점퍼")):
+        //             item.size = ["095", "100", "105", "110", "115"];
+        //             item.season = ["가을", "겨울"];
+        //             break;
+        //         case (gender.includes("남성용") && name.includes("카트백")) ||
+        //             (gender.includes("남성용") && name.includes("보스턴백")) ||
+        //             (gender.includes("남성용") && name.includes("토트백")) ||
+        //             (gender.includes("남성용") && name.includes("슬링백")) ||
+        //             (gender.includes("남성용") && name.includes("파우치")) ||
+        //             (gender.includes("남성용") && name.includes("토시")) ||
+        //             (gender.includes("남성용") && name.includes("바이저")) ||
+        //             (gender.includes("남성용") && name.includes("햇")) ||
+        //             (gender.includes("남성용") && name.includes("버킷백")):
+        //             item.size = [
+        //                 "00L",
+        //                 "00M",
+        //                 "018",
+        //                 "019",
+        //                 "020",
+        //                 "021",
+        //                 "022",
+        //                 "023",
+        //                 "024",
+        //                 "FRE",
+        //                 "230",
+        //                 "240",
+        //                 "250",
+        //                 "260",
+        //                 "270",
+        //             ];
+        //             item.season = ["ALW"];
+        //             break;
+
+        //         // * 공용
+        //         case (gender.includes("공용") && name.includes("티셔츠")) ||
+        //             (gender.includes("공용") && name.includes("레이어")) ||
+        //             (gender.includes("공용") &&
+        //                 name.includes("베이스레이어")) ||
+        //             (gender.includes("공용") && name.includes("가디건")) ||
+        //             (gender.includes("공용") && name.includes("슬리브리스")) ||
+        //             (gender.includes("공용") && name.includes("블라우스")) ||
+        //             (gender.includes("공용") && name.includes("상의")) ||
+        //             (gender.includes("공용") && name.includes("맨투맨")):
+        //             item.size = ["080", "085", "090", "095", "100", "105"];
+        //             item.season = ["봄", "여름"];
+        //             break;
+        //         case (gender.includes("공용") && name.includes("스웨터")) ||
+        //             (gender.includes("공용") && name.includes("베스트")) ||
+        //             (gender.includes("공용") && name.includes("니트")):
+        //             item.size = ["080", "085", "090", "095", "100", "105"];
+        //             item.season = ["가을", "겨울"];
+        //             break;
+        //         case (gender.includes("공용") && name.includes("원피스")) ||
+        //             (gender.includes("공용") && name.includes("점프슈트")):
+        //             item.size = ["080", "085", "090", "095", "100", "105"];
+        //             item.season = ["봄", "여름"];
+        //             break;
+        //         case (gender.includes("공용") && name.includes("팬츠")) ||
+        //             (gender.includes("공용") && name.includes("레깅스")) ||
+        //             (gender.includes("공용") && name.includes("하의")) ||
+        //             (gender.includes("공용") && name.includes("청바지")) ||
+        //             (gender.includes("공용") && name.includes("조거팬츠")) ||
+        //             (gender.includes("공용") && name.includes("조거 팬츠")):
+        //             item.size = [
+        //                 "061",
+        //                 "064",
+        //                 "067",
+        //                 "070",
+        //                 "073",
+        //                 "076",
+        //                 "080",
+        //                 "084",
+        //                 "FRE",
+        //             ];
+        //             item.season = ["봄", "여름", "가을"];
+        //             break;
+        //         case (gender.includes("공용") && name.includes("숏팬츠")) ||
+        //             (gender.includes("공용") && name.includes("숏 팬츠")) ||
+        //             (gender.includes("공용") && name.includes("쇼츠")) ||
+        //             (gender.includes("공용") && name.includes("스커트 팬츠")) ||
+        //             (gender.includes("공용") && name.includes("반바지")) ||
+        //             (gender.includes("공용") && name.includes("버뮤다 팬츠")) ||
+        //             (gender.includes("공용") && name.includes("스커트")) ||
+        //             (gender.includes("공용") && name.includes("랩스커트")) ||
+        //             (gender.includes("공용") && name.includes("큐롯")):
+        //             item.size = ["061", "064", "067", "070", "073", "076"];
+        //             item.season = ["봄", "여름"];
+        //             break;
+        //         case (gender.includes("공용") && name.includes("자켓")) ||
+        //             (gender.includes("공용") &&
+        //                 name.includes("윈드 브레이커")) ||
+        //             (gender.includes("공용") && name.includes("점퍼")):
+        //             item.size = ["080", "085", "090", "095"];
+        //             item.season = ["가을", "겨울"];
+        //             break;
+        //         case (gender.includes("공용") && name.includes("볼케이스")) ||
+        //             (gender.includes("공용") && name.includes("키링")) ||
+        //             (gender.includes("공용") && name.includes("볼파우치")) ||
+        //             (gender.includes("공용") && name.includes("거리측정기")) ||
+        //             (gender.includes("공용") && name.includes("우산")) ||
+        //             (gender.includes("공용") && name.includes("볼마커")) ||
+        //             (gender.includes("공용") && name.includes("보스턴백")) ||
+        //             (gender.includes("공용") && name.includes("캐디백")) ||
+        //             (gender.includes("공용") && name.includes("헌팅캡")) ||
+        //             (gender.includes("공용") && name.includes("웨지 커버")) ||
+        //             (gender.includes("공용") && name.includes("볼캡")) ||
+        //             (gender.includes("공용") && name.includes("항공커버")):
+        //             item.size = ["FRE"];
+        //             item.season = ["ALW"];
+        //             break;
+        //         case gender.includes("공용") && name.includes("골프화"):
+        //             item.size = ["230", "240", "250", "260", "270", "280"];
+        //             item.season = ["ALW"];
+        //             break;
+        //         case gender.includes("unspecified"):
+        //             item.size = ["FRE"];
+        //             item.season = ["ALW"];
+        //             break;
+        //         default:
+        //             item.size = ["FRE"];
+        //             item.season = ["ALW"];
+        //     }
+        // }
+
+        function determineSizeAndSeason(gender, name) {
+            const config = {
+                여성용: {
+                    "티셔츠,레이어,베이스레이어,가디건,슬리브리스,블라우스,상의,맨투맨":
+                        {
+                            size: ["080", "085", "090", "095", "100"],
+                            season: ["봄", "여름"],
+                        },
+                    "스웨터,베스트,니트": {
+                        size: ["080", "085", "090", "095", "100", "105", "110"],
+                        season: ["가을", "겨울"],
+                    },
+                    "원피스,점프슈트": {
+                        size: ["080", "085", "090", "095"],
+                        season: ["봄", "여름"],
+                    },
+                    "팬츠,레깅스,하의,청바지,조거팬츠,조거 팬츠": {
+                        size: [
+                            "061",
+                            "064",
+                            "067",
+                            "070",
+                            "073",
+                            "076",
+                            "080",
+                            "084",
+                            "FRE",
+                        ],
+                        season: ["봄", "여름", "가을"],
+                    },
+                    "숏팬츠,숏 팬츠,쇼츠,스커트 팬츠,반바지,버뮤다 팬츠,스커트,랩스커트,큐롯":
+                        {
+                            size: ["061", "064", "067", "070", "073", "076"],
+                            season: ["봄", "여름"],
+                        },
+                    "자켓,바람막이,윈드 브레이커,점퍼": {
+                        size: ["080", "085", "090", "095"],
+                        season: ["가을", "겨울"],
+                    },
+                    "카트백,보스턴백,토트백,슬링백,파우치,토시,바이저,햇,버킷백":
+                        {
+                            size: [
+                                "00L",
+                                "00M",
+                                "018",
+                                "019",
+                                "020",
+                                "021",
+                                "022",
+                                "023",
+                                "024",
+                                "FRE",
+                                "230",
+                                "240",
+                                "250",
+                                "260",
+                                "270",
+                            ],
+                            season: ["ALW"],
+                        },
+                },
+                남성용: {
+                    // Similar structure as "여성용"
+                },
+                공용: {
+                    // Similar structure as "여성용"
+                },
+            };
+
+            for (const key in config[gender]) {
+                const items = key.split(",");
+                if (items.some((item) => name.includes(item))) {
+                    return config[gender][key];
+                }
+            }
+
+            return { size: ["FRE"], season: ["ALW"] }; // Default case
+        }
+
         for (const item of products) {
             const name = item.name.toLowerCase();
             const gender = item.gender.toLowerCase();
-
-            switch (true) {
-                case gender.includes("여성용") &&
-                    name.includes("티셔츠") &&
-                    name.includes("블라우스") &&
-                    name.includes("베이스레이어") &&
-                    name.includes("상의") &&
-                    name.includes("맨투맨") &&
-                    name.includes("스웨터") &&
-                    name.includes("니트"):
-                    item.size = ["080", "085", "090", "095"];
-                    break;
-                case gender.includes("여성용") &&
-                    name.includes("팬츠") &&
-                    name.includes("하의") &&
-                    name.includes("청바지") &&
-                    name.includes("조거팬츠") &&
-                    name.includes("조거 팬츠"):
-                    item.size = ["061", "064", "067", "070", "073"];
-                    break;
-                case gender.includes("여성용") &&
-                    name.includes("숏팬츠") &&
-                    name.includes("숏 팬츠") &&
-                    name.includes("스커트 팬츠") &&
-                    name.includes("반바지") &&
-                    name.includes("버뮤다 팬츠") &&
-                    name.includes("스커트") &&
-                    name.includes("큐롯"):
-                    item.size = ["061", "064", "067", "070", "073"];
-                    break;
-
-                case gender.includes("남성용"):
-                    item.size = "블랙";
-                    break;
-                case gender.includes("공용"):
-                    item.size = "네이비";
-                    break;
-                case gender.includes("unspecified"):
-                case gender.includes("라이트베이지"):
-                    item.size = "베이지";
-                    break;
-                default:
-                    item.size = "nonsize";
-            }
+            const { size, season } = determineSizeAndSeason(gender, name);
+            item.size = size;
+            item.season = season;
         }
 
         // Combine the products from this page with the overall list
@@ -346,14 +621,14 @@ async function run() {
     // console.log("All products: ", allProducts);
 
     // * save data to JSON file
-    // fs.writeFile(
-    //     "./data/products/products_new.json",
-    //     JSON.stringify(allProducts),
-    //     (err) => {
-    //         if (err) throw err;
-    //         console.log("File saved");
-    //     }
-    // );
+    fs.writeFile(
+        "./data/products/products_new.json",
+        JSON.stringify(allProducts),
+        (err) => {
+            if (err) throw err;
+            console.log("File saved");
+        }
+    );
 
     await browser.close();
 }
