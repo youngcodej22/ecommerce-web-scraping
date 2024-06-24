@@ -18,12 +18,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-02-02",
-        "like": 1880,
-        "sale": 239,
+        "date": "2023-01-21",
+        "like": 1757,
+        "sale": 721,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -44,12 +44,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-01-26",
-        "like": 1864,
-        "sale": 321,
+        "date": "2022-06-02",
+        "like": 1557,
+        "sale": 327,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -68,9 +68,9 @@
         ],
         "color": "무색",
         "acc": false,
-        "date": "2024-08-04",
-        "like": 1263,
-        "sale": 98,
+        "date": "2024-10-29",
+        "like": 465,
+        "sale": 347,
         "gender": "남성용",
         "size": ["FRE"],
         "season": ["ALW"]
@@ -92,9 +92,9 @@
         ],
         "color": "무색",
         "acc": false,
-        "date": "2022-10-30",
-        "like": 1830,
-        "sale": 173,
+        "date": "2023-02-18",
+        "like": 647,
+        "sale": 602,
         "gender": "남성용",
         "size": ["FRE"],
         "season": ["ALW"]
@@ -118,12 +118,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-10-12",
-        "like": 393,
-        "sale": 76,
+        "date": "2024-04-07",
+        "like": 1964,
+        "sale": 490,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -144,12 +144,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2023-07-18",
-        "like": 1513,
-        "sale": 25,
+        "date": "2024-09-16",
+        "like": 1177,
+        "sale": 849,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -170,12 +170,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2024-09-14",
-        "like": 763,
-        "sale": 573,
+        "date": "2022-08-28",
+        "like": 1941,
+        "sale": 528,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -196,12 +196,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2024-09-20",
-        "like": 1870,
-        "sale": 726,
+        "date": "2024-01-06",
+        "like": 1053,
+        "sale": 133,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -222,12 +222,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-04-10",
-        "like": 571,
-        "sale": 773,
+        "date": "2023-08-04",
+        "like": 188,
+        "sale": 230,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -248,12 +248,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-04-21",
-        "like": 1053,
-        "sale": 97,
+        "date": "2023-01-22",
+        "like": 437,
+        "sale": 293,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -274,12 +274,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-05-07",
-        "like": 998,
-        "sale": 474,
+        "date": "2022-07-20",
+        "like": 1338,
+        "sale": 614,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -300,12 +300,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-03-09",
-        "like": 785,
-        "sale": 791,
+        "date": "2022-12-21",
+        "like": 1214,
+        "sale": 219,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -330,12 +330,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2023-12-29",
-        "like": 1959,
-        "sale": 89,
+        "date": "2024-01-14",
+        "like": 140,
+        "sale": 291,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -360,12 +360,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-07-27",
-        "like": 968,
-        "sale": 919,
+        "date": "2024-08-15",
+        "like": 1199,
+        "sale": 113,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -390,12 +390,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2023-03-27",
-        "like": 95,
-        "sale": 122,
+        "date": "2023-12-27",
+        "like": 574,
+        "sale": 799,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -420,12 +420,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2023-12-15",
-        "like": 56,
-        "sale": 263,
+        "date": "2023-09-03",
+        "like": 236,
+        "sale": 995,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -450,12 +450,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-12-07",
-        "like": 1843,
-        "sale": 704,
+        "date": "2023-01-30",
+        "like": 1579,
+        "sale": 344,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -480,12 +480,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-11-18",
-        "like": 1510,
-        "sale": 386,
+        "date": "2023-02-04",
+        "like": 1486,
+        "sale": 97,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -510,12 +510,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2022-01-29",
-        "like": 1115,
-        "sale": 909,
+        "date": "2023-11-05",
+        "like": 1915,
+        "sale": 243,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -540,12 +540,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2023-02-14",
-        "like": 1542,
-        "sale": 263,
+        "date": "2023-02-04",
+        "like": 1381,
+        "sale": 672,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -570,12 +570,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2024-09-11",
-        "like": 151,
-        "sale": 291,
+        "date": "2022-09-01",
+        "like": 1709,
+        "sale": 390,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -600,12 +600,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2024-10-16",
-        "like": 1599,
-        "sale": 426,
+        "date": "2023-11-04",
+        "like": 1916,
+        "sale": 337,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -630,12 +630,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2023-04-19",
-        "like": 1330,
-        "sale": 903,
+        "date": "2024-01-27",
+        "like": 1210,
+        "sale": 861,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -660,12 +660,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-08-20",
-        "like": 576,
-        "sale": 635,
+        "date": "2023-01-14",
+        "like": 1616,
+        "sale": 230,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -690,12 +690,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2024-11-28",
-        "like": 854,
-        "sale": 781,
+        "date": "2024-12-23",
+        "like": 1990,
+        "sale": 452,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -720,12 +720,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2022-09-19",
-        "like": 837,
-        "sale": 875,
+        "date": "2023-08-31",
+        "like": 1571,
+        "sale": 412,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -750,12 +750,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2022-06-10",
-        "like": 425,
-        "sale": 874,
+        "date": "2024-06-02",
+        "like": 1461,
+        "sale": 627,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -780,12 +780,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2024-12-21",
-        "like": 1213,
-        "sale": 535,
+        "date": "2023-04-10",
+        "like": 912,
+        "sale": 237,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -810,12 +810,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2023-09-09",
-        "like": 1302,
-        "sale": 221,
+        "date": "2024-07-14",
+        "like": 1550,
+        "sale": 584,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -840,12 +840,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2023-07-17",
-        "like": 486,
-        "sale": 978,
+        "date": "2024-09-06",
+        "like": 291,
+        "sale": 486,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -868,9 +868,9 @@
         ],
         "color": "그레이",
         "acc": false,
-        "date": "2024-07-02",
-        "like": 304,
-        "sale": 303,
+        "date": "2023-06-29",
+        "like": 1816,
+        "sale": 456,
         "gender": "남성용",
         "size": ["FRE"],
         "season": ["ALW"]
@@ -896,9 +896,9 @@
         ],
         "color": "그린",
         "acc": false,
-        "date": "2024-12-02",
-        "like": 1386,
-        "sale": 393,
+        "date": "2023-02-06",
+        "like": 583,
+        "sale": 498,
         "gender": "남성용",
         "size": ["FRE"],
         "season": ["ALW"]
@@ -926,12 +926,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2024-10-26",
-        "like": 1248,
-        "sale": 580,
+        "date": "2024-11-12",
+        "like": 1411,
+        "sale": 961,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -956,12 +956,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-11-11",
-        "like": 1902,
-        "sale": 813,
+        "date": "2022-03-10",
+        "like": 1624,
+        "sale": 722,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -986,12 +986,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-04-20",
-        "like": 1459,
-        "sale": 150,
+        "date": "2024-10-04",
+        "like": 1761,
+        "sale": 109,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -1016,12 +1016,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2024-12-16",
-        "like": 364,
-        "sale": 982,
+        "date": "2022-04-15",
+        "like": 431,
+        "sale": 100,
         "gender": "공용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["080", "085", "090", "095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -1046,12 +1046,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-07-03",
-        "like": 1341,
-        "sale": 48,
+        "date": "2023-10-14",
+        "like": 1805,
+        "sale": 443,
         "gender": "공용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["080", "085", "090", "095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -1076,12 +1076,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2023-08-26",
-        "like": 1153,
-        "sale": 686,
+        "date": "2023-06-26",
+        "like": 1576,
+        "sale": 11,
         "gender": "공용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["080", "085", "090", "095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -1106,12 +1106,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2023-05-02",
-        "like": 1960,
-        "sale": 294,
+        "date": "2023-05-12",
+        "like": 778,
+        "sale": 990,
         "gender": "공용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["080", "085", "090", "095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -1136,12 +1136,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2023-08-11",
-        "like": 1086,
-        "sale": 33,
+        "date": "2022-03-20",
+        "like": 1369,
+        "sale": 162,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -1164,12 +1164,12 @@
         ],
         "color": "무색",
         "acc": false,
-        "date": "2023-03-09",
-        "like": 475,
-        "sale": 457,
+        "date": "2024-07-03",
+        "like": 796,
+        "sale": 344,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -1192,12 +1192,12 @@
         ],
         "color": "무색",
         "acc": false,
-        "date": "2023-01-08",
-        "like": 1486,
-        "sale": 248,
+        "date": "2023-09-08",
+        "like": 710,
+        "sale": 227,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -1222,12 +1222,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-04-21",
-        "like": 1788,
-        "sale": 261,
+        "date": "2024-10-24",
+        "like": 664,
+        "sale": 674,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -1252,12 +1252,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2023-05-10",
-        "like": 1944,
-        "sale": 346,
+        "date": "2023-05-25",
+        "like": 885,
+        "sale": 98,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -1278,12 +1278,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-07-07",
-        "like": 1519,
-        "sale": 63,
+        "date": "2023-06-09",
+        "like": 89,
+        "sale": 862,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -1304,12 +1304,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-05-16",
-        "like": 125,
-        "sale": 884,
+        "date": "2022-10-04",
+        "like": 1181,
+        "sale": 39,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -1330,12 +1330,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "점퍼",
-        "date": "2022-03-27",
-        "like": 1666,
-        "sale": 151,
+        "date": "2023-07-09",
+        "like": 1745,
+        "sale": 302,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -1356,12 +1356,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "점퍼",
-        "date": "2024-07-18",
-        "like": 1856,
-        "sale": 659,
+        "date": "2023-06-23",
+        "like": 1393,
+        "sale": 743,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -1386,12 +1386,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "점퍼",
-        "date": "2023-03-28",
-        "like": 1687,
-        "sale": 700,
+        "date": "2024-12-26",
+        "like": 126,
+        "sale": 409,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -1416,12 +1416,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "점퍼",
-        "date": "2024-07-05",
-        "like": 1914,
-        "sale": 247,
+        "date": "2024-11-14",
+        "like": 1889,
+        "sale": 476,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -1446,12 +1446,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "베스트",
-        "date": "2024-08-06",
-        "like": 1226,
-        "sale": 669,
+        "date": "2024-03-27",
+        "like": 929,
+        "sale": 749,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -1476,12 +1476,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "베스트",
-        "date": "2023-12-05",
-        "like": 1919,
-        "sale": 946,
+        "date": "2023-11-28",
+        "like": 1292,
+        "sale": 731,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -1506,12 +1506,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "베스트",
-        "date": "2022-07-09",
-        "like": 1293,
-        "sale": 910,
+        "date": "2022-04-01",
+        "like": 210,
+        "sale": 143,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -1536,12 +1536,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "베스트",
-        "date": "2023-06-21",
-        "like": 937,
-        "sale": 57,
+        "date": "2022-03-29",
+        "like": 723,
+        "sale": 694,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -1562,12 +1562,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2023-06-06",
-        "like": 1125,
-        "sale": 319,
+        "date": "2023-08-17",
+        "like": 1828,
+        "sale": 485,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -1588,12 +1588,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2023-10-09",
-        "like": 1853,
-        "sale": 428,
+        "date": "2022-05-10",
+        "like": 937,
+        "sale": 903,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -1618,12 +1618,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2024-03-17",
-        "like": 307,
-        "sale": 578,
+        "date": "2023-07-19",
+        "like": 1365,
+        "sale": 929,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -1648,12 +1648,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2024-10-16",
-        "like": 682,
-        "sale": 280,
+        "date": "2023-08-10",
+        "like": 352,
+        "sale": 433,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -1678,12 +1678,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2022-10-27",
-        "like": 392,
-        "sale": 691,
+        "date": "2022-03-09",
+        "like": 1338,
+        "sale": 76,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -1708,12 +1708,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2024-10-19",
-        "like": 1237,
-        "sale": 152,
+        "date": "2023-08-05",
+        "like": 827,
+        "sale": 190,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -1738,12 +1738,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2023-03-02",
-        "like": 1109,
-        "sale": 157,
+        "date": "2022-09-25",
+        "like": 1837,
+        "sale": 946,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -1768,12 +1768,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "숏팬츠",
-        "date": "2022-11-01",
-        "like": 1006,
-        "sale": 911,
+        "date": "2024-10-06",
+        "like": 181,
+        "sale": 507,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -1798,12 +1798,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2022-09-02",
-        "like": 807,
-        "sale": 439,
+        "date": "2022-09-30",
+        "like": 1948,
+        "sale": 914,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -1824,12 +1824,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2023-02-08",
-        "like": 1424,
-        "sale": 744,
+        "date": "2022-04-30",
+        "like": 484,
+        "sale": 530,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -1850,12 +1850,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2024-01-09",
-        "like": 429,
-        "sale": 85,
+        "date": "2024-04-08",
+        "like": 638,
+        "sale": 274,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -1880,12 +1880,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2023-10-27",
-        "like": 1593,
-        "sale": 609,
+        "date": "2022-11-10",
+        "like": 78,
+        "sale": 586,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -1910,12 +1910,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2022-06-08",
-        "like": 1522,
-        "sale": 228,
+        "date": "2023-11-15",
+        "like": 1650,
+        "sale": 669,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -1940,12 +1940,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2023-03-22",
-        "like": 322,
-        "sale": 424,
+        "date": "2022-05-17",
+        "like": 1090,
+        "sale": 65,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -1970,12 +1970,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2022-01-15",
-        "like": 565,
-        "sale": 952,
+        "date": "2023-03-02",
+        "like": 1274,
+        "sale": 336,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -2000,12 +2000,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2023-12-03",
-        "like": 1348,
-        "sale": 600,
+        "date": "2024-01-21",
+        "like": 656,
+        "sale": 970,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -2030,12 +2030,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2023-10-04",
-        "like": 192,
-        "sale": 868,
+        "date": "2024-01-23",
+        "like": 1642,
+        "sale": 567,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -2060,12 +2060,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2023-01-13",
-        "like": 426,
-        "sale": 367,
+        "date": "2024-12-16",
+        "like": 294,
+        "sale": 320,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -2090,12 +2090,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2024-03-25",
-        "like": 679,
-        "sale": 269,
+        "date": "2022-11-30",
+        "like": 1820,
+        "sale": 505,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -2120,12 +2120,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2022-10-03",
-        "like": 696,
-        "sale": 46,
+        "date": "2024-02-11",
+        "like": 1508,
+        "sale": 449,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -2150,12 +2150,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2024-12-28",
-        "like": 593,
-        "sale": 585,
+        "date": "2023-06-08",
+        "like": 643,
+        "sale": 195,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -2180,12 +2180,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2023-02-19",
-        "like": 701,
-        "sale": 599,
+        "date": "2024-08-21",
+        "like": 1824,
+        "sale": 784,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -2210,12 +2210,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2024-01-19",
-        "like": 528,
-        "sale": 722,
+        "date": "2024-04-19",
+        "like": 749,
+        "sale": 247,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -2240,12 +2240,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2024-11-05",
-        "like": 1385,
-        "sale": 61,
+        "date": "2023-05-19",
+        "like": 1922,
+        "sale": 750,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -2270,12 +2270,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2024-10-24",
-        "like": 1669,
-        "sale": 738,
+        "date": "2023-02-26",
+        "like": 2000,
+        "sale": 264,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -2300,12 +2300,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2023-07-13",
-        "like": 616,
-        "sale": 131,
+        "date": "2023-09-28",
+        "like": 1814,
+        "sale": 148,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -2330,12 +2330,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2022-06-30",
-        "like": 886,
-        "sale": 982,
+        "date": "2022-06-26",
+        "like": 1431,
+        "sale": 857,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -2360,12 +2360,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2024-02-03",
-        "like": 373,
-        "sale": 829,
+        "date": "2023-11-25",
+        "like": 1513,
+        "sale": 339,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -2390,12 +2390,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2023-11-24",
-        "like": 1402,
-        "sale": 852,
+        "date": "2024-10-10",
+        "like": 1410,
+        "sale": 461,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -2420,12 +2420,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2023-06-24",
-        "like": 210,
-        "sale": 46,
+        "date": "2023-09-12",
+        "like": 528,
+        "sale": 467,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -2450,12 +2450,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-10-22",
-        "like": 412,
-        "sale": 761,
+        "date": "2022-08-04",
+        "like": 1635,
+        "sale": 824,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -2480,12 +2480,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "점퍼",
-        "date": "2023-01-02",
-        "like": 724,
-        "sale": 988,
+        "date": "2023-02-16",
+        "like": 995,
+        "sale": 250,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -2510,12 +2510,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2024-09-11",
-        "like": 1802,
-        "sale": 228,
+        "date": "2024-04-21",
+        "like": 961,
+        "sale": 542,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -2540,12 +2540,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "점퍼",
-        "date": "2023-09-03",
-        "like": 1058,
-        "sale": 184,
+        "date": "2024-06-14",
+        "like": 704,
+        "sale": 527,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -2570,12 +2570,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2023-04-03",
-        "like": 759,
-        "sale": 420,
+        "date": "2022-03-02",
+        "like": 1199,
+        "sale": 177,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -2600,12 +2600,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2022-07-29",
-        "like": 1297,
-        "sale": 258,
+        "date": "2023-03-08",
+        "like": 1405,
+        "sale": 959,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -2630,12 +2630,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "점퍼",
-        "date": "2022-02-17",
-        "like": 1027,
-        "sale": 502,
+        "date": "2024-02-22",
+        "like": 459,
+        "sale": 864,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -2660,12 +2660,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "점퍼",
-        "date": "2022-07-21",
-        "like": 1624,
-        "sale": 752,
+        "date": "2024-05-05",
+        "like": 1735,
+        "sale": 220,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -2690,12 +2690,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2022-11-25",
-        "like": 1483,
-        "sale": 398,
+        "date": "2024-03-26",
+        "like": 1898,
+        "sale": 26,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -2720,12 +2720,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2022-07-15",
-        "like": 1716,
-        "sale": 947,
+        "date": "2024-05-28",
+        "like": 985,
+        "sale": 758,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -2750,12 +2750,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2024-03-05",
-        "like": 1532,
-        "sale": 534,
+        "date": "2024-06-04",
+        "like": 200,
+        "sale": 68,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -2780,12 +2780,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2023-06-27",
-        "like": 1626,
-        "sale": 211,
+        "date": "2024-10-25",
+        "like": 439,
+        "sale": 443,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -2810,12 +2810,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2022-01-10",
-        "like": 1793,
-        "sale": 484,
+        "date": "2023-05-04",
+        "like": 630,
+        "sale": 594,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -2840,12 +2840,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2024-03-15",
-        "like": 946,
-        "sale": 264,
+        "date": "2024-10-30",
+        "like": 1776,
+        "sale": 988,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -2870,12 +2870,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2024-04-11",
-        "like": 85,
-        "sale": 33,
+        "date": "2023-12-23",
+        "like": 1171,
+        "sale": 715,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -2900,12 +2900,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2023-07-25",
-        "like": 1932,
-        "sale": 193,
+        "date": "2022-05-17",
+        "like": 1145,
+        "sale": 90,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -2930,12 +2930,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2024-03-25",
-        "like": 1826,
-        "sale": 131,
+        "date": "2024-12-02",
+        "like": 1489,
+        "sale": 550,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -2960,12 +2960,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-06-16",
-        "like": 1999,
-        "sale": 686,
+        "date": "2023-05-23",
+        "like": 168,
+        "sale": 120,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -2990,12 +2990,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2023-05-31",
-        "like": 529,
-        "sale": 934,
+        "date": "2024-03-21",
+        "like": 1425,
+        "sale": 922,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -3020,12 +3020,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2023-12-08",
-        "like": 1399,
-        "sale": 765,
+        "date": "2023-11-17",
+        "like": 1206,
+        "sale": 307,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -3050,12 +3050,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2022-05-19",
-        "like": 1631,
-        "sale": 533,
+        "date": "2022-09-20",
+        "like": 1862,
+        "sale": 926,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -3080,12 +3080,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2024-12-29",
-        "like": 818,
-        "sale": 542,
+        "date": "2024-09-07",
+        "like": 1415,
+        "sale": 281,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -3110,12 +3110,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "점퍼",
-        "date": "2023-12-05",
-        "like": 1597,
-        "sale": 792,
+        "date": "2023-03-22",
+        "like": 944,
+        "sale": 803,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -3140,12 +3140,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2024-02-26",
-        "like": 1090,
-        "sale": 655,
+        "date": "2023-12-17",
+        "like": 981,
+        "sale": 846,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -3170,12 +3170,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-03-19",
-        "like": 535,
-        "sale": 752,
+        "date": "2024-05-12",
+        "like": 939,
+        "sale": 897,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -3200,12 +3200,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2024-04-16",
-        "like": 1409,
-        "sale": 504,
+        "date": "2023-08-03",
+        "like": 1669,
+        "sale": 285,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -3230,12 +3230,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "점퍼",
-        "date": "2022-06-22",
-        "like": 805,
-        "sale": 287,
+        "date": "2024-07-14",
+        "like": 1732,
+        "sale": 314,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -3260,12 +3260,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "점퍼",
-        "date": "2024-03-26",
-        "like": 1030,
-        "sale": 39,
+        "date": "2023-03-31",
+        "like": 1210,
+        "sale": 967,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -3290,12 +3290,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-03-31",
-        "like": 75,
-        "sale": 363,
+        "date": "2024-12-27",
+        "like": 291,
+        "sale": 486,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -3320,12 +3320,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "점퍼",
-        "date": "2022-09-29",
-        "like": 1103,
-        "sale": 441,
+        "date": "2023-02-21",
+        "like": 1930,
+        "sale": 594,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -3350,12 +3350,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-09-17",
-        "like": 1437,
-        "sale": 747,
+        "date": "2022-05-06",
+        "like": 1794,
+        "sale": 897,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -3380,9 +3380,9 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "점퍼",
-        "date": "2022-07-15",
-        "like": 516,
-        "sale": 428,
+        "date": "2022-02-19",
+        "like": 1981,
+        "sale": 694,
         "gender": "남성용",
         "size": ["FRE"],
         "season": ["ALW"]
@@ -3410,12 +3410,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-11-12",
-        "like": 1155,
-        "sale": 488,
+        "date": "2022-02-14",
+        "like": 930,
+        "sale": 18,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -3440,9 +3440,9 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "점퍼",
-        "date": "2022-09-13",
-        "like": 848,
-        "sale": 730,
+        "date": "2022-02-10",
+        "like": 1266,
+        "sale": 52,
         "gender": "남성용",
         "size": ["FRE"],
         "season": ["ALW"]
@@ -3470,12 +3470,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2024-12-13",
-        "like": 1610,
-        "sale": 347,
+        "date": "2022-05-27",
+        "like": 1689,
+        "sale": 681,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -3500,12 +3500,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2022-07-01",
-        "like": 739,
-        "sale": 431,
+        "date": "2023-04-10",
+        "like": 1449,
+        "sale": 270,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -3530,12 +3530,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-03-27",
-        "like": 329,
-        "sale": 359,
+        "date": "2023-09-24",
+        "like": 117,
+        "sale": 578,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -3560,12 +3560,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2024-11-01",
-        "like": 279,
-        "sale": 392,
+        "date": "2024-01-30",
+        "like": 273,
+        "sale": 157,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -3590,12 +3590,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "베스트",
-        "date": "2023-07-28",
-        "like": 1533,
-        "sale": 650,
+        "date": "2023-06-08",
+        "like": 1815,
+        "sale": 117,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -3620,12 +3620,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "베스트",
-        "date": "2024-08-09",
-        "like": 126,
-        "sale": 727,
+        "date": "2022-04-12",
+        "like": 796,
+        "sale": 554,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -3650,12 +3650,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "베스트",
-        "date": "2023-11-10",
-        "like": 796,
-        "sale": 557,
+        "date": "2024-07-19",
+        "like": 811,
+        "sale": 430,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -3680,12 +3680,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2023-01-20",
-        "like": 916,
-        "sale": 695,
+        "date": "2023-03-20",
+        "like": 1962,
+        "sale": 27,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -3710,12 +3710,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2022-06-08",
-        "like": 1404,
-        "sale": 655,
+        "date": "2024-07-02",
+        "like": 1096,
+        "sale": 276,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -3740,12 +3740,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-07-03",
-        "like": 1992,
-        "sale": 118,
+        "date": "2023-11-26",
+        "like": 331,
+        "sale": 27,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -3770,12 +3770,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-11-21",
-        "like": 490,
-        "sale": 244,
+        "date": "2022-02-09",
+        "like": 1496,
+        "sale": 269,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -3800,12 +3800,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2024-08-06",
-        "like": 1717,
-        "sale": 404,
+        "date": "2022-05-11",
+        "like": 1073,
+        "sale": 887,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -3830,12 +3830,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2022-12-19",
-        "like": 115,
-        "sale": 243,
+        "date": "2024-01-12",
+        "like": 551,
+        "sale": 673,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -3860,12 +3860,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2023-12-01",
-        "like": 497,
-        "sale": 404,
+        "date": "2023-07-20",
+        "like": 86,
+        "sale": 239,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -3890,12 +3890,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2023-04-26",
-        "like": 1089,
-        "sale": 650,
+        "date": "2022-02-07",
+        "like": 1472,
+        "sale": 825,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -3920,12 +3920,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2022-06-03",
-        "like": 566,
-        "sale": 638,
+        "date": "2023-08-06",
+        "like": 663,
+        "sale": 281,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -3950,12 +3950,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2022-04-23",
-        "like": 1165,
-        "sale": 193,
+        "date": "2022-06-19",
+        "like": 1803,
+        "sale": 461,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -3980,12 +3980,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2024-05-06",
-        "like": 1986,
-        "sale": 661,
+        "date": "2023-01-13",
+        "like": 597,
+        "sale": 546,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -4010,12 +4010,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2024-05-16",
-        "like": 1546,
-        "sale": 338,
+        "date": "2022-01-10",
+        "like": 841,
+        "sale": 661,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -4040,12 +4040,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2023-11-16",
-        "like": 1043,
-        "sale": 410,
+        "date": "2023-02-02",
+        "like": 976,
+        "sale": 407,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -4071,11 +4071,11 @@
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
         "date": "2022-04-24",
-        "like": 798,
-        "sale": 118,
+        "like": 1317,
+        "sale": 308,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -4100,12 +4100,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2024-08-24",
-        "like": 747,
-        "sale": 281,
+        "date": "2022-09-14",
+        "like": 1882,
+        "sale": 550,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -4130,12 +4130,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2023-04-01",
-        "like": 876,
-        "sale": 783,
+        "date": "2022-05-15",
+        "like": 1186,
+        "sale": 993,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -4160,12 +4160,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-06-27",
-        "like": 1783,
-        "sale": 806,
+        "date": "2024-07-27",
+        "like": 1080,
+        "sale": 40,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -4190,12 +4190,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2024-05-29",
-        "like": 1029,
-        "sale": 694,
+        "date": "2022-03-23",
+        "like": 384,
+        "sale": 858,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -4220,12 +4220,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2024-07-15",
-        "like": 1519,
-        "sale": 283,
+        "date": "2024-03-27",
+        "like": 1018,
+        "sale": 695,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -4250,12 +4250,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2023-01-03",
-        "like": 81,
-        "sale": 35,
+        "date": "2023-06-30",
+        "like": 312,
+        "sale": 855,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -4280,12 +4280,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2023-04-21",
-        "like": 1044,
-        "sale": 713,
+        "date": "2024-01-07",
+        "like": 1401,
+        "sale": 262,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -4310,12 +4310,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2024-06-13",
-        "like": 1988,
-        "sale": 73,
+        "date": "2024-04-22",
+        "like": 366,
+        "sale": 345,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -4340,12 +4340,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2023-04-20",
-        "like": 1647,
-        "sale": 542,
+        "date": "2023-08-11",
+        "like": 204,
+        "sale": 11,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -4370,12 +4370,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "점퍼",
-        "date": "2022-01-29",
-        "like": 862,
-        "sale": 679,
+        "date": "2024-05-18",
+        "like": 1883,
+        "sale": 742,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -4400,12 +4400,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "점퍼",
-        "date": "2022-08-01",
-        "like": 444,
-        "sale": 774,
+        "date": "2024-03-24",
+        "like": 950,
+        "sale": 255,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -4430,12 +4430,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "점퍼",
-        "date": "2023-02-06",
-        "like": 1134,
-        "sale": 690,
+        "date": "2024-06-04",
+        "like": 890,
+        "sale": 871,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -4460,12 +4460,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2022-11-23",
-        "like": 1864,
-        "sale": 699,
+        "date": "2023-10-07",
+        "like": 264,
+        "sale": 583,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -4490,17 +4490,17 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2024-04-08",
-        "like": 94,
-        "sale": 252,
+        "date": "2023-09-17",
+        "like": 1502,
+        "sale": 416,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
         "name": "하이브리드 경량 다운 베스트 MCM4DV734 IVY",
-        "price": "450,000",
+        "price": "270,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003673/image/main/register_main_074.jpg",
         "labels": [
             [
@@ -4520,17 +4520,17 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "베스트",
-        "date": "2023-05-09",
-        "like": 1203,
-        "sale": 486,
+        "date": "2024-08-08",
+        "like": 168,
+        "sale": 924,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
         "name": "하이브리드 경량 다운 베스트 MCM4DV734 BLK",
-        "price": "450,000",
+        "price": "270,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003672/image/main/register_main_022.jpg",
         "labels": [
             [
@@ -4550,12 +4550,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "베스트",
-        "date": "2023-08-30",
-        "like": 911,
-        "sale": 866,
+        "date": "2024-12-16",
+        "like": 500,
+        "sale": 497,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -4580,12 +4580,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-08-02",
-        "like": 1431,
-        "sale": 651,
+        "date": "2023-08-20",
+        "like": 1328,
+        "sale": 35,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -4610,12 +4610,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "베스트",
-        "date": "2022-11-23",
-        "like": 1722,
-        "sale": 771,
+        "date": "2024-11-06",
+        "like": 219,
+        "sale": 452,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -4640,12 +4640,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2024-11-01",
-        "like": 1532,
+        "date": "2024-04-02",
+        "like": 1657,
         "sale": 457,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -4670,12 +4670,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "베스트",
-        "date": "2024-09-26",
-        "like": 798,
-        "sale": 441,
+        "date": "2023-11-28",
+        "like": 1083,
+        "sale": 829,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -4700,17 +4700,17 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "점퍼",
-        "date": "2022-10-28",
-        "like": 905,
-        "sale": 658,
+        "date": "2022-12-27",
+        "like": 1811,
+        "sale": 647,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
         "name": "시그니처 씨슬 포인트 카라 티셔츠 블랙 MCM4TL717 BLK",
-        "price": "350,000",
+        "price": "210,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005790/image/main/register_main_048.jpg",
         "labels": [
             [
@@ -4730,12 +4730,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2024-11-26",
-        "like": 1014,
-        "sale": 851,
+        "date": "2023-01-30",
+        "like": 382,
+        "sale": 920,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -4760,12 +4760,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "점퍼",
-        "date": "2023-05-20",
-        "like": 227,
-        "sale": 402,
+        "date": "2024-08-17",
+        "like": 289,
+        "sale": 291,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -4790,12 +4790,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "베스트",
-        "date": "2022-06-26",
-        "like": 813,
-        "sale": 811,
+        "date": "2022-03-24",
+        "like": 982,
+        "sale": 454,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -4820,12 +4820,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2024-07-22",
-        "like": 460,
-        "sale": 903,
+        "date": "2024-02-20",
+        "like": 109,
+        "sale": 980,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -4850,12 +4850,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "베스트",
-        "date": "2022-10-10",
-        "like": 687,
-        "sale": 171,
+        "date": "2022-05-26",
+        "like": 1526,
+        "sale": 708,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -4880,12 +4880,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2023-04-12",
-        "like": 1837,
-        "sale": 242,
+        "date": "2024-04-21",
+        "like": 1848,
+        "sale": 319,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -4910,12 +4910,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-06-11",
-        "like": 305,
-        "sale": 423,
+        "date": "2022-09-11",
+        "like": 377,
+        "sale": 253,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -4940,12 +4940,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2023-01-03",
-        "like": 1305,
-        "sale": 481,
+        "date": "2023-08-16",
+        "like": 414,
+        "sale": 905,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -4970,12 +4970,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2022-11-20",
-        "like": 61,
-        "sale": 844,
+        "date": "2022-11-19",
+        "like": 446,
+        "sale": 58,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -5000,12 +5000,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2023-11-24",
-        "like": 836,
-        "sale": 734,
+        "date": "2024-07-07",
+        "like": 1951,
+        "sale": 709,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -5030,12 +5030,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2022-12-03",
-        "like": 718,
-        "sale": 48,
+        "date": "2022-07-11",
+        "like": 1999,
+        "sale": 120,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -5060,12 +5060,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-04-10",
-        "like": 841,
-        "sale": 487,
+        "date": "2022-01-05",
+        "like": 439,
+        "sale": 334,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -5090,12 +5090,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2022-07-12",
-        "like": 996,
-        "sale": 868,
+        "date": "2023-06-09",
+        "like": 1706,
+        "sale": 496,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -5120,12 +5120,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "점퍼",
-        "date": "2023-12-25",
-        "like": 1942,
-        "sale": 817,
+        "date": "2022-11-09",
+        "like": 136,
+        "sale": 386,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -5150,12 +5150,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "점퍼",
-        "date": "2023-11-14",
-        "like": 1108,
-        "sale": 917,
+        "date": "2023-07-23",
+        "like": 508,
+        "sale": 850,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -5180,12 +5180,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-01-18",
-        "like": 1473,
-        "sale": 646,
+        "date": "2023-11-23",
+        "like": 1364,
+        "sale": 578,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -5210,12 +5210,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2023-02-05",
-        "like": 232,
-        "sale": 220,
+        "date": "2022-09-27",
+        "like": 206,
+        "sale": 340,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -5240,12 +5240,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "베스트",
-        "date": "2022-08-18",
-        "like": 1000,
-        "sale": 330,
+        "date": "2024-12-11",
+        "like": 165,
+        "sale": 983,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -5270,12 +5270,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "베스트",
-        "date": "2023-02-02",
-        "like": 1165,
-        "sale": 722,
+        "date": "2022-07-03",
+        "like": 1871,
+        "sale": 836,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -5300,12 +5300,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2024-01-16",
-        "like": 122,
-        "sale": 838,
+        "date": "2022-01-03",
+        "like": 1862,
+        "sale": 343,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -5330,12 +5330,12 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2022-01-27",
-        "like": 606,
-        "sale": 152,
+        "date": "2023-07-20",
+        "like": 1225,
+        "sale": 221,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
@@ -5360,17 +5360,17 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2023-05-22",
-        "like": 375,
-        "sale": 197,
+        "date": "2023-07-28",
+        "like": 1588,
+        "sale": 234,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
         "name": "니트 하이넥 방풍 베이스레이어 MCM4TB703 BLK",
-        "price": "250,000",
+        "price": "150,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003066/image/main/modify_main_085.jpg",
         "labels": [
             [
@@ -5390,12 +5390,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2023-11-11",
-        "like": 1539,
-        "sale": 994,
+        "date": "2022-03-25",
+        "like": 780,
+        "sale": 756,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -5420,12 +5420,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "베스트",
-        "date": "2023-09-01",
-        "like": 1812,
-        "sale": 84,
+        "date": "2023-06-22",
+        "like": 534,
+        "sale": 715,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -5450,12 +5450,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2022-11-19",
-        "like": 1412,
-        "sale": 861,
+        "date": "2024-10-27",
+        "like": 364,
+        "sale": 284,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -5480,12 +5480,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2022-06-21",
-        "like": 847,
-        "sale": 82,
+        "date": "2022-01-18",
+        "like": 778,
+        "sale": 212,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -5510,12 +5510,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2024-12-11",
-        "like": 891,
-        "sale": 69,
+        "date": "2024-01-17",
+        "like": 1440,
+        "sale": 518,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -5540,12 +5540,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-10-20",
-        "like": 795,
-        "sale": 594,
+        "date": "2023-03-07",
+        "like": 385,
+        "sale": 55,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -5570,12 +5570,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2024-08-04",
-        "like": 1551,
-        "sale": 733,
+        "date": "2023-08-18",
+        "like": 873,
+        "sale": 437,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -5600,17 +5600,17 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2023-09-29",
-        "like": 668,
-        "sale": 43,
+        "date": "2024-12-06",
+        "like": 1523,
+        "sale": 618,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
         "name": "에센셜 본딩 팬츠 블랙 MCM4PT674 BLK",
-        "price": "490,000",
+        "price": "294,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005746/image/main/register_main_083.jpg",
         "labels": [
             [
@@ -5630,17 +5630,17 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2024-01-09",
-        "like": 514,
-        "sale": 139,
+        "date": "2023-07-28",
+        "like": 978,
+        "sale": 352,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
         "name": "에센셜 본딩 팬츠 다크그레이 MCM4PT674 DGY",
-        "price": "490,000",
+        "price": "294,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005745/image/main/register_main_028.jpg",
         "labels": [
             [
@@ -5660,17 +5660,17 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2024-10-24",
-        "like": 402,
-        "sale": 55,
+        "date": "2024-03-04",
+        "like": 339,
+        "sale": 765,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
         "name": "체크 브러쉬드 아웃포캣 팬츠 베이지 MCM4PT752 BEG",
-        "price": "450,000",
+        "price": "270,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005744/image/main/register_main_027.jpg",
         "labels": [
             [
@@ -5690,17 +5690,17 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2022-02-08",
-        "like": 1444,
-        "sale": 447,
+        "date": "2022-09-10",
+        "like": 1223,
+        "sale": 893,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
         "name": "체크 브러쉬드 아웃포캣 팬츠 네이비 MCM4PT752 NVY",
-        "price": "450,000",
+        "price": "270,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005743/image/main/register_main_052.jpg",
         "labels": [
             [
@@ -5720,17 +5720,17 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2023-01-15",
-        "like": 1872,
-        "sale": 587,
+        "date": "2024-01-07",
+        "like": 965,
+        "sale": 998,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
         "name": "니트 하이브리드 다운 블랙 MCM4JD636 BLK",
-        "price": "890,000",
+        "price": "534,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005742/image/main/register_main_048.jpg",
         "labels": [
             [
@@ -5748,17 +5748,17 @@
         ],
         "color": "블랙",
         "acc": false,
-        "date": "2023-03-31",
-        "like": 1541,
-        "sale": 177,
+        "date": "2022-05-19",
+        "like": 1363,
+        "sale": 649,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
         "name": "소매 디테쳐블 다운 베이지 MCM4JD738 BEG",
-        "price": "990,000",
+        "price": "594,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005741/image/main/register_main_056.jpg",
         "labels": [
             [
@@ -5776,9 +5776,9 @@
         ],
         "color": "베이지",
         "acc": false,
-        "date": "2023-08-22",
-        "like": 710,
-        "sale": 841,
+        "date": "2024-09-02",
+        "like": 1521,
+        "sale": 14,
         "gender": "남성용",
         "size": ["FRE"],
         "season": ["ALW"]
@@ -5786,7 +5786,7 @@
     {
         "category": "MEN",
         "name": "소매 디테쳐블 다운 블랙 MCM4JD738 BLK",
-        "price": "990,000",
+        "price": "594,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005740/image/main/register_main_097.jpg",
         "labels": [
             [
@@ -5804,9 +5804,9 @@
         ],
         "color": "블랙",
         "acc": false,
-        "date": "2023-03-26",
-        "like": 1934,
-        "sale": 667,
+        "date": "2022-07-10",
+        "like": 577,
+        "sale": 856,
         "gender": "남성용",
         "size": ["FRE"],
         "season": ["ALW"]
@@ -5814,7 +5814,7 @@
     {
         "category": "MEN",
         "name": "후드 헤비 다운 블랙 MCM4JD739 BLK",
-        "price": "1,090,000",
+        "price": "654,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005739/image/main/register_main_021.jpg",
         "labels": [
             [
@@ -5832,9 +5832,9 @@
         ],
         "color": "블랙",
         "acc": false,
-        "date": "2022-06-15",
-        "like": 1560,
-        "sale": 577,
+        "date": "2022-04-13",
+        "like": 1538,
+        "sale": 271,
         "gender": "남성용",
         "size": ["FRE"],
         "season": ["ALW"]
@@ -5842,7 +5842,7 @@
     {
         "category": "MEN",
         "name": "후드 헤비 다운 카키 MCM4JD739 KHA",
-        "price": "1,090,000",
+        "price": "654,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005738/image/main/register_main_017.jpg",
         "labels": [
             [
@@ -5860,9 +5860,9 @@
         ],
         "color": "카키",
         "acc": false,
-        "date": "2023-04-07",
-        "like": 676,
-        "sale": 413,
+        "date": "2023-07-04",
+        "like": 422,
+        "sale": 588,
         "gender": "남성용",
         "size": ["FRE"],
         "season": ["ALW"]
@@ -5870,7 +5870,7 @@
     {
         "category": "MEN",
         "name": "후드 헤비 다운 네이비 MCM4JD739 NVY",
-        "price": "1,090,000",
+        "price": "654,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005737/image/main/register_main_027.jpg",
         "labels": [
             [
@@ -5888,9 +5888,9 @@
         ],
         "color": "네이비",
         "acc": false,
-        "date": "2022-07-21",
-        "like": 1786,
-        "sale": 382,
+        "date": "2022-01-28",
+        "like": 721,
+        "sale": 304,
         "gender": "남성용",
         "size": ["FRE"],
         "season": ["ALW"]
@@ -5898,7 +5898,7 @@
     {
         "category": "MEN",
         "name": "빅로고 하이넥 기모 티셔츠 MCM4TB811 LGY",
-        "price": "290,000",
+        "price": "174,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003533/image/main/register_main_033.jpg",
         "labels": [
             [
@@ -5918,17 +5918,17 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2023-07-20",
-        "like": 206,
-        "sale": 51,
+        "date": "2022-07-25",
+        "like": 204,
+        "sale": 859,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
         "name": "빅로고 하이넥 기모 티셔츠 MCM4TB811 BLK",
-        "price": "290,000",
+        "price": "174,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003532/image/main/register_main_080.jpg",
         "labels": [
             [
@@ -5948,17 +5948,17 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2023-04-13",
-        "like": 1235,
-        "sale": 220,
+        "date": "2023-08-06",
+        "like": 1769,
+        "sale": 352,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
         "name": "소프트터치 하이넥 다운 블랙 MCM4JD837 BLK",
-        "price": "850,000",
+        "price": "510,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005736/image/main/register_main_088.jpg",
         "labels": [
             [
@@ -5976,9 +5976,9 @@
         ],
         "color": "블랙",
         "acc": false,
-        "date": "2023-08-12",
-        "like": 440,
-        "sale": 633,
+        "date": "2023-12-30",
+        "like": 1157,
+        "sale": 710,
         "gender": "남성용",
         "size": ["FRE"],
         "season": ["ALW"]
@@ -5986,7 +5986,7 @@
     {
         "category": "MEN",
         "name": "소프트터치 하이넥 다운 카멜 MCM4JD837 CAM",
-        "price": "850,000",
+        "price": "510,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005735/image/main/register_main_069.jpg",
         "labels": [
             [
@@ -6004,9 +6004,9 @@
         ],
         "color": "무색",
         "acc": false,
-        "date": "2022-10-07",
-        "like": 103,
-        "sale": 993,
+        "date": "2023-01-14",
+        "like": 160,
+        "sale": 407,
         "gender": "남성용",
         "size": ["FRE"],
         "season": ["ALW"]
@@ -6014,7 +6014,7 @@
     {
         "category": "MEN",
         "name": "빅로고 하이넥 기모 티셔츠 MCM4TB811 DGN",
-        "price": "290,000",
+        "price": "174,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003531/image/main/register_main_036.jpg",
         "labels": [
             [
@@ -6034,17 +6034,17 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-09-13",
-        "like": 980,
-        "sale": 807,
+        "date": "2024-06-10",
+        "like": 1794,
+        "sale": 354,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
         "name": "골지조직 하이넥 티셔츠 MCM4TT616 LBE",
-        "price": "330,000",
+        "price": "198,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003134/image/main/register_main_045.jpg",
         "labels": [
             [
@@ -6064,17 +6064,17 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2023-02-16",
-        "like": 650,
-        "sale": 762,
+        "date": "2024-10-05",
+        "like": 339,
+        "sale": 118,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
         "name": "빅로고 하이넥 기모 티셔츠 MCM4TB811 GRN",
-        "price": "290,000",
+        "price": "174,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003530/image/main/register_main_074.jpg",
         "labels": [
             [
@@ -6094,17 +6094,17 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-07-21",
-        "like": 746,
-        "sale": 932,
+        "date": "2023-05-06",
+        "like": 1934,
+        "sale": 135,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
         "name": "프리미엄 캐시미어 100 라운드 스웨터 멜란지그레이 MCM4SR654 MGR",
-        "price": "790,000",
+        "price": "474,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005802/image/main/modify_main_046.jpg",
         "labels": [
             [
@@ -6124,17 +6124,17 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2023-06-26",
-        "like": 1506,
-        "sale": 620,
+        "date": "2023-10-13",
+        "like": 1144,
+        "sale": 14,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
         "name": "리버시블 다운 베스트 블랙 MCM4DV635 BLK",
-        "price": "750,000",
+        "price": "450,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005734/image/main/register_main_0100.jpg",
         "labels": [
             [
@@ -6154,17 +6154,17 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "베스트",
-        "date": "2023-12-29",
-        "like": 598,
-        "sale": 835,
+        "date": "2022-11-12",
+        "like": 234,
+        "sale": 646,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
         "name": "골지조직 하이넥 티셔츠 MCM4TT616 BLK",
-        "price": "330,000",
+        "price": "198,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003133/image/main/register_main_070.jpg",
         "labels": [
             [
@@ -6184,17 +6184,17 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2024-03-23",
-        "like": 919,
-        "sale": 458,
+        "date": "2024-11-23",
+        "like": 1780,
+        "sale": 249,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
         "name": "프리미엄 캐시미어 100 라운드 스웨터 그린 MCM4SR654 GRN",
-        "price": "790,000",
+        "price": "474,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005801/image/main/modify_main_092.jpg",
         "labels": [
             [
@@ -6214,17 +6214,17 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2024-09-16",
-        "like": 1519,
-        "sale": 613,
+        "date": "2023-06-09",
+        "like": 794,
+        "sale": 68,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
         "name": "리버시블 다운 베스트 민트 MCM4DV635 MIN",
-        "price": "750,000",
+        "price": "450,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005733/image/main/register_main_013.jpg",
         "labels": [
             [
@@ -6244,17 +6244,17 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "베스트",
-        "date": "2022-12-16",
-        "like": 733,
-        "sale": 293,
+        "date": "2022-06-06",
+        "like": 1652,
+        "sale": 33,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
         "name": "플리스 부클자수 반집업 티셔츠 MCM4TN715 GRE",
-        "price": "410,000",
+        "price": "246,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003529/image/main/register_main_048.jpg",
         "labels": [
             [
@@ -6274,17 +6274,17 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2023-12-05",
-        "like": 1618,
-        "sale": 180,
+        "date": "2024-04-13",
+        "like": 1668,
+        "sale": 763,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
         "name": "플리스 부클자수 반집업 티셔츠 MCM4TN715 IVY",
-        "price": "410,000",
+        "price": "246,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003528/image/main/register_main_06.jpg",
         "labels": [
             [
@@ -6304,17 +6304,17 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2024-02-17",
-        "like": 1886,
-        "sale": 509,
+        "date": "2023-07-15",
+        "like": 490,
+        "sale": 258,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
         "name": "플리스 부클로고자수 맨투맨 MCM4TR714 GRE",
-        "price": "390,000",
+        "price": "234,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003527/image/main/register_main_067.jpg",
         "labels": [
             [
@@ -6334,17 +6334,17 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2024-07-09",
-        "like": 1815,
-        "sale": 246,
+        "date": "2024-11-16",
+        "like": 1180,
+        "sale": 841,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
         "name": "플리스 부클로고자수 맨투맨 MCM4TR714 IVY",
-        "price": "390,000",
+        "price": "234,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003526/image/main/register_main_037.jpg",
         "labels": [
             [
@@ -6364,17 +6364,17 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2024-08-03",
-        "like": 1335,
-        "sale": 702,
+        "date": "2023-12-07",
+        "like": 1748,
+        "sale": 825,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
         "name": "플리스 조거 팬츠 MCM4PT714 IVY",
-        "price": "430,000",
+        "price": "258,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003700/image/main/register_main_057.jpg",
         "labels": [
             [
@@ -6394,17 +6394,17 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2022-08-06",
-        "like": 558,
-        "sale": 184,
+        "date": "2023-11-15",
+        "like": 1176,
+        "sale": 444,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
         "name": "플리스 조거 팬츠 MCM4PT714 GRE",
-        "price": "430,000",
+        "price": "258,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003699/image/main/register_main_019.jpg",
         "labels": [
             [
@@ -6424,17 +6424,17 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2024-02-24",
-        "like": 859,
-        "sale": 510,
+        "date": "2023-12-22",
+        "like": 1770,
+        "sale": 968,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
         "name": "허리 밴딩 핀턱 팬츠 MCM4PT671 MGR",
-        "price": "470,000",
+        "price": "282,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003698/image/main/register_main_098.jpg",
         "labels": [
             [
@@ -6454,17 +6454,17 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2024-06-08",
-        "like": 1767,
-        "sale": 283,
+        "date": "2024-08-01",
+        "like": 1038,
+        "sale": 579,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
         "name": "허리 밴딩 핀턱 팬츠 MCM4PT671 BLK",
-        "price": "470,000",
+        "price": "282,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003697/image/main/register_main_056.jpg",
         "labels": [
             [
@@ -6484,17 +6484,17 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2024-09-23",
-        "like": 1827,
-        "sale": 303,
+        "date": "2022-12-18",
+        "like": 1611,
+        "sale": 568,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
         "name": "아가일 앙고라 퍼 포인트 스웨터 MCM4ST755 MIN",
-        "price": "650,000",
+        "price": "390,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003696/image/main/register_main_070.jpg",
         "labels": [
             [
@@ -6514,17 +6514,17 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2022-02-08",
-        "like": 671,
-        "sale": 12,
+        "date": "2022-03-25",
+        "like": 281,
+        "sale": 702,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
         "name": "아가일 앙고라 퍼 포인트 스웨터 MCM4ST755 PNK",
-        "price": "650,000",
+        "price": "390,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003695/image/main/1000003695_main_083.jpg",
         "labels": [
             [
@@ -6544,17 +6544,17 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2022-03-17",
-        "like": 1431,
-        "sale": 455,
+        "date": "2022-01-04",
+        "like": 1092,
+        "sale": 750,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
         "name": "빅 씨슬 포인트 케이블 스웨터 베스트 그린 MCM4SV757 GRN",
-        "price": "530,000",
+        "price": "318,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005788/image/main/register_main_084.jpg",
         "labels": [
             [
@@ -6574,17 +6574,17 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2022-06-19",
-        "like": 767,
-        "sale": 810,
+        "date": "2022-06-24",
+        "like": 1964,
+        "sale": 802,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
         "name": "빅 씨슬 포인트 케이블 스웨터 베스트 그레이 MCM4SV757 MGR",
-        "price": "530,000",
+        "price": "318,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005789/image/main/register_main_027.jpg",
         "labels": [
             [
@@ -6604,17 +6604,17 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2022-09-29",
-        "like": 1505,
-        "sale": 710,
+        "date": "2024-03-14",
+        "like": 585,
+        "sale": 329,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
         "name": "씨슬 패턴 풀집업 스웨터 아이보리 MCM4SC652 IVY",
-        "price": "670,000",
+        "price": "402,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005747/image/main/register_main_012.jpg",
         "labels": [
             [
@@ -6634,17 +6634,17 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2024-08-04",
-        "like": 91,
-        "sale": 505,
+        "date": "2024-12-15",
+        "like": 1917,
+        "sale": 172,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
         "name": "아르누보 씨슬 풀오픈 스웨터 다크그린 MCM4SC653 DGN",
-        "price": "670,000",
+        "price": "402,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005787/image/main/register_main_045.jpg",
         "labels": [
             [
@@ -6664,17 +6664,17 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2022-04-01",
-        "like": 686,
-        "sale": 465,
+        "date": "2024-06-01",
+        "like": 1022,
+        "sale": 345,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
         "name": "씨슬 빅 로고 스웨터 MCM4SR737 YLW",
-        "price": "490,000",
+        "price": "294,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003694/image/main/register_main_038.jpg",
         "labels": [
             [
@@ -6694,17 +6694,17 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2024-01-14",
-        "like": 1667,
-        "sale": 556,
+        "date": "2023-03-06",
+        "like": 1847,
+        "sale": 264,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
         "name": "씨슬 빅 로고 스웨터 MCM4SR737 MIN",
-        "price": "490,000",
+        "price": "294,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003693/image/main/register_main_034.jpg",
         "labels": [
             [
@@ -6724,17 +6724,17 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2024-04-08",
-        "like": 1918,
-        "sale": 782,
+        "date": "2024-11-06",
+        "like": 233,
+        "sale": 602,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
         "name": "시그니처 씨슬 포인트 카라 티셔츠 레드 MCM4TL717 BRI",
-        "price": "350,000",
+        "price": "210,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005791/image/main/register_main_039.jpg",
         "labels": [
             [
@@ -6754,17 +6754,17 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-10-16",
-        "like": 846,
-        "sale": 446,
+        "date": "2022-01-05",
+        "like": 260,
+        "sale": 315,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
         "name": "시그니처 씨슬 포인트 카라 티셔츠 다크블루 MCM4TL717 DBL",
-        "price": "350,000",
+        "price": "210,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005792/image/main/register_main_092.jpg",
         "labels": [
             [
@@ -6784,17 +6784,17 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-05-29",
-        "like": 1125,
-        "sale": 98,
+        "date": "2023-01-26",
+        "like": 1211,
+        "sale": 755,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
         "name": "스코티시 반집업 스웨터 MCM4ST638 LBL",
-        "price": "650,000",
+        "price": "390,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005311/image/main/register_main_054.jpg",
         "labels": [
             [
@@ -6814,17 +6814,17 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2022-02-17",
-        "like": 911,
-        "sale": 729,
+        "date": "2024-09-28",
+        "like": 1694,
+        "sale": 41,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
         "name": "스코티시 반집업 스웨터 MCM4ST638 PNK",
-        "price": "650,000",
+        "price": "390,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005312/image/main/register_main_052.jpg",
         "labels": [
             [
@@ -6844,17 +6844,17 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2023-09-09",
-        "like": 1077,
-        "sale": 185,
+        "date": "2022-06-20",
+        "like": 133,
+        "sale": 326,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
         "name": "다운 하이브리드 본딩팬츠 MCM4PT776 BLK",
-        "price": "590,000",
+        "price": "354,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005307/image/main/register_main_077.jpg",
         "labels": [
             [
@@ -6874,17 +6874,17 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2022-10-16",
-        "like": 1294,
-        "sale": 680,
+        "date": "2024-02-28",
+        "like": 453,
+        "sale": 206,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
         "name": "다운 하이브리드 본딩팬츠 MCM4PT776 OWH",
-        "price": "590,000",
+        "price": "354,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005308/image/main/register_main_073.jpg",
         "labels": [
             [
@@ -6904,17 +6904,17 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2023-08-14",
-        "like": 1350,
-        "sale": 371,
+        "date": "2022-01-14",
+        "like": 946,
+        "sale": 717,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
         "name": "니트 하이넥 방풍 베이스레이어 MCM4TB703 OWH",
-        "price": "250,000",
+        "price": "150,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003067/image/main/modify_main_047.jpg",
         "labels": [
             [
@@ -6934,17 +6934,17 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2023-11-19",
-        "like": 243,
-        "sale": 414,
+        "date": "2024-01-10",
+        "like": 953,
+        "sale": 650,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
         "name": "퀼팅 패딩 조거 팬츠 MCM4PT873 DGN",
-        "price": "550,000",
+        "price": "330,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005309/image/main/register_main_084.jpg",
         "labels": [
             [
@@ -6964,17 +6964,17 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2023-12-23",
-        "like": 1634,
-        "sale": 425,
+        "date": "2024-12-18",
+        "like": 214,
+        "sale": 469,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
         "name": "퀼팅 패딩 조거 팬츠 MCM4PT873 BLK",
-        "price": "550,000",
+        "price": "330,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005310/image/main/register_main_075.jpg",
         "labels": [
             [
@@ -6994,17 +6994,17 @@
         "acc": false,
         "subCategory": "하의",
         "thirdCategory": "팬츠",
-        "date": "2022-07-30",
-        "like": 1877,
-        "sale": 169,
+        "date": "2023-08-30",
+        "like": 1818,
+        "sale": 485,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["078", "080", "082", "084", "086", "088", "090", "092"],
+        "season": ["봄", "여름", "가을"]
     },
     {
         "category": "MEN",
         "name": "빅로고 반집업 방풍 스웨터 아이보리 MCM4ST756 IVY",
-        "price": "650,000",
+        "price": "390,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005749/image/main/register_main_053.jpg",
         "labels": [
             [
@@ -7024,17 +7024,17 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2023-01-09",
-        "like": 1993,
-        "sale": 574,
+        "date": "2022-04-01",
+        "like": 1980,
+        "sale": 625,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
         "name": "빅로고 반집업 방풍 스웨터 그레이 MCM4ST756 MGR",
-        "price": "650,000",
+        "price": "390,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005748/image/main/register_main_030.jpg",
         "labels": [
             [
@@ -7054,12 +7054,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "스웨터",
-        "date": "2023-01-10",
-        "like": 798,
-        "sale": 341,
+        "date": "2024-07-19",
+        "like": 1819,
+        "sale": 156,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -7084,9 +7084,9 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "점퍼",
-        "date": "2022-04-17",
-        "like": 746,
-        "sale": 28,
+        "date": "2024-04-14",
+        "like": 1090,
+        "sale": 308,
         "gender": "남성용",
         "size": ["FRE"],
         "season": ["ALW"]
@@ -7114,9 +7114,9 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "점퍼",
-        "date": "2022-04-30",
-        "like": 1648,
-        "sale": 764,
+        "date": "2024-11-05",
+        "like": 87,
+        "sale": 342,
         "gender": "남성용",
         "size": ["FRE"],
         "season": ["ALW"]
@@ -7144,12 +7144,12 @@
         "acc": false,
         "subCategory": "아우터",
         "thirdCategory": "점퍼",
-        "date": "2023-06-01",
-        "like": 1447,
-        "sale": 754,
+        "date": "2023-04-13",
+        "like": 1542,
+        "sale": 853,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["가을", "겨울"]
     },
     {
         "category": "MEN",
@@ -7174,12 +7174,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2023-06-13",
-        "like": 1902,
-        "sale": 21,
+        "date": "2022-04-13",
+        "like": 1017,
+        "sale": 944,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -7204,12 +7204,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2024-10-26",
-        "like": 1836,
-        "sale": 310,
+        "date": "2022-02-11",
+        "like": 1112,
+        "sale": 110,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -7234,12 +7234,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2024-04-17",
-        "like": 398,
-        "sale": 891,
+        "date": "2024-05-20",
+        "like": 1616,
+        "sale": 650,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -7264,12 +7264,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-09-11",
-        "like": 1034,
-        "sale": 223,
+        "date": "2022-07-05",
+        "like": 185,
+        "sale": 227,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -7294,12 +7294,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-12-17",
-        "like": 1786,
-        "sale": 446,
+        "date": "2024-02-26",
+        "like": 768,
+        "sale": 29,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -7324,12 +7324,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-10-29",
-        "like": 1078,
-        "sale": 488,
+        "date": "2023-07-20",
+        "like": 358,
+        "sale": 576,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -7354,12 +7354,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2024-10-21",
-        "like": 745,
-        "sale": 234,
+        "date": "2023-09-15",
+        "like": 818,
+        "sale": 496,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -7384,12 +7384,12 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2022-03-01",
-        "like": 1748,
-        "sale": 294,
+        "date": "2023-03-03",
+        "like": 248,
+        "sale": 255,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     },
     {
         "category": "MEN",
@@ -7414,11 +7414,11 @@
         "acc": false,
         "subCategory": "상의",
         "thirdCategory": "티셔츠",
-        "date": "2024-05-30",
-        "like": 967,
-        "sale": 470,
+        "date": "2024-07-10",
+        "like": 1032,
+        "sale": 302,
         "gender": "남성용",
-        "size": ["FRE"],
-        "season": ["ALW"]
+        "size": ["095", "100", "105", "110"],
+        "season": ["봄", "여름"]
     }
 ]

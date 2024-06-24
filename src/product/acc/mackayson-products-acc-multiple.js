@@ -207,12 +207,14 @@ async function run() {
             switch (true) {
                 case name.includes("캐디백"):
                 case name.includes("항공커버"):
+                case name.includes("하프백"):
                     item.subCategory = "가방";
                     item.thirdCategory = "캐디백";
                     break;
                 case name.includes("보스턴백"):
                 case name.includes("토트백"):
                 case name.includes("버킷백"):
+                case name.includes("카트백"):
                     item.subCategory = "가방";
                     item.thirdCategory = "보스턴백";
                     break;
@@ -223,15 +225,22 @@ async function run() {
                     item.subCategory = "가방";
                     item.thirdCategory = "파우치";
                     break;
+                case name.includes("슬링백"):
+                case name.includes("볼케이스"):
+                case name.includes("볼파우치"):
+                    item.subCategory = "가방";
+                    item.thirdCategory = "ETC";
+                    break;
                 case name.includes("바이져"):
                 case name.includes("바이저"):
                 case name.includes("포인트"):
                 case name.includes("볼캡"):
                 case name.includes("헌팅캡"):
                 case name.includes("캠프캡"):
+                case name.includes("캡비니"):
+                case name.includes("방한모자"):
                 case name.includes("버킷햇"):
                 case name.includes("버킷 햇"):
-                case name.includes("햇"):
                 case name.includes("햇"):
                     item.subCategory = "용품";
                     item.thirdCategory = "모자";
@@ -243,13 +252,25 @@ async function run() {
                     break;
                 case name.includes("장갑"):
                 case name.includes("양손장갑"):
+                case name.includes("양손 장갑"):
                     item.subCategory = "용품";
                     item.thirdCategory = "장갑";
                     break;
                 case name.includes("키링"):
                 case name.includes("슈즈"):
                 case name.includes("롱부츠"):
+                case name.includes("부츠"):
                 case name.includes("골프화"):
+                case name.includes("슈즈"):
+                case name.includes("스파이크"):
+                case name.includes("마스크"):
+                case name.includes("방한마스크"):
+                case name.includes("방한 마스크"):
+                case name.includes("넥워머"):
+                case name.includes("워머"):
+                case name.includes("레그워머"):
+                case name.includes("핸드워머"):
+                case name.includes("토시"):
                 case name.includes("벨트"):
                     item.subCategory = "용품";
                     item.thirdCategory = "기타";
@@ -325,71 +346,147 @@ async function run() {
                         size: ["080", "085", "090", "095"],
                         season: ["가을", "겨울"],
                     },
-                    "카트백,보스턴백,토트백,슬링백,파우치,토시,버킷백": {
-                        size: ["FRE"],
-                        season: ["ALW"],
-                    },
-                    "바이저,햇": {
-                        size: ["00L", "00M", "FRE"],
-                        season: ["ALW"],
-                    },
-                    골프화: {
+                    "캐디백,항공커버,하프백,보스턴백,토트백,버킷백,카트백,파우치,힙색,케이스,볼파우치,슬링백,볼케이스,토시,버킷백,양말,니삭스,장갑,양손장갑,양손 장갑,키링,슈즈,롱부츠,부츠,골프화,슈즈,스파이크,마스크,방한마스크,방한 마스크,넥워머,워머,레그워머,핸드워머,토시,벨트":
+                        {
+                            size: ["FRE"],
+                            season: ["ALW"],
+                        },
+                    "바이저,바이져,포인트,볼캡,헌팅캡,캠프캡,캡비니,방한모자,버킷햇,버킷 햇,햇":
+                        {
+                            size: ["00L", "00M", "FRE"],
+                            season: ["ALW"],
+                        },
+                    "골프화": {
                         size: ["230", "240", "250", "260", "270", "280"],
                         season: ["ALW"],
                     },
                 },
                 남성용: {
-                    "티셔츠,레이어,베이스레이어,가디건,슬리브리스,블라우스,상의,맨투맨":
+                    "티셔츠,레이어,베이스레이어,가디건,슬리브리스,상의,맨투맨":
                         {
-                            size: ["080", "085", "090", "095", "100"],
+                            size: ["095", "100", "105", "110"],
                             season: ["봄", "여름"],
                         },
                     "스웨터,베스트,니트": {
-                        size: ["080", "085", "090", "095", "100", "105"],
+                        size: ["095", "100", "105", "110"],
                         season: ["가을", "겨울"],
                     },
-                    "원피스,점프슈트": {
-                        size: ["080", "085", "090", "095"],
-                        season: ["봄", "여름"],
-                    },
-                    "팬츠,레깅스,하의,청바지,조거팬츠,조거 팬츠": {
+                    "팬츠,하의,청바지,본딩팬츠,조거팬츠,조거 팬츠": {
                         size: [
-                            "061",
-                            "064",
-                            "067",
-                            "070",
-                            "073",
-                            "076",
+                            "078",
                             "080",
+                            "082",
                             "084",
-                            "FRE",
+                            "086",
+                            "088",
+                            "090",
+                            "092",
                         ],
                         season: ["봄", "여름", "가을"],
                     },
-                    "숏팬츠,숏 팬츠,쇼츠,스커트 팬츠,반바지,버뮤다 팬츠,스커트,랩스커트,큐롯":
-                        {
-                            size: ["061", "064", "067", "070", "073", "076"],
-                            season: ["봄", "여름"],
-                        },
-                    "자켓,바람막이,윈드 브레이커,점퍼": {
-                        size: ["080", "085", "090", "095"],
+                    "숏팬츠,숏 팬츠,쇼츠,반바지,버뮤다 팬츠": {
+                        size: [
+                            "078",
+                            "080",
+                            "082",
+                            "084",
+                            "086",
+                            "088",
+                            "090",
+                            "092",
+                        ],
+                        season: ["봄", "여름"],
+                    },
+                    "자켓,바람막이,윈드 브레이커,점퍼,점프슈트": {
+                        size: ["095", "100", "105", "110"],
                         season: ["가을", "겨울"],
                     },
-                    "카트백,보스턴백,토트백,슬링백,파우치,토시,버킷백": {
-                        size: ["FRE"],
-                        season: ["ALW"],
-                    },
-                    "바이저,햇": {
-                        size: ["00L", "00M", "FRE"],
-                        season: ["ALW"],
-                    },
-                    골프화: {
+                    "캐디백,항공커버,하프백,보스턴백,토트백,버킷백,카트백,파우치,힙색,케이스,볼파우치,슬링백,볼케이스,토시,버킷백,양말,니삭스,장갑,양손장갑,양손 장갑,키링,슈즈,롱부츠,부츠,골프화,슈즈,스파이크,마스크,방한마스크,방한 마스크,넥워머,워머,레그워머,핸드워머,토시,벨트":
+                        {
+                            size: ["FRE"],
+                            season: ["ALW"],
+                        },
+                    "바이저,바이져,포인트,볼캡,헌팅캡,캠프캡,캡비니,방한모자,버킷햇,버킷 햇,햇":
+                        {
+                            size: ["00L", "00M", "FRE"],
+                            season: ["ALW"],
+                        },
+                    "골프화": {
                         size: ["230", "240", "250", "260", "270", "280"],
                         season: ["ALW"],
                     },
                 },
                 공용: {
-                    // Similar structure as "여성용"
+                    "티셔츠,레이어,베이스레이어,가디건,슬리브리스,블라우스,상의,맨투맨":
+                        {
+                            size: [
+                                "080",
+                                "085",
+                                "090",
+                                "095",
+                                "100",
+                                "105",
+                                "110",
+                            ],
+                            season: ["봄", "여름"],
+                        },
+                    "스웨터,베스트,니트": {
+                        size: ["080", "085", "090", "095", "100", "105", "110"],
+                        season: ["가을", "겨울"],
+                    },
+                    "원피스,점프슈트": {
+                        size: ["080", "085", "090", "095", "100", "105"],
+                        season: ["봄", "여름"],
+                    },
+                    "팬츠,하의,청바지,레깅스,본딩팬츠,조거팬츠,조거 팬츠": {
+                        size: [
+                            "078",
+                            "080",
+                            "082",
+                            "084",
+                            "086",
+                            "088",
+                            "090",
+                            "092",
+                        ],
+                        season: ["봄", "여름", "가을"],
+                    },
+                    "숏팬츠,숏 팬츠,쇼츠,반바지,버뮤다 팬츠": {
+                        size: [
+                            "078",
+                            "080",
+                            "082",
+                            "084",
+                            "086",
+                            "088",
+                            "090",
+                            "092",
+                        ],
+                        season: ["봄", "여름"],
+                    },
+                    "자켓,바람막이,윈드 브레이커,점퍼,점프슈트": {
+                        size: ["080", "085", "090", "095", "100", "105", "110"],
+                        season: ["가을", "겨울"],
+                    },
+                    "캐디백,항공커버,하프백,보스턴백,토트백,버킷백,카트백,파우치,힙색,케이스,볼파우치,슬링백,볼케이스,토시,버킷백,양말,니삭스,장갑,양손장갑,양손 장갑,키링,슈즈,롱부츠,부츠,골프화,슈즈,스파이크,마스크,방한마스크,방한 마스크,넥워머,워머,레그워머,핸드워머,토시,벨트":
+                        {
+                            size: ["FRE"],
+                            season: ["ALW"],
+                        },
+                    "바이저,바이져,포인트,볼캡,헌팅캡,캠프캡,캡비니,방한모자,버킷햇,버킷 햇,햇":
+                        {
+                            size: ["00L", "00M", "FRE"],
+                            season: ["ALW"],
+                        },
+                    "골프화": {
+                        size: ["230", "240", "250", "260", "270", "280"],
+                        season: ["ALW"],
+                    },
+                    "볼케이스,키링,볼파우치,거리측정기,우산,볼마커,웨지 커버, 항공커버, 항공 커버":
+                        {
+                            size: ["FRE"],
+                            season: ["ALW"],
+                        },
                 },
             };
 
