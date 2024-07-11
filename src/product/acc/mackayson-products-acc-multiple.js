@@ -1,5 +1,7 @@
 import fs from "fs";
 import puppeteer from "puppeteer";
+import ColorThief from "colorthief";
+import fetch from "node-fetch";
 
 async function run() {
     const browser = await puppeteer.launch();
@@ -87,6 +89,28 @@ async function run() {
                     ),
                 }))
         );
+
+        // const imageSrcList = products.map(async (product) => {
+        // const dominantColor = await ColorThief.getColor(product.image);
+        // product.dominantColor = dominantColor;
+        // return product;
+        // });
+        // console.log("🚀 ~ run ~ imageSrcList:", imageSrcList);
+        // const response = await fetch(imageSrcList);
+        // const buffer = await response.buffer();
+        // const buffer = await response.arrayBuffer();
+
+        // const dominantColor = await ColorThief.getColor(buffer);
+
+        // ! 1페이지부터 8페이지까찌라 [0] 경우 1페이지를 말함
+        const imageSrcList = products.map((product) => product.image);
+        const imageSrc = imageSrcList.forEach(async (src) => {
+            const dominantColor = await ColorThief.getColor(src);
+            console.log("dominantColor: ", dominantColor);
+        });
+
+        // const dominantColor = await ColorThief.getColor(imageSrcList[0]);
+        // console.log("DD", dominantColor);
 
         // * 컬러
         for (const item of products) {
@@ -356,7 +380,7 @@ async function run() {
                             size: ["00L", "00M", "FRE"],
                             season: ["ALW"],
                         },
-                    "골프화": {
+                    골프화: {
                         size: ["230", "240", "250", "260", "270", "280"],
                         season: ["ALW"],
                     },
@@ -411,7 +435,7 @@ async function run() {
                             size: ["00L", "00M", "FRE"],
                             season: ["ALW"],
                         },
-                    "골프화": {
+                    골프화: {
                         size: ["230", "240", "250", "260", "270", "280"],
                         season: ["ALW"],
                     },
@@ -478,7 +502,7 @@ async function run() {
                             size: ["00L", "00M", "FRE"],
                             season: ["ALW"],
                         },
-                    "골프화": {
+                    골프화: {
                         size: ["230", "240", "250", "260", "270", "280"],
                         season: ["ALW"],
                     },
@@ -515,14 +539,14 @@ async function run() {
     // console.log("All products: ", allProducts);
 
     // * save data to JSON file
-    fs.writeFile(
-        "./data/products/products_acc.json",
-        JSON.stringify(allProducts),
-        (err) => {
-            if (err) throw err;
-            console.log("File saved");
-        }
-    );
+    // fs.writeFile(
+    //     "./data/products/products_acc.json",
+    //     JSON.stringify(allProducts),
+    //     (err) => {
+    //         if (err) throw err;
+    //         console.log("File saved");
+    //     }
+    // );
 
     await browser.close();
 }
