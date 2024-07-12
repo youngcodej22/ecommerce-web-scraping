@@ -2,6 +2,76 @@ import fs from "fs";
 import puppeteer from "puppeteer";
 import ColorThief from "colorthief";
 import fetch from "node-fetch";
+import path from "path";
+import { fileURLToPath } from "url";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+// ! dominantColor의 rgb를 가지고 블랙, 화이트 처럼 색깔 분류 함수
+function rgbToHsl(r, g, b) {
+    r /= 255;
+    g /= 255;
+    b /= 255;
+    const max = Math.max(r, g, b);
+    const min = Math.min(r, g, b);
+    let h,
+        s,
+        l = (max + min) / 2;
+
+    if (max === min) {
+        h = s = 0; // achromatic
+    } else {
+        const d = max - min;
+        s = l > 0.5 ? d / (2 - max - min) : d / (max + min);
+        switch (max) {
+            case r:
+                h = (g - b) / d + (g < b ? 6 : 0);
+                break;
+            case g:
+                h = (b - r) / d + 2;
+                break;
+            case b:
+                h = (r - g) / d + 4;
+                break;
+        }
+        h /= 6;
+    }
+
+    return [h * 360, s * 100, l * 100];
+}
+
+function classifyColor(rgb) {
+    const [r, g, b] = rgb;
+    const [h, s, l] = rgbToHsl(r, g, b);
+
+    // if (l < 20) return "black";
+    // if (l > 80) return "white";
+
+    // if (s < 20) return "gray"; // low saturation -> gray scale color
+
+    // if (h < 30 || h >= 330) return "red";
+    // if (h >= 30 && h < 90) return "yellow";
+    // if (h >= 90 && h < 150) return "green";
+    // if (h >= 150 && h < 210) return "cyan";
+    // if (h >= 210 && h < 270) return "blue";
+    // if (h >= 270 && h < 330) return "magenta";
+
+    if (l < 20) return "블랙";
+    if (l > 80) return "화이트";
+
+    if (s < 20) return "그레이"; // low saturation -> gray scale color
+
+    if (h < 30 || h >= 330) return "레드";
+    if (h >= 30 && h < 90) return "옐로우";
+    if (h >= 90 && h < 150) return "그린";
+    if (h >= 150 && h < 210) return "다크그린";
+    if (h >= 210 && h < 270) return "블루";
+    if (h >= 270 && h < 330) return "퍼플";
+
+    // return "unknown";
+    return "";
+}
 
 async function run() {
     const browser = await puppeteer.launch();
@@ -104,13 +174,47 @@ async function run() {
 
         // ! 1페이지부터 8페이지까찌라 [0] 경우 1페이지를 말함
         const imageSrcList = products.map((product) => product.image);
-        const imageSrc = imageSrcList.forEach(async (src) => {
-            const dominantColor = await ColorThief.getColor(src);
-            console.log("dominantColor: ", dominantColor);
-        });
 
-        // const dominantColor = await ColorThief.getColor(imageSrcList[0]);
-        // console.log("DD", dominantColor);
+        for (const image of imageSrcList) {
+            const response = await fetch(image);
+            // ! deprecated method (.buffer())
+            // const buffer = await response.buffer();
+            // const imagePath = path.join(__dirname, "temp_image.jpg");
+            // fs.writeFileSync(imagePath, buffer);
+
+            const arrayBuffer = await response.arrayBuffer();
+            const buffer = Buffer.from(new Uint8Array(arrayBuffer));
+            const imagePath = path.join(__dirname, "temp_image.jpg");
+            fs.writeFileSync(imagePath, buffer);
+
+            const dominantColor = await ColorThief.getColor(imagePath);
+
+            fs.unlinkSync(imagePath); // Clean up the temporary image file
+
+            // const rgb = `rgb(${dominantColor[0]}, ${dominantColor[1]}, ${dominantColor[2]})`;
+            // 색상 분류
+            const colorName = classifyColor(dominantColor);
+
+            // $$eval을 사용하여 상품명 가져오기
+            // const originalProductName = await page.$$eval(
+            //     ".item_info_cont .item_tit_box .item_name",
+            //     (names) => names.map((name) => name.innerText)[0]
+            // );
+
+            // name: e.querySelector(
+            //             ".item_info_cont .item_tit_box .item_name"
+            //         ).innerText,
+
+            // const updatedProductName = `${originalProductName} ${colorName}`;
+            // console.log(`상품명: ${updatedProductName}`);
+
+            // Update the product name with the color name
+            products.forEach((product) => {
+                if (product.image === image) {
+                    product.name = `${product.name} ${colorName}`;
+                }
+            });
+        }
 
         // * 컬러
         for (const item of products) {
@@ -536,7 +640,7 @@ async function run() {
         allProducts = allProducts.concat(products);
     }
 
-    // console.log("All products: ", allProducts);
+    console.log("All products: ", allProducts);
 
     // * save data to JSON file
     // fs.writeFile(
