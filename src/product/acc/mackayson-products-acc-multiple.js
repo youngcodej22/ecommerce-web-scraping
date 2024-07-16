@@ -45,29 +45,70 @@ function classifyColor(rgb) {
     const [r, g, b] = rgb;
     const [h, s, l] = rgbToHsl(r, g, b);
 
-    // if (l < 20) return "black";
-    // if (l > 80) return "white";
+    if (h <= 0 && s <= 0 && l <= 0) return "블랙";
+    if (h >= 0 && s <= 0 && l >= 100) return "화이트";
+    if (l >= 10 && l < 40) return "다크그레이";
+    if (l >= 40 && l < 60) return "그레이";
+    if (l >= 60 && l < 90) return "라이트그레이";
 
-    // if (s < 20) return "gray"; // low saturation -> gray scale color
+    // if (h >= 0 && h < 15 && s >= 80 && l >= 80) return "레드";
+    // if (h >= 15 && h < 30) return "버건디";
+    // if (h >= 30 && h < 45) return "와인";
+    // if (h >= 45 && h < 60) return "카멜";
+    // if (h >= 60 && h < 75) return "오렌지";
+    // if (h >= 75 && h < 90) return "골드";
+    // if (h >= 90 && h < 105) return "옐로우";
+    // if (h >= 105 && h < 120) return "핑크";
+    // if (h >= 120 && h < 135) return "라이트그린";
+    // if (h >= 135 && h < 150) return "그린";
+    // if (h >= 150 && h < 165) return "민트";
+    // if (h >= 165 && h < 180) return "라이트블루";
+    // if (h >= 180 && h < 195) return "블루";
+    // if (h >= 195 && h < 210) return "네이비";
+    // if (h >= 210 && h < 225) return "퍼플";
+    // if (h >= 225 && h < 240) return "베이지";
+    // if (h >= 240 && h < 255) return "아이보리";
+    // if (h >= 255 && h < 270) return "실버";
+    // if (h >= 270 && h < 285) return "카키";
+    // if (h >= 285 && h < 300) return "브라운";
+    // if (h >= 300 && h < 315) return "코랄";
+    // if (h >= 315 && h < 330) return "라임";
+    // if (h >= 330 && h < 345) return "차콜";
+    // if (h >= 345 && h < 360) return "라이트베이지";
+    // if (h >= 150 && h < 165) return "다크그린";
 
-    // if (h < 30 || h >= 330) return "red";
-    // if (h >= 30 && h < 90) return "yellow";
-    // if (h >= 90 && h < 150) return "green";
-    // if (h >= 150 && h < 210) return "cyan";
-    // if (h >= 210 && h < 270) return "blue";
-    // if (h >= 270 && h < 330) return "magenta";
+    // if (h >= 300 && h < 315) return "퍼플";
+    // if (h >= 315 && h < 330) return "베이지";
+    // if (h >= 330 && h < 345) return "아이보리";
 
-    if (l < 20) return "블랙";
-    if (l > 80) return "화이트";
-
-    if (s < 20) return "그레이"; // low saturation -> gray scale color
-
-    if (h < 30 || h >= 330) return "레드";
-    if (h >= 30 && h < 90) return "옐로우";
-    if (h >= 90 && h < 150) return "그린";
-    if (h >= 150 && h < 210) return "다크그린";
-    if (h >= 210 && h < 270) return "블루";
-    if (h >= 270 && h < 330) return "퍼플";
+    if (h >= 0 && h < 15 && s >= 80 && l >= 80) return "레드";
+    if (h >= 15 && h < 30 && s >= 80 && l >= 60 && l < 70) return "버건디";
+    if (h >= 30 && h < 45 && s >= 50 && l >= 50 && l < 60) return "와인";
+    if (h >= 45 && h < 60 && s >= 50 && l >= 50 && l < 70) return "카멜";
+    if (h >= 60 && h < 75 && s >= 70 && l >= 50 && l < 70) return "오렌지";
+    if (h >= 75 && h < 90 && s >= 70 && l >= 50 && l < 70) return "골드";
+    if (h >= 90 && h < 105 && s >= 70 && l >= 50 && l < 70) return "옐로우";
+    if (h >= 105 && h < 120 && s >= 50 && l >= 60 && l < 80) return "핑크";
+    if (h >= 120 && h < 135 && s >= 50 && l >= 50 && l < 70)
+        return "라이트그린";
+    if (h >= 135 && h < 150 && s >= 50 && l >= 40 && l < 60) return "그린";
+    if (h >= 150 && h < 165 && s >= 50 && l >= 50 && l < 70) return "민트";
+    if (h >= 165 && h < 180 && s >= 50 && l >= 50 && l < 70)
+        return "라이트블루";
+    if (h >= 180 && h < 195 && s >= 50 && l >= 40 && l < 60) return "블루";
+    if (h >= 195 && h < 210 && s >= 50 && l >= 30 && l < 50) return "네이비";
+    if (h >= 210 && h < 225 && s >= 50 && l >= 40 && l < 60) return "퍼플";
+    if (h >= 225 && h < 240 && s >= 30 && l >= 70 && l < 90) return "베이지";
+    if (h >= 240 && h < 255 && s >= 30 && l >= 80 && l < 100) return "아이보리";
+    if (h >= 255 && h < 270 && s >= 30 && l >= 70 && l < 90) return "실버";
+    if (h >= 270 && h < 285 && s >= 50 && l >= 40 && l < 60) return "카키";
+    if (h >= 285 && h < 300 && s >= 50 && l >= 30 && l < 50) return "브라운";
+    if (h >= 300 && h < 315 && s >= 70 && l >= 50 && l < 70) return "코랄";
+    if (h >= 315 && h < 330 && s >= 70 && l >= 50 && l < 70) return "라임";
+    if (h >= 330 && h < 345 && s >= 50 && l >= 30 && l < 50) return "차콜";
+    if (h >= 345 && h < 360 && s >= 30 && l >= 70 && l < 90)
+        return "라이트베이지";
+    if (h >= 150 && h < 165 && s >= 50 && l >= 30 && l < 50) return "다크그린";
 
     // return "unknown";
     return "";
@@ -160,28 +201,11 @@ async function run() {
                 }))
         );
 
-        // const imageSrcList = products.map(async (product) => {
-        // const dominantColor = await ColorThief.getColor(product.image);
-        // product.dominantColor = dominantColor;
-        // return product;
-        // });
-        // console.log("🚀 ~ run ~ imageSrcList:", imageSrcList);
-        // const response = await fetch(imageSrcList);
-        // const buffer = await response.buffer();
-        // const buffer = await response.arrayBuffer();
-
-        // const dominantColor = await ColorThief.getColor(buffer);
-
         // ! 1페이지부터 8페이지까찌라 [0] 경우 1페이지를 말함
         const imageSrcList = products.map((product) => product.image);
 
         for (const image of imageSrcList) {
             const response = await fetch(image);
-            // ! deprecated method (.buffer())
-            // const buffer = await response.buffer();
-            // const imagePath = path.join(__dirname, "temp_image.jpg");
-            // fs.writeFileSync(imagePath, buffer);
-
             const arrayBuffer = await response.arrayBuffer();
             const buffer = Buffer.from(new Uint8Array(arrayBuffer));
             const imagePath = path.join(__dirname, "temp_image.jpg");
@@ -210,8 +234,16 @@ async function run() {
 
             // Update the product name with the color name
             products.forEach((product) => {
-                if (product.image === image) {
+                // if (product.image === image) {
+                //     product.name = `${product.name} ${colorName}`;
+                // }
+                if (
+                    product.image === image &&
+                    !product.name.includes(colorName)
+                ) {
                     product.name = `${product.name} ${colorName}`;
+                } else {
+                    product.name = `${product.name}`;
                 }
             });
         }
@@ -227,52 +259,89 @@ async function run() {
                 case name.includes("블랙"):
                     item.color = "블랙";
                     break;
-                case name.includes("네이비"):
-                    item.color = "네이비";
+                case name.includes("다크그레이"):
+                    item.color = "다크그레이";
                     break;
-                case name.includes("베이지"):
-                case name.includes("라이트베이지"):
-                    item.color = "베이지";
-                    break;
-                case name.includes("핑크"):
-                    item.color = "핑크";
-                    break;
-                case name.includes("코랄"):
-                    item.color = "코랄";
-                    break;
-                case name.includes("그린"):
-                case name.includes("다크그린"):
-                    item.color = "그린";
-                    break;
-                case name.includes("블루"):
-                    item.color = "블루";
-                    break;
-                case name.includes("라임"):
-                    item.color = "라임";
-                    break;
-                case name.includes("오렌지"):
-                    item.color = "오렌지";
-                    break;
-                case name.includes("레드"):
-                    item.color = "레드";
-                    break;
-                case name.includes("퍼플"):
-                    item.color = "퍼플";
-                    break;
-                case name.includes("민트"):
-                    item.color = "민트";
+                case name.includes("라이트그레이"):
+                    item.color = "라이트그레이";
                     break;
                 case name.includes("그레이"):
-                case name.includes("차콜"):
-                case name.includes("다크그레이"):
-                case name.includes("라이트그레이"):
                     item.color = "그레이";
+                    break;
+                case name.includes("실버"):
+                    item.color = "실버";
                     break;
                 case name.includes("카키"):
                     item.color = "카키";
                     break;
+                case name.includes("브라운"):
+                    item.color = "브라운";
+                    break;
+                case name.includes("레드"):
+                    item.color = "레드";
+                    break;
+                case name.includes("버건디"):
+                    item.color = "버건디";
+                    break;
+                case name.includes("와인"):
+                    item.color = "와인";
+                    break;
+                case name.includes("카멜"):
+                    item.color = "카멜";
+                    break;
+                case name.includes("오렌지"):
+                    item.color = "오렌지";
+                    break;
+                case name.includes("골드"):
+                    item.color = "골드";
+                    break;
+                case name.includes("옐로우"):
+                    item.color = "옐로우";
+                    break;
+                case name.includes("핑크"):
+                    item.color = "핑크";
+                    break;
+                case name.includes("라이트그린"):
+                    item.color = "라이트그린";
+                    break;
+                case name.includes("그린"):
+                    item.color = "그린";
+                    break;
+                case name.includes("민트"):
+                    item.color = "민트";
+                    break;
+                case name.includes("라이트블루"):
+                    item.color = "라이트블루";
+                    break;
+                case name.includes("블루"):
+                    item.color = "블루";
+                    break;
+                case name.includes("네이비"):
+                    item.color = "네이비";
+                    break;
+                case name.includes("퍼플"):
+                    item.color = "퍼플";
+                    break;
+                case name.includes("베이지"):
+                    item.color = "베이지";
+                    break;
                 case name.includes("아이보리"):
                     item.color = "아이보리";
+                    break;
+                case name.includes("라이트베이지"):
+                    item.color = "라이트베이지";
+                    break;
+                case name.includes("다크그린"):
+                    item.color = "다크그린";
+                    break;
+                case name.includes("코랄"):
+                    item.color = "코랄";
+                    break;
+                case name.includes("라임"):
+                    item.color = "라임";
+                    break;
+                case name.includes("차콜"):
+                    item.color = "차콜";
                     break;
                 default:
                     item.color = "무색";
@@ -640,17 +709,17 @@ async function run() {
         allProducts = allProducts.concat(products);
     }
 
-    console.log("All products: ", allProducts);
+    // console.log("All products: ", allProducts);
 
     // * save data to JSON file
-    // fs.writeFile(
-    //     "./data/products/products_acc.json",
-    //     JSON.stringify(allProducts),
-    //     (err) => {
-    //         if (err) throw err;
-    //         console.log("File saved");
-    //     }
-    // );
+    fs.writeFile(
+        "./data/products/products_acc.json",
+        JSON.stringify(allProducts),
+        (err) => {
+            if (err) throw err;
+            console.log("File saved");
+        }
+    );
 
     await browser.close();
 }
