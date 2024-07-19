@@ -77,9 +77,9 @@ async function run() {
             products.forEach((product) => {
                 const productName = product.name.trim();
 
-                if (productName.includes("OWH")) {
-                    console.log("@@", dominantColor, dominantColorName);
-                }
+                // if (productName.includes("OWH")) {
+                //     console.log("@@", dominantColor, dominantColorName);
+                // }
 
                 if (
                     product.image === image &&
@@ -89,7 +89,6 @@ async function run() {
                             productName.includes(colorName.en)
                     )
                 ) {
-                    console.log("**", productName, "**", dominantColorName);
                     product.name = `${productName} ${dominantColorName}`;
                 } else {
                     product.name = `${productName}`;

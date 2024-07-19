@@ -1,5 +1,18 @@
 import fs from "fs";
 import puppeteer from "puppeteer";
+import path from "path";
+import { fileURLToPath } from "url";
+import {
+    colorNames,
+    classifyColor,
+    getDominantColor,
+    generateRandomDate,
+    generateRandomLikeCount,
+    generateRandomSaleCount,
+} from "../../utils/utils.js";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 async function run() {
     const browser = await puppeteer.launch();
@@ -19,47 +32,13 @@ async function run() {
         "https://www.mckayson.com/goods/goods_list.php?page=11&cateCd=001",
         "https://www.mckayson.com/goods/goods_list.php?page=12&cateCd=001",
         "https://www.mckayson.com/goods/goods_list.php?page=13&cateCd=001",
-        "https://www.mckayson.com/goods/goods_list.php?page=14&cateCd=001",
     ];
 
-    // * insert value for "date"
-    function generateRandomDate(start, end) {
-        return new Date(
-            start.getTime() + Math.random() * (end.getTime() - start.getTime())
-        )
-            .toISOString()
-            .slice(0, 10); // Format: YYYY-MM-DD
-    }
+    // * insert value for "date", "like", "sale"
     const startDate = new Date("2022-01-01");
     const endDate = new Date("2024-12-31");
-
-    // * insert value for "like"
-    function generateRandomLikeCount(minLikes, maxLikes) {
-        // Ensure minLikes is smaller than maxLikes
-        if (minLikes > maxLikes) {
-            [minLikes, maxLikes] = [maxLikes, minLikes]; // Swap values
-        }
-
-        const likeRange = maxLikes - minLikes;
-        const randomLikes =
-            Math.floor(Math.random() * (likeRange + 1)) + minLikes;
-        return randomLikes;
-    }
     const minLikes = 50;
     const maxLikes = 2000;
-
-    // * insert value for "sale"
-    function generateRandomSaleCount(minSales, maxSales) {
-        // Ensure minSales is smaller than maxSales
-        if (minSales > maxSales) {
-            [minSales, maxSales] = [maxSales, minSales]; // Swap values
-        }
-
-        const saleRange = maxSales - minSales;
-        const randomSales =
-            Math.floor(Math.random() * (saleRange + 1)) + minSales;
-        return randomSales;
-    }
     const minSales = 10;
     const maxSales = 1000;
 
@@ -91,63 +70,137 @@ async function run() {
                 }))
         );
 
+        // * 추가 컬러 구분 (상품명에 색상이 들어가야해서 *컬러 코드 아래에 배치)
+        // ! 페이지가 [0] 경우 1페이지를 말함
+        const imageSrcList = products.map((product) => product.image);
+
+        for (const image of imageSrcList) {
+            const dominantColor = await getDominantColor(image, __dirname);
+            const dominantColorName = classifyColor(dominantColor);
+
+            // Update the product name with the color name
+            products.forEach((product) => {
+                const productName = product.name.trim();
+
+                if (
+                    product.image === image &&
+                    !colorNames.some(
+                        (colorName) =>
+                            productName.includes(colorName.ko) ||
+                            productName.includes(colorName.en)
+                    )
+                ) {
+                    product.name = `${productName} ${dominantColorName}`;
+                } else {
+                    product.name = `${productName}`;
+                }
+            });
+        }
+
         // * 컬러
         for (const item of products) {
-            const name = item.name.toLowerCase();
+            const name = item.name;
 
             switch (true) {
-                case name.includes("화이트"):
+                case name.includes("화이트") ||
+                    name.includes("WHI") ||
+                    name.includes("OWH"):
                     item.color = "화이트";
                     break;
-                case name.includes("블랙"):
+                case name.includes("블랙") || name.includes("BLK"):
                     item.color = "블랙";
                     break;
-                case name.includes("네이비"):
-                    item.color = "네이비";
+                case name.includes("다크그레이") || name.includes("DGY"):
+                    item.color = "다크그레이";
                     break;
-                case name.includes("베이지"):
-                case name.includes("라이트베이지"):
-                    item.color = "베이지";
+                case name.includes("라이트그레이") || name.includes("LGR"):
+                    item.color = "라이트그레이";
                     break;
-                case name.includes("핑크"):
-                    item.color = "핑크";
-                    break;
-                case name.includes("코랄"):
-                    item.color = "코랄";
-                    break;
-                case name.includes("그린"):
-                case name.includes("다크그린"):
-                    item.color = "그린";
-                    break;
-                case name.includes("블루"):
-                    item.color = "블루";
-                    break;
-                case name.includes("라임"):
-                    item.color = "라임";
-                    break;
-                case name.includes("오렌지"):
-                    item.color = "오렌지";
-                    break;
-                case name.includes("레드"):
-                    item.color = "레드";
-                    break;
-                case name.includes("퍼플"):
-                    item.color = "퍼플";
-                    break;
-                case name.includes("민트"):
-                    item.color = "민트";
-                    break;
-                case name.includes("그레이"):
-                case name.includes("차콜"):
-                case name.includes("다크그레이"):
-                case name.includes("라이트그레이"):
+                case (name.includes("그레이") &&
+                    !name.includes("LGR") &&
+                    !name.includes("DGY")) ||
+                    name.includes("GRE"):
                     item.color = "그레이";
                     break;
-                case name.includes("카키"):
+                case name.includes("실버") || name.includes("SIL"):
+                    item.color = "실버";
+                    break;
+                case name.includes("카키") || name.includes("KHA"):
                     item.color = "카키";
                     break;
-                case name.includes("아이보리"):
+                case name.includes("브라운") ||
+                    name.includes("BRO") ||
+                    name.includes("BRI"):
+                    item.color = "브라운";
+                    break;
+                case name.includes("레드") || name.includes("RED"):
+                    item.color = "레드";
+                    break;
+                case name.includes("버건디") || name.includes("BUR"):
+                    item.color = "버건디";
+                    break;
+                case name.includes("와인") || name.includes("WHN"):
+                    item.color = "와인";
+                    break;
+                case name.includes("카멜") || name.includes("CAM"):
+                    item.color = "카멜";
+                    break;
+                case name.includes("오렌지") || name.includes("ORG"):
+                    item.color = "오렌지";
+                    break;
+                case name.includes("골드") || name.includes("GOL"):
+                    item.color = "골드";
+                    break;
+                case name.includes("옐로우") || name.includes("YLW"):
+                    item.color = "옐로우";
+                    break;
+                case name.includes("핑크") || name.includes("PNK"):
+                    item.color = "핑크";
+                    break;
+                case name.includes("라이트그린") || name.includes("LGRN"):
+                    item.color = "라이트그린";
+                    break;
+                case (name.includes("그린") && !name.includes("DGN")) ||
+                    name.includes("GRN"):
+                    item.color = "그린";
+                    break;
+                case name.includes("민트") || name.includes("MIN"):
+                    item.color = "민트";
+                    break;
+                case name.includes("라이트블루") || name.includes("LBL"):
+                    item.color = "라이트블루";
+                    break;
+                case (name.includes("블루") && !name.includes("LBL")) ||
+                    name.includes("BLU"):
+                    item.color = "블루";
+                    break;
+                case name.includes("네이비") || name.includes("NVY"):
+                    item.color = "네이비";
+                    break;
+                case name.includes("퍼플") || name.includes("LAV"):
+                    item.color = "퍼플";
+                    break;
+                case (name.includes("베이지") && !name.includes("LBE")) ||
+                    name.includes("BEG"):
+                    item.color = "베이지";
+                    break;
+                case name.includes("아이보리") || name.includes("IVY"):
                     item.color = "아이보리";
+                    break;
+                case name.includes("라이트베이지") || name.includes("LBE"):
+                    item.color = "라이트베이지";
+                    break;
+                case name.includes("다크그린") || name.includes("DGN"):
+                    item.color = "다크그린";
+                    break;
+                case name.includes("코랄") || name.includes("CRL"):
+                    item.color = "코랄";
+                    break;
+                case name.includes("라임") || name.includes("LIM"):
+                    item.color = "라임";
+                    break;
+                case name.includes("차콜") || name.includes("CHA"):
+                    item.color = "차콜";
                     break;
                 default:
                     item.color = "무색";
@@ -168,6 +221,9 @@ async function run() {
                 name.includes("토트백") ||
                 name.includes("버킷백") ||
                 name.includes("파우치") ||
+                name.includes("하프백") ||
+                name.includes("카트백") ||
+                name.includes("슬링백") ||
                 name.includes("힙색") ||
                 name.includes("케이스") ||
                 name.includes("볼케이스") ||
@@ -175,17 +231,21 @@ async function run() {
                 name.includes("바이져") ||
                 name.includes("바이저") ||
                 name.includes("헌팅캡") ||
+                name.includes("변형캡") ||
                 name.includes("캠프캡") ||
                 name.includes("버킷햇") ||
                 name.includes("버킷 햇") ||
                 name.includes("베레모") ||
+                name.includes("바라클라바") ||
                 name.includes("모자") ||
+                name.includes("캡비니") ||
                 name.includes("장갑") ||
                 name.includes("양손장갑") ||
                 name.includes("골프장갑") ||
                 name.includes("네임택") ||
                 name.includes("슈즈") ||
                 name.includes("골프화") ||
+                name.includes("부츠") ||
                 name.includes("롱부츠") ||
                 name.includes("벨트") ||
                 name.includes("머니클립") ||
@@ -193,7 +253,17 @@ async function run() {
                 name.includes("마프") ||
                 name.includes("레깅스") ||
                 name.includes("팔토시") ||
-                name.includes("스카프")
+                name.includes("스카프") ||
+                name.includes("마스크") ||
+                name.includes("방한마스크") ||
+                name.includes("토시") ||
+                name.includes("스파이크") ||
+                name.includes("케이프") ||
+                name.includes("넥워머") ||
+                name.includes("레그워머") ||
+                name.includes("핸드워머") ||
+                name.includes("핸드 워머") ||
+                name.includes("웨지 커버")
             ) {
                 item.acc = true;
             } else {
@@ -223,310 +293,17 @@ async function run() {
         // * 성별
         for (const item of products) {
             const genderLabel = item.labels.find((label) =>
-                ["여성용", "남성용", "공용"].includes(label[1])
+                ["여성", "남성", "공용"].includes(label[1])
             );
+
             if (genderLabel) {
-                item.gender = genderLabel[1]; // Assigns "여성용", "남성용", or "공용"
+                item.gender = genderLabel[1]; // Assigns "여성", "남성", or "공용"
             } else {
-                item.gender = "Unspecified"; // Default value if no gender-specific label is found
+                item.gender = "공용"; // Default value if no gender-specific label is found
             }
         }
 
         // * 사이즈 , 계절
-        // for (const item of products) {
-        //     const name = item.name.toLowerCase();
-        //     const gender = item.gender.toLowerCase();
-
-        //     switch (true) {
-        //         // * 여성
-        //         case (gender.includes("여성용") && name.includes("티셔츠")) ||
-        //             (gender.includes("여성용") && name.includes("레이어")) ||
-        //             (gender.includes("여성용") &&
-        //                 name.includes("베이스레이어")) ||
-        //             (gender.includes("여성용") && name.includes("가디건")) ||
-        //             (gender.includes("여성용") &&
-        //                 name.includes("슬리브리스")) ||
-        //             (gender.includes("여성용") && name.includes("블라우스")) ||
-        //             (gender.includes("여성용") && name.includes("상의")) ||
-        //             (gender.includes("여성용") && name.includes("맨투맨")):
-        //             item.size = ["080", "085", "090", "095", "100"];
-        //             item.season = ["봄", "여름"];
-        //             break;
-        //         case (gender.includes("여성용") && name.includes("스웨터")) ||
-        //             (gender.includes("여성용") && name.includes("베스트")) ||
-        //             (gender.includes("여성용") && name.includes("니트")):
-        //             item.size = [
-        //                 "080",
-        //                 "085",
-        //                 "090",
-        //                 "095",
-        //                 "100",
-        //                 "105",
-        //                 "110",
-        //             ];
-        //             item.season = ["가을", "겨울"];
-        //             break;
-        //         case (gender.includes("여성용") && name.includes("원피스")) ||
-        //             (gender.includes("여성용") && name.includes("점프슈트")):
-        //             item.size = ["080", "085", "090", "095"];
-        //             item.season = ["봄", "여름"];
-        //             break;
-        //         case (gender.includes("여성용") && name.includes("팬츠")) ||
-        //             (gender.includes("여성용") && name.includes("레깅스")) ||
-        //             (gender.includes("여성용") && name.includes("하의")) ||
-        //             (gender.includes("여성용") && name.includes("청바지")) ||
-        //             (gender.includes("여성용") && name.includes("조거팬츠")) ||
-        //             (gender.includes("여성용") && name.includes("조거 팬츠")):
-        //             item.size = [
-        //                 "061",
-        //                 "064",
-        //                 "067",
-        //                 "070",
-        //                 "073",
-        //                 "076",
-        //                 "080",
-        //                 "084",
-        //                 "FRE",
-        //             ];
-        //             item.season = ["봄", "여름", "가을"];
-        //             break;
-        //         case (gender.includes("여성용") && name.includes("숏팬츠")) ||
-        //             (gender.includes("여성용") && name.includes("숏 팬츠")) ||
-        //             (gender.includes("여성용") && name.includes("쇼츠")) ||
-        //             (gender.includes("여성용") &&
-        //                 name.includes("스커트 팬츠")) ||
-        //             (gender.includes("여성용") && name.includes("반바지")) ||
-        //             (gender.includes("여성용") &&
-        //                 name.includes("버뮤다 팬츠")) ||
-        //             (gender.includes("여성용") && name.includes("스커트")) ||
-        //             (gender.includes("여성용") && name.includes("랩스커트")) ||
-        //             (gender.includes("여성용") && name.includes("큐롯")):
-        //             item.size = ["061", "064", "067", "070", "073", "076"];
-        //             item.season = ["봄", "여름"];
-        //             break;
-        //         case (gender.includes("여성용") && name.includes("자켓")) ||
-        //             (gender.includes("여성용") && name.includes("바람막이")) ||
-        //             (gender.includes("여성용") &&
-        //                 name.includes("윈드 브레이커")) ||
-        //             (gender.includes("여성용") && name.includes("점퍼")):
-        //             item.size = ["080", "085", "090", "095"];
-        //             item.season = ["가을", "겨울"];
-        //             break;
-        //         case (gender.includes("여성용") && name.includes("카트백")) ||
-        //             (gender.includes("여성용") && name.includes("보스턴백")) ||
-        //             (gender.includes("여성용") && name.includes("토트백")) ||
-        //             (gender.includes("여성용") && name.includes("슬링백")) ||
-        //             (gender.includes("여성용") && name.includes("파우치")) ||
-        //             (gender.includes("여성용") && name.includes("토시")) ||
-        //             (gender.includes("여성용") && name.includes("바이저")) ||
-        //             (gender.includes("여성용") && name.includes("햇")) ||
-        //             (gender.includes("여성용") && name.includes("버킷백")):
-        //             item.size = [
-        //                 "00L",
-        //                 "00M",
-        //                 "018",
-        //                 "019",
-        //                 "020",
-        //                 "021",
-        //                 "022",
-        //                 "023",
-        //                 "024",
-        //                 "FRE",
-        //                 "230",
-        //                 "240",
-        //                 "250",
-        //                 "260",
-        //                 "270",
-        //             ];
-        //             item.season = ["ALW"];
-        //             break;
-
-        //         // * 남성
-        //         case (gender.includes("남성용") && name.includes("티셔츠")) ||
-        //             (gender.includes("남성용") && name.includes("레이어")) ||
-        //             (gender.includes("남성용") &&
-        //                 name.includes("베이스레이어")) ||
-        //             (gender.includes("남성용") && name.includes("가디건")) ||
-        //             (gender.includes("남성용") &&
-        //                 name.includes("슬리브리스")) ||
-        //             (gender.includes("남성용") && name.includes("상의")) ||
-        //             (gender.includes("남성용") && name.includes("맨투맨")):
-        //             item.size = ["080", "085", "090", "095", "100"];
-        //             item.season = ["봄", "여름"];
-        //             break;
-        //         case (gender.includes("남성용") && name.includes("스웨터")) ||
-        //             (gender.includes("남성용") && name.includes("베스트")) ||
-        //             (gender.includes("남성용") && name.includes("니트")):
-        //             item.size = ["095", "100", "105", "110"];
-        //             item.season = ["가을", "겨울"];
-        //             break;
-        //         case (gender.includes("남성용") && name.includes("팬츠")) ||
-        //             (gender.includes("남성용") && name.includes("하의")) ||
-        //             (gender.includes("남성용") && name.includes("청바지")) ||
-        //             (gender.includes("남성용") && name.includes("본딩팬츠")) ||
-        //             (gender.includes("남성용") && name.includes("조거팬츠")) ||
-        //             (gender.includes("남성용") && name.includes("조거 팬츠")):
-        //             item.size = [
-        //                 "078",
-        //                 "080",
-        //                 "082",
-        //                 "084",
-        //                 "086",
-        //                 "088",
-        //                 "090",
-        //                 "092",
-        //             ];
-        //             item.season = ["봄", "여름", "가을"];
-        //             break;
-        //         case (gender.includes("남성용") && name.includes("숏팬츠")) ||
-        //             (gender.includes("남성용") && name.includes("숏 팬츠")) ||
-        //             (gender.includes("남성용") && name.includes("쇼츠")) ||
-        //             (gender.includes("남성용") &&
-        //                 name.includes("스커트 팬츠")) ||
-        //             (gender.includes("남성용") && name.includes("반바지")) ||
-        //             (gender.includes("남성용") &&
-        //                 name.includes("버뮤다 팬츠")) ||
-        //             (gender.includes("남성용") && name.includes("버뮤다 팬츠")):
-        //             item.size = [
-        //                 "078",
-        //                 "080",
-        //                 "082",
-        //                 "084",
-        //                 "086",
-        //                 "088",
-        //                 "090",
-        //             ];
-        //             item.season = ["봄", "여름"];
-        //             break;
-        //         case (gender.includes("남성용") && name.includes("자켓")) ||
-        //             (gender.includes("남성용") && name.includes("바람막이")) ||
-        //             (gender.includes("남성용") && name.includes("점프슈트")) ||
-        //             (gender.includes("남성용") &&
-        //                 name.includes("윈드 브레이커")) ||
-        //             (gender.includes("남성용") && name.includes("점퍼")):
-        //             item.size = ["095", "100", "105", "110", "115"];
-        //             item.season = ["가을", "겨울"];
-        //             break;
-        //         case (gender.includes("남성용") && name.includes("카트백")) ||
-        //             (gender.includes("남성용") && name.includes("보스턴백")) ||
-        //             (gender.includes("남성용") && name.includes("토트백")) ||
-        //             (gender.includes("남성용") && name.includes("슬링백")) ||
-        //             (gender.includes("남성용") && name.includes("파우치")) ||
-        //             (gender.includes("남성용") && name.includes("토시")) ||
-        //             (gender.includes("남성용") && name.includes("바이저")) ||
-        //             (gender.includes("남성용") && name.includes("햇")) ||
-        //             (gender.includes("남성용") && name.includes("버킷백")):
-        //             item.size = [
-        //                 "00L",
-        //                 "00M",
-        //                 "018",
-        //                 "019",
-        //                 "020",
-        //                 "021",
-        //                 "022",
-        //                 "023",
-        //                 "024",
-        //                 "FRE",
-        //                 "230",
-        //                 "240",
-        //                 "250",
-        //                 "260",
-        //                 "270",
-        //             ];
-        //             item.season = ["ALW"];
-        //             break;
-
-        //         // * 공용
-        //         case (gender.includes("공용") && name.includes("티셔츠")) ||
-        //             (gender.includes("공용") && name.includes("레이어")) ||
-        //             (gender.includes("공용") &&
-        //                 name.includes("베이스레이어")) ||
-        //             (gender.includes("공용") && name.includes("가디건")) ||
-        //             (gender.includes("공용") && name.includes("슬리브리스")) ||
-        //             (gender.includes("공용") && name.includes("블라우스")) ||
-        //             (gender.includes("공용") && name.includes("상의")) ||
-        //             (gender.includes("공용") && name.includes("맨투맨")):
-        //             item.size = ["080", "085", "090", "095", "100", "105"];
-        //             item.season = ["봄", "여름"];
-        //             break;
-        //         case (gender.includes("공용") && name.includes("스웨터")) ||
-        //             (gender.includes("공용") && name.includes("베스트")) ||
-        //             (gender.includes("공용") && name.includes("니트")):
-        //             item.size = ["080", "085", "090", "095", "100", "105"];
-        //             item.season = ["가을", "겨울"];
-        //             break;
-        //         case (gender.includes("공용") && name.includes("원피스")) ||
-        //             (gender.includes("공용") && name.includes("점프슈트")):
-        //             item.size = ["080", "085", "090", "095", "100", "105"];
-        //             item.season = ["봄", "여름"];
-        //             break;
-        //         case (gender.includes("공용") && name.includes("팬츠")) ||
-        //             (gender.includes("공용") && name.includes("레깅스")) ||
-        //             (gender.includes("공용") && name.includes("하의")) ||
-        //             (gender.includes("공용") && name.includes("청바지")) ||
-        //             (gender.includes("공용") && name.includes("조거팬츠")) ||
-        //             (gender.includes("공용") && name.includes("조거 팬츠")):
-        //             item.size = [
-        //                 "061",
-        //                 "064",
-        //                 "067",
-        //                 "070",
-        //                 "073",
-        //                 "076",
-        //                 "080",
-        //                 "084",
-        //                 "FRE",
-        //             ];
-        //             item.season = ["봄", "여름", "가을"];
-        //             break;
-        //         case (gender.includes("공용") && name.includes("숏팬츠")) ||
-        //             (gender.includes("공용") && name.includes("숏 팬츠")) ||
-        //             (gender.includes("공용") && name.includes("쇼츠")) ||
-        //             (gender.includes("공용") && name.includes("스커트 팬츠")) ||
-        //             (gender.includes("공용") && name.includes("반바지")) ||
-        //             (gender.includes("공용") && name.includes("버뮤다 팬츠")) ||
-        //             (gender.includes("공용") && name.includes("스커트")) ||
-        //             (gender.includes("공용") && name.includes("랩스커트")) ||
-        //             (gender.includes("공용") && name.includes("큐롯")):
-        //             item.size = ["061", "064", "067", "070", "073", "076"];
-        //             item.season = ["봄", "여름"];
-        //             break;
-        //         case (gender.includes("공용") && name.includes("자켓")) ||
-        //             (gender.includes("공용") &&
-        //                 name.includes("윈드 브레이커")) ||
-        //             (gender.includes("공용") && name.includes("점퍼")):
-        //             item.size = ["080", "085", "090", "095"];
-        //             item.season = ["가을", "겨울"];
-        //             break;
-        //         case (gender.includes("공용") && name.includes("볼케이스")) ||
-        //             (gender.includes("공용") && name.includes("키링")) ||
-        //             (gender.includes("공용") && name.includes("볼파우치")) ||
-        //             (gender.includes("공용") && name.includes("거리측정기")) ||
-        //             (gender.includes("공용") && name.includes("우산")) ||
-        //             (gender.includes("공용") && name.includes("볼마커")) ||
-        //             (gender.includes("공용") && name.includes("보스턴백")) ||
-        //             (gender.includes("공용") && name.includes("캐디백")) ||
-        //             (gender.includes("공용") && name.includes("헌팅캡")) ||
-        //             (gender.includes("공용") && name.includes("웨지 커버")) ||
-        //             (gender.includes("공용") && name.includes("볼캡")) ||
-        //             (gender.includes("공용") && name.includes("항공커버")):
-        //             item.size = ["FRE"];
-        //             item.season = ["ALW"];
-        //             break;
-        //         case gender.includes("공용") && name.includes("골프화"):
-        //             item.size = ["230", "240", "250", "260", "270", "280"];
-        //             item.season = ["ALW"];
-        //             break;
-        //         case gender.includes("unspecified"):
-        //             item.size = ["FRE"];
-        //             item.season = ["ALW"];
-        //             break;
-        //         default:
-        //             item.size = ["FRE"];
-        //             item.season = ["ALW"];
-        //     }
-        // }
-
         function determineSizeAndSeason(gender, name) {
             const config = {
                 여성용: {
@@ -650,6 +427,10 @@ async function run() {
                             ],
                             season: ["봄", "여름"],
                         },
+                    "스웨터 키링": {
+                        size: ["FRE"],
+                        season: ["ALW"],
+                    },
                     "스웨터,베스트,니트": {
                         size: ["080", "085", "090", "095", "100", "105", "110"],
                         season: ["가을", "겨울"],
@@ -688,7 +469,7 @@ async function run() {
                         size: ["080", "085", "090", "095", "100", "105", "110"],
                         season: ["가을", "겨울"],
                     },
-                    "캐디백,항공커버,하프백,보스턴백,토트백,버킷백,카트백,파우치,힙색,케이스,볼파우치,슬링백,볼케이스,토시,버킷백,양말,니삭스,장갑,양손장갑,양손 장갑,키링,슈즈,롱부츠,부츠,골프화,슈즈,스파이크,마스크,방한마스크,방한 마스크,넥워머,워머,레그워머,핸드워머,토시,벨트":
+                    "캐디백,항공커버,하프백,보스턴백,토트백,버킷백,카트백,파우치,힙색,케이스,볼파우치,슬링백,볼케이스,토시,버킷백,양말,니삭스,장갑,양손장갑,양손 장갑,키링,스웨터 키링,슈즈,롱부츠,부츠,골프화,슈즈,스파이크,마스크,방한마스크,방한 마스크,넥워머,워머,레그워머,핸드워머,토시,벨트":
                         {
                             size: ["FRE"],
                             season: ["ALW"],
