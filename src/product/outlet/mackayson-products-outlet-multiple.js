@@ -37,13 +37,6 @@ async function run() {
         "https://www.mckayson.com/goods/goods_list.php?page=16&cateCd=005",
         "https://www.mckayson.com/goods/goods_list.php?page=17&cateCd=005",
         "https://www.mckayson.com/goods/goods_list.php?page=18&cateCd=005",
-        "https://www.mckayson.com/goods/goods_list.php?page=19&cateCd=005",
-        "https://www.mckayson.com/goods/goods_list.php?page=20&cateCd=005",
-        "https://www.mckayson.com/goods/goods_list.php?page=21&cateCd=005",
-        "https://www.mckayson.com/goods/goods_list.php?page=22&cateCd=005",
-        "https://www.mckayson.com/goods/goods_list.php?page=23&cateCd=005",
-        "https://www.mckayson.com/goods/goods_list.php?page=24&cateCd=005",
-        "https://www.mckayson.com/goods/goods_list.php?page=25&cateCd=005",
     ];
 
     // * insert value for "date", "like", "sale"
