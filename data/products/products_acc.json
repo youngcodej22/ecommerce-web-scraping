@@ -18,14 +18,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "캐디백",
-        "date": "2022-04-14",
-        "like": 155,
-        "sale": 832,
-        "gender": "여성",
+        "date": "2023-11-04",
+        "like": 163,
+        "sale": 610,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -48,14 +48,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "캐디백",
-        "date": "2022-02-14",
-        "like": 1690,
-        "sale": 779,
-        "gender": "여성",
+        "date": "2022-07-28",
+        "like": 404,
+        "sale": 942,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -74,21 +74,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "캐디백",
-        "date": "2023-09-19",
-        "like": 1163,
-        "sale": 270,
-        "gender": "여성",
+        "date": "2023-03-11",
+        "like": 1305,
+        "sale": 213,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "맥케이슨 경량 캐디백 MCU3CB881 GRN",
-        "price": "890,000 ",
+        "price": "623,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003705/image/main/register_main_036.jpg",
         "labels": [
             [
@@ -100,21 +100,21 @@
                 "세일"
             ]
         ],
+        "gender": "공용",
         "color": "그린",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "캐디백",
-        "date": "2022-09-09",
-        "like": 358,
-        "sale": 251,
-        "gender": "공용",
+        "date": "2022-06-20",
+        "like": 651,
+        "sale": 166,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "맥케이슨 경량 캐디백 MCU3CB881 WHI",
-        "price": "890,000 ",
+        "price": "623,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003704/image/main/register_main_035.jpg",
         "labels": [
             [
@@ -126,21 +126,21 @@
                 "세일"
             ]
         ],
+        "gender": "공용",
         "color": "화이트",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "캐디백",
-        "date": "2024-04-03",
-        "like": 1703,
-        "sale": 422,
-        "gender": "공용",
+        "date": "2023-12-06",
+        "like": 720,
+        "sale": 704,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "맥케이슨 경량 캐디백 MCU3CB881 PNK",
-        "price": "890,000 ",
+        "price": "623,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003703/image/main/register_main_087.jpg",
         "labels": [
             [
@@ -152,21 +152,47 @@
                 "세일"
             ]
         ],
+        "gender": "공용",
         "color": "핑크",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "캐디백",
-        "date": "2022-01-09",
-        "like": 324,
-        "sale": 218,
-        "gender": "공용",
+        "date": "2022-10-10",
+        "like": 782,
+        "sale": 438,
+        "size": ["FRE"],
+        "season": ["ALW"]
+    },
+    {
+        "category": "ACC",
+        "name": "프릴 디테일링 포인트 휠 캐디백 MCW3CB782 BLK",
+        "price": "693,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003706/image/main/register_main_047.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/WOMEN.png",
+                "여성"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/SALE.png",
+                "세일"
+            ]
+        ],
+        "gender": "여성",
+        "color": "블랙",
+        "acc": true,
+        "subCategory": "가방",
+        "thirdCategory": "캐디백",
+        "date": "2022-11-05",
+        "like": 1651,
+        "sale": 967,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "공용 타탄 체크 캐디백 MCU3CB680 BRO",
-        "price": "1,290,000 ",
+        "price": "903,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003242/image/main/register_main_041.jpg",
         "labels": [
             [
@@ -178,14 +204,14 @@
                 "세일"
             ]
         ],
+        "gender": "공용",
         "color": "브라운",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "캐디백",
-        "date": "2022-06-02",
-        "like": 1877,
-        "sale": 183,
-        "gender": "공용",
+        "date": "2024-12-17",
+        "like": 814,
+        "sale": 853,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -208,14 +234,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "오렌지",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "보스턴백",
-        "date": "2023-02-23",
-        "like": 1013,
-        "sale": 667,
-        "gender": "여성",
+        "date": "2023-08-18",
+        "like": 781,
+        "sale": 514,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -238,14 +264,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "퍼플",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "보스턴백",
-        "date": "2023-11-07",
-        "like": 1411,
-        "sale": 156,
-        "gender": "여성",
+        "date": "2023-08-06",
+        "like": 805,
+        "sale": 713,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -268,14 +294,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "보스턴백",
-        "date": "2022-10-16",
-        "like": 1339,
-        "sale": 64,
-        "gender": "여성",
+        "date": "2024-11-16",
+        "like": 227,
+        "sale": 26,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -298,14 +324,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "보스턴백",
-        "date": "2023-07-11",
-        "like": 1323,
-        "sale": 623,
-        "gender": "여성",
+        "date": "2023-09-16",
+        "like": 1066,
+        "sale": 510,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -328,14 +354,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "보스턴백",
-        "date": "2024-12-23",
-        "like": 841,
-        "sale": 35,
-        "gender": "여성",
+        "date": "2022-03-23",
+        "like": 460,
+        "sale": 429,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -358,21 +384,47 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "보스턴백",
-        "date": "2022-01-26",
-        "like": 951,
-        "sale": 292,
-        "gender": "남성",
+        "date": "2024-01-24",
+        "like": 1691,
+        "sale": 174,
+        "size": ["FRE"],
+        "season": ["ALW"]
+    },
+    {
+        "category": "ACC",
+        "name": "프릴 보스턴백 MCW3BG786 BLK",
+        "price": "273,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003652/image/main/register_main_085.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/WOMEN.png",
+                "여성"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/SALE.png",
+                "세일"
+            ]
+        ],
+        "gender": "여성",
+        "color": "블랙",
+        "acc": true,
+        "subCategory": "가방",
+        "thirdCategory": "보스턴백",
+        "date": "2023-08-26",
+        "like": 1423,
+        "sale": 988,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "공용 빅로고 경량 보스턴백 MCU3BG885 GRE",
-        "price": "390,000 ",
+        "price": "273,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003659/image/main/register_main_060.jpg",
         "labels": [
             [
@@ -384,14 +436,66 @@
                 "세일"
             ]
         ],
+        "gender": "공용",
         "color": "그레이",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "보스턴백",
-        "date": "2024-06-18",
-        "like": 989,
-        "sale": 179,
+        "date": "2024-07-11",
+        "like": 1276,
+        "sale": 707,
+        "size": ["FRE"],
+        "season": ["ALW"]
+    },
+    {
+        "category": "ACC",
+        "name": "공용 타탄 체크 보스턴백 MCU3BG684 GRN",
+        "price": "413,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003243/image/main/register_main_032.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/UNISEX_.png",
+                "공용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/SALE.png",
+                "세일"
+            ]
+        ],
         "gender": "공용",
+        "color": "그린",
+        "acc": true,
+        "subCategory": "가방",
+        "thirdCategory": "보스턴백",
+        "date": "2022-10-07",
+        "like": 289,
+        "sale": 633,
+        "size": ["FRE"],
+        "season": ["ALW"]
+    },
+    {
+        "category": "ACC",
+        "name": "공용 타탄 체크 보스턴백 MCU3BG684 BRO",
+        "price": "413,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003244/image/main/register_main_028.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/UNISEX_.png",
+                "공용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/SALE.png",
+                "세일"
+            ]
+        ],
+        "gender": "공용",
+        "color": "브라운",
+        "acc": true,
+        "subCategory": "가방",
+        "thirdCategory": "보스턴백",
+        "date": "2022-01-30",
+        "like": 1261,
+        "sale": 127,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -414,14 +518,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "보스턴백",
-        "date": "2024-10-01",
-        "like": 134,
-        "sale": 704,
-        "gender": "여성",
+        "date": "2022-11-16",
+        "like": 778,
+        "sale": 689,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -440,14 +544,14 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "보스턴백",
-        "date": "2024-12-14",
-        "like": 738,
-        "sale": 703,
-        "gender": "여성",
+        "date": "2023-08-25",
+        "like": 1518,
+        "sale": 894,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -466,14 +570,14 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "보스턴백",
-        "date": "2022-11-30",
-        "like": 409,
-        "sale": 420,
-        "gender": "여성",
+        "date": "2022-11-22",
+        "like": 1664,
+        "sale": 368,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -496,14 +600,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "아이보리",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "보스턴백",
-        "date": "2022-12-24",
-        "like": 877,
-        "sale": 992,
-        "gender": "여성",
+        "date": "2022-12-30",
+        "like": 159,
+        "sale": 16,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -526,14 +630,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "블루",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "보스턴백",
-        "date": "2024-06-24",
-        "like": 1334,
-        "sale": 341,
-        "gender": "여성",
+        "date": "2022-11-14",
+        "like": 1310,
+        "sale": 336,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -556,14 +660,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "보스턴백",
-        "date": "2023-02-18",
-        "like": 1969,
-        "sale": 161,
-        "gender": "여성",
+        "date": "2024-12-04",
+        "like": 1797,
+        "sale": 779,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -586,14 +690,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "라임",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "보스턴백",
-        "date": "2023-03-02",
-        "like": 403,
-        "sale": 50,
-        "gender": "여성",
+        "date": "2023-08-23",
+        "like": 1030,
+        "sale": 839,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -616,21 +720,21 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "보스턴백",
-        "date": "2023-04-07",
-        "like": 438,
-        "sale": 443,
-        "gender": "여성",
+        "date": "2023-12-31",
+        "like": 1445,
+        "sale": 524,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "씨슬 버킷백 MCW3BG965 BRO",
-        "price": "390,000 ",
+        "price": "273,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005612/image/main/register_main_099.jpg",
         "labels": [
             [
@@ -642,21 +746,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "브라운",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "보스턴백",
-        "date": "2023-02-26",
-        "like": 1917,
-        "sale": 190,
-        "gender": "여성",
+        "date": "2023-03-09",
+        "like": 1290,
+        "sale": 979,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "씨슬 버킷백 MCW3BG965 GRN",
-        "price": "390,000 ",
+        "price": "273,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005613/image/main/register_main_057.jpg",
         "labels": [
             [
@@ -668,21 +772,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "보스턴백",
-        "date": "2023-12-23",
-        "like": 1357,
-        "sale": 37,
-        "gender": "여성",
+        "date": "2024-02-16",
+        "like": 1415,
+        "sale": 895,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "씨슬 버킷백 MCW3BG965 IVY",
-        "price": "390,000 ",
+        "price": "273,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005614/image/main/register_main_042.jpg",
         "labels": [
             [
@@ -694,14 +798,14 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "아이보리",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "보스턴백",
-        "date": "2023-02-02",
-        "like": 1137,
-        "sale": 127,
-        "gender": "여성",
+        "date": "2024-02-19",
+        "like": 904,
+        "sale": 98,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -724,14 +828,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "아이보리",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "보스턴백",
-        "date": "2023-07-09",
-        "like": 440,
-        "sale": 30,
-        "gender": "여성",
+        "date": "2022-08-06",
+        "like": 1444,
+        "sale": 879,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -754,14 +858,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "보스턴백",
-        "date": "2024-11-06",
-        "like": 1413,
-        "sale": 335,
-        "gender": "여성",
+        "date": "2023-11-03",
+        "like": 135,
+        "sale": 156,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -784,21 +888,21 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "보스턴백",
-        "date": "2024-03-29",
-        "like": 589,
-        "sale": 465,
-        "gender": "남성",
+        "date": "2022-06-23",
+        "like": 442,
+        "sale": 271,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "맥케이슨 타이니 토트백 그레이 MCW3BG888 GRE",
-        "price": "290,000 ",
+        "price": "203,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005751/image/main/register_main_030.jpg",
         "labels": [
             [
@@ -810,21 +914,47 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "그레이",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "보스턴백",
-        "date": "2022-02-16",
-        "like": 1447,
-        "sale": 968,
+        "date": "2023-08-19",
+        "like": 791,
+        "sale": 945,
+        "size": ["FRE"],
+        "season": ["ALW"]
+    },
+    {
+        "category": "ACC",
+        "name": "맥케이슨 타이니 토트백 핑크 MCW3BG888 PNK",
+        "price": "203,000",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005750/image/main/register_main_063.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/WOMEN.png",
+                "여성"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/SALE.png",
+                "세일"
+            ]
+        ],
         "gender": "여성",
+        "color": "핑크",
+        "acc": true,
+        "subCategory": "가방",
+        "thirdCategory": "보스턴백",
+        "date": "2023-09-24",
+        "like": 1335,
+        "sale": 460,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "삼원 퀼팅 투웨이 토트백 MCW3BG690 BLK",
-        "price": "290,000 ",
+        "price": "203,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003655/image/main/register_main_047.jpg",
         "labels": [
             [
@@ -836,21 +966,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "보스턴백",
-        "date": "2023-05-23",
-        "like": 1398,
-        "sale": 524,
-        "gender": "여성",
+        "date": "2022-12-10",
+        "like": 483,
+        "sale": 295,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "프릴 토트백 MCW3BG789 BLK",
-        "price": "350,000 ",
+        "price": "245,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003653/image/main/register_main_084.jpg",
         "labels": [
             [
@@ -862,21 +992,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "보스턴백",
-        "date": "2024-08-11",
-        "like": 1236,
-        "sale": 138,
-        "gender": "여성",
+        "date": "2023-11-22",
+        "like": 1953,
+        "sale": 707,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "여성 타탄 체크 토트백 MCW3BG687 GRN",
-        "price": "390,000 ",
+        "price": "273,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003236/image/main/register_main_08.jpg",
         "labels": [
             [
@@ -888,21 +1018,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "보스턴백",
-        "date": "2024-02-18",
-        "like": 240,
-        "sale": 887,
-        "gender": "여성",
+        "date": "2022-03-19",
+        "like": 686,
+        "sale": 424,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "여성 타탄 체크 토트백 MCW3BG687 IVY",
-        "price": "390,000 ",
+        "price": "273,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003235/image/main/register_main_032.jpg",
         "labels": [
             [
@@ -914,21 +1044,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "아이보리",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "보스턴백",
-        "date": "2023-03-18",
-        "like": 1017,
-        "sale": 604,
-        "gender": "여성",
+        "date": "2022-11-07",
+        "like": 576,
+        "sale": 460,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "삼원 퀼팅 투웨이 토트백 MCW3BG690 IVY",
-        "price": "290,000 ",
+        "price": "203,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003654/image/main/register_main_084.jpg",
         "labels": [
             [
@@ -940,14 +1070,14 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "아이보리",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "보스턴백",
-        "date": "2024-05-25",
-        "like": 1831,
-        "sale": 924,
-        "gender": "여성",
+        "date": "2023-12-08",
+        "like": 303,
+        "sale": 620,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -970,14 +1100,14 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "브라운",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "ETC",
-        "date": "2022-12-28",
-        "like": 468,
-        "sale": 787,
-        "gender": "남성",
+        "date": "2024-11-23",
+        "like": 945,
+        "sale": 424,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1000,14 +1130,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "파우치",
-        "date": "2023-11-19",
-        "like": 1574,
-        "sale": 401,
-        "gender": "여성",
+        "date": "2022-03-01",
+        "like": 764,
+        "sale": 106,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1030,14 +1160,14 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "파우치",
-        "date": "2024-10-28",
-        "like": 461,
-        "sale": 508,
-        "gender": "남성",
+        "date": "2022-04-24",
+        "like": 508,
+        "sale": 484,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1060,14 +1190,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "블루",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "파우치",
-        "date": "2023-10-14",
-        "like": 1350,
-        "sale": 558,
-        "gender": "여성",
+        "date": "2023-06-03",
+        "like": 925,
+        "sale": 228,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1090,14 +1220,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "파우치",
-        "date": "2024-08-14",
-        "like": 1850,
-        "sale": 749,
-        "gender": "여성",
+        "date": "2024-07-25",
+        "like": 55,
+        "sale": 929,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1120,21 +1250,47 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "코랄",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "파우치",
-        "date": "2024-01-03",
-        "like": 1285,
-        "sale": 99,
-        "gender": "여성",
+        "date": "2022-12-21",
+        "like": 1114,
+        "sale": 201,
+        "size": ["FRE"],
+        "season": ["ALW"]
+    },
+    {
+        "category": "ACC",
+        "name": "스퀘어 미니 볼케이스 MCU3AZ873 MIN",
+        "price": "62,300",
+        "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005609/image/main/register_main_093.jpg",
+        "labels": [
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/UNISEX_.png",
+                "공용"
+            ],
+            [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/SALE.png",
+                "세일"
+            ]
+        ],
+        "gender": "공용",
+        "color": "민트",
+        "acc": true,
+        "subCategory": "가방",
+        "thirdCategory": "파우치",
+        "date": "2024-04-24",
+        "like": 312,
+        "sale": 214,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "경량 맥케이슨 파우치 그레이 MCM3BG894 GRE",
-        "price": "199,000 ",
+        "price": "139,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005731/image/main/register_main_016.jpg",
         "labels": [
             [
@@ -1146,21 +1302,21 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "그레이",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "파우치",
-        "date": "2023-05-03",
-        "like": 639,
-        "sale": 203,
-        "gender": "남성",
+        "date": "2022-05-21",
+        "like": 1353,
+        "sale": 329,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "공용 타탄체크 볼파우치 MCU3AZ672 GRN",
-        "price": "79,000 ",
+        "price": "55,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003245/image/main/register_main_054.jpg",
         "labels": [
             [
@@ -1172,21 +1328,21 @@
                 "세일"
             ]
         ],
+        "gender": "공용",
         "color": "그린",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "파우치",
-        "date": "2022-03-12",
-        "like": 294,
-        "sale": 147,
-        "gender": "공용",
+        "date": "2024-06-12",
+        "like": 1440,
+        "sale": 499,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "공용 타탄체크 볼파우치 MCU3AZ672 BRO",
-        "price": "79,000 ",
+        "price": "55,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003246/image/main/register_main_088.jpg",
         "labels": [
             [
@@ -1198,14 +1354,14 @@
                 "세일"
             ]
         ],
+        "gender": "공용",
         "color": "브라운",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "파우치",
-        "date": "2024-12-28",
-        "like": 683,
-        "sale": 842,
-        "gender": "공용",
+        "date": "2023-02-15",
+        "like": 1812,
+        "sale": 710,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1228,14 +1384,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "라임",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-08-31",
-        "like": 1606,
-        "sale": 335,
-        "gender": "여성",
+        "date": "2022-08-12",
+        "like": 507,
+        "sale": 519,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1258,14 +1414,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-09-27",
-        "like": 835,
-        "sale": 859,
-        "gender": "여성",
+        "date": "2022-04-25",
+        "like": 1232,
+        "sale": 417,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1288,14 +1444,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-01-27",
-        "like": 1484,
-        "sale": 240,
-        "gender": "여성",
+        "date": "2023-03-31",
+        "like": 1725,
+        "sale": 779,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1318,14 +1474,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "블루",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-10-06",
-        "like": 1894,
-        "sale": 478,
-        "gender": "여성",
+        "date": "2023-01-29",
+        "like": 1768,
+        "sale": 558,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1348,14 +1504,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "레드",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-03-14",
-        "like": 1618,
-        "sale": 338,
-        "gender": "여성",
+        "date": "2022-04-01",
+        "like": 1550,
+        "sale": 15,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1378,14 +1534,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-04-14",
-        "like": 1426,
-        "sale": 886,
-        "gender": "여성",
+        "date": "2024-10-28",
+        "like": 1482,
+        "sale": 564,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1408,14 +1564,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-06-30",
-        "like": 966,
-        "sale": 110,
-        "gender": "여성",
+        "date": "2024-11-19",
+        "like": 640,
+        "sale": 781,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1438,14 +1594,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "퍼플",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-04-12",
-        "like": 965,
-        "sale": 559,
-        "gender": "여성",
+        "date": "2024-03-04",
+        "like": 564,
+        "sale": 489,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1468,14 +1624,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-12-14",
-        "like": 1210,
-        "sale": 942,
-        "gender": "여성",
+        "date": "2024-10-10",
+        "like": 530,
+        "sale": 704,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1498,14 +1654,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-10-18",
-        "like": 1265,
-        "sale": 234,
-        "gender": "여성",
+        "date": "2022-08-27",
+        "like": 1022,
+        "sale": 310,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1528,14 +1684,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "오렌지",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-11-27",
-        "like": 742,
-        "sale": 667,
-        "gender": "여성",
+        "date": "2022-01-31",
+        "like": 1107,
+        "sale": 73,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1558,14 +1714,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "블루",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-11-03",
-        "like": 882,
-        "sale": 933,
-        "gender": "여성",
+        "date": "2022-03-11",
+        "like": 436,
+        "sale": 183,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1588,14 +1744,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-12-30",
-        "like": 561,
-        "sale": 465,
-        "gender": "여성",
+        "date": "2023-06-22",
+        "like": 1979,
+        "sale": 444,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1618,14 +1774,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-03-25",
-        "like": 1946,
-        "sale": 15,
-        "gender": "여성",
+        "date": "2022-08-15",
+        "like": 1356,
+        "sale": 296,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1648,14 +1804,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "아이보리",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-05-05",
-        "like": 1090,
-        "sale": 995,
-        "gender": "여성",
+        "date": "2024-02-06",
+        "like": 268,
+        "sale": 839,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1678,14 +1834,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "블루",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-10-02",
-        "like": 1646,
-        "sale": 201,
-        "gender": "여성",
+        "date": "2023-12-07",
+        "like": 1198,
+        "sale": 450,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1708,14 +1864,14 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블루",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-09-27",
-        "like": 1200,
-        "sale": 581,
-        "gender": "남성",
+        "date": "2024-04-08",
+        "like": 1824,
+        "sale": 690,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1738,14 +1894,14 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-12-25",
-        "like": 1158,
-        "sale": 973,
-        "gender": "남성",
+        "date": "2022-07-28",
+        "like": 482,
+        "sale": 165,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1768,14 +1924,14 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "네이비",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-02-23",
-        "like": 167,
-        "sale": 158,
-        "gender": "남성",
+        "date": "2023-09-01",
+        "like": 124,
+        "sale": 649,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1798,14 +1954,14 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "베이지",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-08-17",
-        "like": 79,
-        "sale": 20,
-        "gender": "남성",
+        "date": "2023-01-17",
+        "like": 160,
+        "sale": 581,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1828,14 +1984,14 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "그린",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-07-17",
-        "like": 1248,
-        "sale": 186,
-        "gender": "남성",
+        "date": "2023-12-26",
+        "like": 1017,
+        "sale": 394,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1858,14 +2014,14 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-05-08",
-        "like": 999,
-        "sale": 306,
-        "gender": "남성",
+        "date": "2024-07-04",
+        "like": 351,
+        "sale": 494,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1888,21 +2044,21 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "네이비",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-04-04",
-        "like": 1859,
-        "sale": 106,
-        "gender": "남성",
+        "date": "2022-03-17",
+        "like": 1250,
+        "sale": 451,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "씨슬 시그니처 바이저 MCW3CA649 WHI",
-        "price": "130,000 ",
+        "price": "91,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003210/image/main/1000003210_main_076.jpg",
         "labels": [
             [
@@ -1914,21 +2070,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-07-28",
-        "like": 116,
-        "sale": 680,
-        "gender": "여성",
+        "date": "2022-10-28",
+        "like": 1168,
+        "sale": 714,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "씨슬 시그니처 바이저 MCW3CA649 DGN",
-        "price": "130,000 ",
+        "price": "91,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003211/image/main/1000003211_main_022.jpg",
         "labels": [
             [
@@ -1940,21 +2096,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "다크그린",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-12-05",
-        "like": 1689,
-        "sale": 627,
-        "gender": "여성",
+        "date": "2023-01-17",
+        "like": 779,
+        "sale": 759,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "코듀로이 삼원 로고 포인트 바이저 MCW3CA643 PNK",
-        "price": "130,000 ",
+        "price": "91,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003580/image/main/register_main_014.jpg",
         "labels": [
             [
@@ -1966,21 +2122,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "핑크",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-03-28",
-        "like": 303,
-        "sale": 456,
-        "gender": "여성",
+        "date": "2024-06-29",
+        "like": 1111,
+        "sale": 207,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "코듀로이 삼원 로고 포인트 바이저 MCW3CA643 IVY",
-        "price": "130,000 ",
+        "price": "91,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003581/image/main/1000003581_main_010.jpg",
         "labels": [
             [
@@ -1992,21 +2148,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "아이보리",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-01-10",
-        "like": 171,
-        "sale": 576,
-        "gender": "여성",
+        "date": "2023-01-24",
+        "like": 1866,
+        "sale": 771,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "삼원 포인트 체크 바이저 MCW3CA642 NVY",
-        "price": "130,000 ",
+        "price": "91,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003582/image/main/register_main_082.jpg",
         "labels": [
             [
@@ -2018,21 +2174,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-09-17",
-        "like": 524,
-        "sale": 925,
-        "gender": "여성",
+        "date": "2022-08-01",
+        "like": 817,
+        "sale": 17,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "삼원 포인트 체크 바이저 MCW3CA642 BEG",
-        "price": "130,000 ",
+        "price": "91,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003583/image/main/1000003583_main_049.jpg",
         "labels": [
             [
@@ -2044,21 +2200,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-06-09",
-        "like": 707,
-        "sale": 389,
-        "gender": "여성",
+        "date": "2022-10-04",
+        "like": 356,
+        "sale": 963,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "씨슬 포인트 빅 리본 포인트 바이저 MCW3CA633 DGY",
-        "price": "150,000 ",
+        "price": "105,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003645/image/main/register_main_021.jpg",
         "labels": [
             [
@@ -2070,21 +2226,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "다크그레이",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-08-29",
-        "like": 1162,
-        "sale": 227,
-        "gender": "여성",
+        "date": "2022-11-14",
+        "like": 1804,
+        "sale": 235,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "씨슬 포인트 빅 리본 포인트 바이저 MCW3CA633 BRO",
-        "price": "150,000 ",
+        "price": "105,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003646/image/main/register_main_051.jpg",
         "labels": [
             [
@@ -2096,21 +2252,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "브라운",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-06-13",
-        "like": 1504,
-        "sale": 622,
-        "gender": "여성",
+        "date": "2024-08-20",
+        "like": 1824,
+        "sale": 676,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "페이크 레더 바이저 MCW3CA830 BLK",
-        "price": "130,000 ",
+        "price": "91,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003647/image/main/register_main_057.jpg",
         "labels": [
             [
@@ -2122,21 +2278,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-10-19",
-        "like": 1557,
-        "sale": 117,
-        "gender": "여성",
+        "date": "2023-07-03",
+        "like": 134,
+        "sale": 367,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "페이크 레더 바이저 MCW3CA830 DGN",
-        "price": "130,000 ",
+        "price": "91,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003648/image/main/register_main_01.jpg",
         "labels": [
             [
@@ -2148,21 +2304,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "다크그린",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-10-16",
-        "like": 1285,
-        "sale": 250,
-        "gender": "여성",
+        "date": "2023-05-10",
+        "like": 839,
+        "sale": 248,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "로고 포인트 바이져 MCM3CA648 WHI",
-        "price": "130,000 ",
+        "price": "91,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003070/image/main/1000003070_main_018.jpg",
         "labels": [
             [
@@ -2174,21 +2330,21 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-11-07",
-        "like": 1825,
-        "sale": 743,
-        "gender": "남성",
+        "date": "2023-05-03",
+        "like": 1783,
+        "sale": 329,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "로고 포인트 바이져 MCM3CA648 BLK",
-        "price": "130,000 ",
+        "price": "91,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003071/image/main/1000003071_main_016.jpg",
         "labels": [
             [
@@ -2200,14 +2356,14 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-05-26",
-        "like": 990,
-        "sale": 414,
-        "gender": "남성",
+        "date": "2022-07-19",
+        "like": 1892,
+        "sale": 720,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2230,14 +2386,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-09-11",
-        "like": 1349,
-        "sale": 665,
-        "gender": "여성",
+        "date": "2023-12-14",
+        "like": 462,
+        "sale": 291,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2260,14 +2416,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-05-12",
-        "like": 76,
-        "sale": 281,
-        "gender": "여성",
+        "date": "2024-08-07",
+        "like": 204,
+        "sale": 555,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2286,14 +2442,14 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "베이지",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-07-16",
-        "like": 1827,
-        "sale": 898,
-        "gender": "남성",
+        "date": "2022-07-21",
+        "like": 539,
+        "sale": 775,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2316,14 +2472,14 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "네이비",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-11-11",
-        "like": 275,
-        "sale": 285,
-        "gender": "남성",
+        "date": "2023-09-12",
+        "like": 1483,
+        "sale": 893,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2346,14 +2502,14 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-06-26",
-        "like": 1372,
-        "sale": 182,
-        "gender": "남성",
+        "date": "2023-04-13",
+        "like": 1901,
+        "sale": 200,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2376,14 +2532,14 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-10-01",
-        "like": 1037,
-        "sale": 619,
-        "gender": "남성",
+        "date": "2024-08-06",
+        "like": 1699,
+        "sale": 582,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2406,14 +2562,14 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-11-05",
-        "like": 387,
-        "sale": 54,
-        "gender": "남성",
+        "date": "2022-03-14",
+        "like": 1067,
+        "sale": 570,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2436,14 +2592,14 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-12-09",
-        "like": 1411,
-        "sale": 427,
-        "gender": "남성",
+        "date": "2024-08-13",
+        "like": 335,
+        "sale": 37,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2462,14 +2618,14 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-10-19",
-        "like": 1853,
-        "sale": 706,
-        "gender": "남성",
+        "date": "2023-07-10",
+        "like": 1141,
+        "sale": 462,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2488,14 +2644,14 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "그레이",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-06-18",
-        "like": 1831,
-        "sale": 676,
-        "gender": "남성",
+        "date": "2024-12-10",
+        "like": 971,
+        "sale": 251,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2514,14 +2670,14 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-05-16",
-        "like": 1996,
-        "sale": 746,
-        "gender": "남성",
+        "date": "2022-03-18",
+        "like": 446,
+        "sale": 868,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2540,21 +2696,21 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "네이비",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-08-19",
-        "like": 1725,
-        "sale": 973,
-        "gender": "남성",
+        "date": "2022-02-10",
+        "like": 1689,
+        "sale": 441,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "씨슬 로고 볼캡 MCM3CA645 DGN",
-        "price": "130,000 ",
+        "price": "91,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003169/image/main/1000003169_main_088.jpg",
         "labels": [
             [
@@ -2566,21 +2722,21 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "다크그린",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-09-09",
-        "like": 1301,
-        "sale": 175,
-        "gender": "남성",
+        "date": "2022-09-12",
+        "like": 86,
+        "sale": 58,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "씨슬 로고 볼캡 MCM3CA645 BLK",
-        "price": "130,000 ",
+        "price": "91,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003170/image/main/1000003170_main_063.jpg",
         "labels": [
             [
@@ -2592,21 +2748,21 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-12-13",
-        "like": 221,
-        "sale": 696,
-        "gender": "남성",
+        "date": "2023-07-15",
+        "like": 531,
+        "sale": 93,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "챙 컬러 포인트 볼캡 베이지 MCM3CA646 BEG",
-        "price": "130,000 ",
+        "price": "91,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005776/image/main/register_main_027.jpg",
         "labels": [
             [
@@ -2618,21 +2774,21 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "베이지",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-01-29",
-        "like": 1857,
-        "sale": 555,
-        "gender": "남성",
+        "date": "2023-05-13",
+        "like": 630,
+        "sale": 870,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "챙 컬러 포인트 볼캡 블랙 MCM3CA646 BLK",
-        "price": "130,000 ",
+        "price": "91,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005777/image/main/register_main_010.jpg",
         "labels": [
             [
@@ -2644,21 +2800,21 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-02-24",
-        "like": 851,
-        "sale": 593,
-        "gender": "남성",
+        "date": "2024-11-02",
+        "like": 1308,
+        "sale": 264,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "챙 컬러 포인트 볼캡 화이트 MCM3CA646 WHI",
-        "price": "130,000 ",
+        "price": "91,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005778/image/main/register_main_045.jpg",
         "labels": [
             [
@@ -2670,21 +2826,21 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-05-24",
-        "like": 782,
-        "sale": 126,
-        "gender": "남성",
+        "date": "2022-01-29",
+        "like": 214,
+        "sale": 960,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "코듀로이 삼원 로고 볼캡 민트 MCU3CA630 MIN",
-        "price": "130,000 ",
+        "price": "91,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005779/image/main/register_main_077.jpg",
         "labels": [
             [
@@ -2696,21 +2852,21 @@
                 "세일"
             ]
         ],
+        "gender": "공용",
         "color": "민트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-06-03",
-        "like": 1684,
-        "sale": 403,
-        "gender": "공용",
+        "date": "2023-09-03",
+        "like": 1004,
+        "sale": 672,
         "size": ["00L", "00M", "FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "코듀로이 삼원 로고 볼캡 핑크 MCU3CA630 PNK",
-        "price": "130,000 ",
+        "price": "91,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005780/image/main/register_main_081.jpg",
         "labels": [
             [
@@ -2722,21 +2878,21 @@
                 "세일"
             ]
         ],
+        "gender": "공용",
         "color": "핑크",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-10-04",
-        "like": 470,
-        "sale": 878,
-        "gender": "공용",
+        "date": "2023-07-20",
+        "like": 395,
+        "sale": 737,
         "size": ["00L", "00M", "FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "공용 해리스 트위드 헌팅캡 MCU3CA640 NVY",
-        "price": "210,000 ",
+        "price": "168,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003649/image/main/register_main_034.jpg",
         "labels": [
             [
@@ -2748,21 +2904,21 @@
                 "세일"
             ]
         ],
+        "gender": "공용",
         "color": "네이비",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-11-12",
-        "like": 841,
-        "sale": 242,
-        "gender": "공용",
+        "date": "2023-02-18",
+        "like": 1053,
+        "sale": 827,
         "size": ["00L", "00M", "FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "공용 해리스 트위드 헌팅캡 MCU3CA640 GRN",
-        "price": "210,000 ",
+        "price": "168,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003650/image/main/register_main_016.jpg",
         "labels": [
             [
@@ -2774,14 +2930,14 @@
                 "세일"
             ]
         ],
+        "gender": "공용",
         "color": "그린",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-11-09",
-        "like": 1165,
-        "sale": 223,
-        "gender": "공용",
+        "date": "2024-03-16",
+        "like": 1466,
+        "sale": 825,
         "size": ["00L", "00M", "FRE"],
         "season": ["ALW"]
     },
@@ -2804,14 +2960,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-07-10",
-        "like": 1683,
-        "sale": 503,
-        "gender": "여성",
+        "date": "2024-03-08",
+        "like": 1803,
+        "sale": 535,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2834,14 +2990,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "퍼플",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-08-15",
-        "like": 112,
-        "sale": 509,
-        "gender": "여성",
+        "date": "2024-06-16",
+        "like": 880,
+        "sale": 91,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2864,14 +3020,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-06-07",
-        "like": 139,
-        "sale": 994,
-        "gender": "여성",
+        "date": "2024-10-02",
+        "like": 559,
+        "sale": 136,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2894,14 +3050,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-07-27",
-        "like": 1555,
-        "sale": 541,
-        "gender": "여성",
+        "date": "2024-07-13",
+        "like": 777,
+        "sale": 123,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2924,14 +3080,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "라이트블루",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-04-08",
-        "like": 959,
-        "sale": 859,
-        "gender": "여성",
+        "date": "2024-11-03",
+        "like": 932,
+        "sale": 85,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2954,14 +3110,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-03-26",
-        "like": 1770,
-        "sale": 86,
-        "gender": "여성",
+        "date": "2024-05-09",
+        "like": 353,
+        "sale": 640,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2984,14 +3140,14 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-12-25",
-        "like": 408,
-        "sale": 647,
-        "gender": "남성",
+        "date": "2024-12-04",
+        "like": 515,
+        "sale": 415,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3014,12 +3170,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "그레이",
         "acc": true,
-        "date": "2024-02-03",
-        "like": 1078,
-        "sale": 116,
-        "gender": "남성",
+        "date": "2024-11-24",
+        "like": 1351,
+        "sale": 513,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3038,14 +3194,14 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-03-07",
-        "like": 856,
-        "sale": 557,
-        "gender": "여성",
+        "date": "2022-12-19",
+        "like": 1147,
+        "sale": 732,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3064,14 +3220,14 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-09-19",
-        "like": 1728,
-        "sale": 24,
-        "gender": "여성",
+        "date": "2024-02-13",
+        "like": 1211,
+        "sale": 438,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3090,14 +3246,14 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-09-17",
-        "like": 1782,
-        "sale": 494,
-        "gender": "여성",
+        "date": "2022-05-29",
+        "like": 1286,
+        "sale": 556,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3116,14 +3272,14 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-08-09",
-        "like": 1047,
-        "sale": 905,
-        "gender": "여성",
+        "date": "2024-01-25",
+        "like": 1812,
+        "sale": 507,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3142,14 +3298,14 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "베이지",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-11-20",
-        "like": 1270,
-        "sale": 207,
-        "gender": "남성",
+        "date": "2022-01-16",
+        "like": 1701,
+        "sale": 487,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3168,21 +3324,21 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "네이비",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-10-20",
-        "like": 307,
-        "sale": 183,
-        "gender": "남성",
+        "date": "2023-03-16",
+        "like": 749,
+        "sale": 261,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "해리스 트위드 버킷햇 MCW3CA632 NVY",
-        "price": "210,000 ",
+        "price": "168,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003548/image/main/register_main_017.jpg",
         "labels": [
             [
@@ -3194,21 +3350,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-07-09",
-        "like": 785,
-        "sale": 953,
-        "gender": "여성",
+        "date": "2022-03-12",
+        "like": 1991,
+        "sale": 507,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "해리스 트위드 버킷햇 MCW3CA632 CAM",
-        "price": "210,000 ",
+        "price": "168,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003550/image/main/register_main_071.jpg",
         "labels": [
             [
@@ -3220,21 +3376,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "카멜",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-05-10",
-        "like": 74,
-        "sale": 792,
-        "gender": "여성",
+        "date": "2023-04-23",
+        "like": 1044,
+        "sale": 359,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "삼원 포인트 체크 패턴 버킷 햇 MCW3CA641 NVY",
-        "price": "150,000 ",
+        "price": "105,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003584/image/main/register_main_067.jpg",
         "labels": [
             [
@@ -3246,21 +3402,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-05-25",
-        "like": 1831,
-        "sale": 130,
-        "gender": "여성",
+        "date": "2022-02-09",
+        "like": 380,
+        "sale": 333,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "삼원 포인트 체크 패턴 버킷 햇 MCW3CA641 BEG",
-        "price": "150,000 ",
+        "price": "105,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003585/image/main/1000003585_main_09.jpg",
         "labels": [
             [
@@ -3272,21 +3428,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-12-23",
-        "like": 680,
-        "sale": 482,
-        "gender": "여성",
+        "date": "2022-05-03",
+        "like": 1100,
+        "sale": 109,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "퀼팅 버킷 햇 MCW3CA631 IVY",
-        "price": "150,000 ",
+        "price": "105,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003586/image/main/register_main_048.jpg",
         "labels": [
             [
@@ -3298,21 +3454,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "아이보리",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-07-14",
-        "like": 1152,
-        "sale": 230,
-        "gender": "여성",
+        "date": "2023-08-26",
+        "like": 868,
+        "sale": 256,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "퀼팅 버킷 햇 MCW3CA631 BLK",
-        "price": "150,000 ",
+        "price": "105,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003587/image/main/register_main_054.jpg",
         "labels": [
             [
@@ -3324,21 +3480,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-02-27",
-        "like": 640,
-        "sale": 576,
-        "gender": "여성",
+        "date": "2022-08-09",
+        "like": 1217,
+        "sale": 162,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "씨슬 프린트 버킷 햇 MCW3CA644 PNK",
-        "price": "150,000 ",
+        "price": "105,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003643/image/main/register_main_057.jpg",
         "labels": [
             [
@@ -3350,21 +3506,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "핑크",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-06-26",
-        "like": 227,
-        "sale": 153,
-        "gender": "여성",
+        "date": "2024-09-06",
+        "like": 302,
+        "sale": 338,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "씨슬 프린트 버킷 햇 MCW3CA644 BLK",
-        "price": "150,000 ",
+        "price": "105,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003644/image/main/register_main_052.jpg",
         "labels": [
             [
@@ -3376,14 +3532,14 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-05-28",
-        "like": 791,
-        "sale": 753,
-        "gender": "여성",
+        "date": "2022-12-03",
+        "like": 1975,
+        "sale": 294,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3406,14 +3562,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2023-12-05",
-        "like": 521,
-        "sale": 927,
-        "gender": "여성",
+        "date": "2022-07-14",
+        "like": 728,
+        "sale": 261,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3436,14 +3592,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2024-10-26",
-        "like": 1945,
-        "sale": 918,
-        "gender": "여성",
+        "date": "2024-02-24",
+        "like": 1876,
+        "sale": 43,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3466,14 +3622,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2023-10-17",
-        "like": 1249,
-        "sale": 416,
-        "gender": "여성",
+        "date": "2022-05-31",
+        "like": 173,
+        "sale": 263,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3496,14 +3652,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "퍼플",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2024-05-13",
-        "like": 1818,
-        "sale": 844,
-        "gender": "여성",
+        "date": "2023-09-09",
+        "like": 928,
+        "sale": 475,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3526,14 +3682,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2022-02-10",
-        "like": 197,
-        "sale": 181,
-        "gender": "여성",
+        "date": "2023-02-03",
+        "like": 991,
+        "sale": 482,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3556,14 +3712,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "퍼플",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2022-05-23",
-        "like": 1451,
-        "sale": 97,
-        "gender": "여성",
+        "date": "2024-12-27",
+        "like": 377,
+        "sale": 483,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3586,14 +3742,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2024-01-25",
-        "like": 380,
-        "sale": 485,
-        "gender": "여성",
+        "date": "2022-06-02",
+        "like": 1480,
+        "sale": 108,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3616,14 +3772,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-08-14",
-        "like": 1741,
-        "sale": 331,
-        "gender": "여성",
+        "date": "2022-04-29",
+        "like": 1012,
+        "sale": 321,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3646,14 +3802,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-08-12",
-        "like": 1100,
-        "sale": 924,
-        "gender": "여성",
+        "date": "2023-03-28",
+        "like": 948,
+        "sale": 369,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3676,14 +3832,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-12-26",
-        "like": 1549,
-        "sale": 171,
-        "gender": "여성",
+        "date": "2024-07-25",
+        "like": 114,
+        "sale": 890,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3706,14 +3862,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "퍼플",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-05-06",
-        "like": 849,
-        "sale": 59,
-        "gender": "여성",
+        "date": "2023-10-11",
+        "like": 1046,
+        "sale": 398,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3736,14 +3892,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2023-07-13",
-        "like": 178,
-        "sale": 714,
-        "gender": "여성",
+        "date": "2023-06-28",
+        "like": 390,
+        "sale": 294,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3766,14 +3922,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "아이보리",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2024-04-10",
-        "like": 817,
-        "sale": 853,
-        "gender": "여성",
+        "date": "2023-01-03",
+        "like": 1634,
+        "sale": 643,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3796,14 +3952,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2023-04-04",
-        "like": 614,
-        "sale": 437,
-        "gender": "여성",
+        "date": "2022-06-20",
+        "like": 1772,
+        "sale": 348,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3826,14 +3982,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2023-11-24",
-        "like": 60,
-        "sale": 582,
-        "gender": "여성",
+        "date": "2023-08-02",
+        "like": 972,
+        "sale": 812,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3856,14 +4012,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "퍼플",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2022-06-12",
-        "like": 1528,
-        "sale": 125,
-        "gender": "여성",
+        "date": "2022-11-04",
+        "like": 227,
+        "sale": 37,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3886,14 +4042,14 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2022-07-30",
-        "like": 1399,
-        "sale": 775,
-        "gender": "남성",
+        "date": "2022-01-29",
+        "like": 404,
+        "sale": 545,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3916,14 +4072,14 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2024-06-12",
-        "like": 1115,
-        "sale": 270,
-        "gender": "남성",
+        "date": "2023-07-22",
+        "like": 303,
+        "sale": 295,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3946,14 +4102,14 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "그레이",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2022-09-15",
-        "like": 683,
-        "sale": 506,
-        "gender": "남성",
+        "date": "2024-08-18",
+        "like": 1587,
+        "sale": 26,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3976,14 +4132,14 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "그레이",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-04-18",
-        "like": 1804,
-        "sale": 808,
-        "gender": "남성",
+        "date": "2024-09-30",
+        "like": 1837,
+        "sale": 156,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4006,14 +4162,14 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "네이비",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2022-07-20",
-        "like": 1670,
-        "sale": 786,
-        "gender": "남성",
+        "date": "2023-02-26",
+        "like": 243,
+        "sale": 903,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4036,14 +4192,14 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "베이지",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-04-25",
-        "like": 1151,
-        "sale": 299,
-        "gender": "남성",
+        "date": "2022-06-05",
+        "like": 1925,
+        "sale": 870,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4066,14 +4222,14 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2023-12-21",
-        "like": 1124,
-        "sale": 447,
-        "gender": "남성",
+        "date": "2024-06-07",
+        "like": 135,
+        "sale": 73,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4096,14 +4252,14 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2024-06-11",
-        "like": 1818,
-        "sale": 883,
-        "gender": "남성",
+        "date": "2022-04-20",
+        "like": 1275,
+        "sale": 341,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4122,14 +4278,14 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2024-08-23",
-        "like": 1178,
-        "sale": 656,
-        "gender": "여성",
+        "date": "2022-10-27",
+        "like": 1831,
+        "sale": 89,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4148,14 +4304,14 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "핑크",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2022-06-18",
-        "like": 1193,
-        "sale": 234,
-        "gender": "여성",
+        "date": "2023-11-24",
+        "like": 1458,
+        "sale": 453,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4174,14 +4330,14 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2022-12-08",
-        "like": 1302,
-        "sale": 494,
-        "gender": "여성",
+        "date": "2023-12-12",
+        "like": 772,
+        "sale": 862,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4200,14 +4356,14 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "베이지",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2022-10-10",
-        "like": 1863,
-        "sale": 551,
-        "gender": "남성",
+        "date": "2023-04-22",
+        "like": 503,
+        "sale": 442,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4226,14 +4382,14 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2022-12-22",
-        "like": 1686,
-        "sale": 640,
-        "gender": "남성",
+        "date": "2023-09-30",
+        "like": 160,
+        "sale": 202,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4252,21 +4408,21 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2022-05-21",
-        "like": 985,
-        "sale": 532,
-        "gender": "남성",
+        "date": "2023-06-17",
+        "like": 739,
+        "sale": 548,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "무릎 포인트 오버니하이 양말 MCW3OC768 MGR 라이트그레이",
-        "price": "59,000 ",
+        "price": "41,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003188/image/main/register_main_076.jpg",
         "labels": [
             [
@@ -4278,21 +4434,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "라이트그레이",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-04-13",
-        "like": 518,
-        "sale": 78,
-        "gender": "여성",
+        "date": "2024-01-03",
+        "like": 1562,
+        "sale": 226,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "무릎 포인트 오버니하이 양말 MCW3OC768 IVY",
-        "price": "59,000 ",
+        "price": "41,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003189/image/main/register_main_057.jpg",
         "labels": [
             [
@@ -4304,21 +4460,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "아이보리",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-02-24",
-        "like": 922,
-        "sale": 643,
-        "gender": "여성",
+        "date": "2023-05-27",
+        "like": 624,
+        "sale": 677,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "아가일 니삭스 MCW3OC765 BLK",
-        "price": "59,000 ",
+        "price": "41,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003198/image/main/register_main_080.jpg",
         "labels": [
             [
@@ -4330,21 +4486,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2023-02-21",
-        "like": 1343,
-        "sale": 748,
-        "gender": "여성",
+        "date": "2022-09-12",
+        "like": 1424,
+        "sale": 274,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "언발란스 스트라이프 니삭스 MCW3OC763 GRE",
-        "price": "59,000 ",
+        "price": "41,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003199/image/main/register_main_022.jpg",
         "labels": [
             [
@@ -4356,21 +4512,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "그레이",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2024-04-22",
-        "like": 379,
-        "sale": 527,
-        "gender": "여성",
+        "date": "2024-06-01",
+        "like": 310,
+        "sale": 684,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "언발란스 스트라이프 니삭스 MCW3OC763 BLK",
-        "price": "59,000 ",
+        "price": "41,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003200/image/main/register_main_060.jpg",
         "labels": [
             [
@@ -4382,21 +4538,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2023-03-30",
-        "like": 183,
-        "sale": 653,
-        "gender": "여성",
+        "date": "2023-07-22",
+        "like": 364,
+        "sale": 376,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "씨슬 니삭스 MCW3OC762 GRE",
-        "price": "59,000 ",
+        "price": "41,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003201/image/main/register_main_018.jpg",
         "labels": [
             [
@@ -4408,21 +4564,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "그레이",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2023-06-14",
-        "like": 139,
-        "sale": 390,
-        "gender": "여성",
+        "date": "2022-03-24",
+        "like": 1962,
+        "sale": 599,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "씨슬 니삭스 MCW3OC762 BLK",
-        "price": "59,000 ",
+        "price": "41,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003202/image/main/register_main_034.jpg",
         "labels": [
             [
@@ -4434,21 +4590,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2023-05-30",
-        "like": 529,
-        "sale": 894,
-        "gender": "여성",
+        "date": "2023-12-25",
+        "like": 377,
+        "sale": 625,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "골지 배색 크루 양말 MCW3OC760 YLW",
-        "price": "39,000 ",
+        "price": "27,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003190/image/main/register_main_099.jpg",
         "labels": [
             [
@@ -4460,21 +4616,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "옐로우",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2023-09-28",
-        "like": 466,
-        "sale": 593,
-        "gender": "여성",
+        "date": "2024-03-13",
+        "like": 322,
+        "sale": 285,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "골지 배색 크루 양말 MCW3OC760 PNK",
-        "price": "39,000 ",
+        "price": "27,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003191/image/main/register_main_03.jpg",
         "labels": [
             [
@@ -4486,21 +4642,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "핑크",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2024-10-03",
-        "like": 1914,
-        "sale": 82,
-        "gender": "여성",
+        "date": "2023-05-24",
+        "like": 108,
+        "sale": 526,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "씨슬 로고 중목 양말 MCW3OC759 PNK",
-        "price": "39,000 ",
+        "price": "27,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003192/image/main/register_main_0100.jpg",
         "labels": [
             [
@@ -4512,21 +4668,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "핑크",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2024-08-11",
-        "like": 531,
-        "sale": 143,
-        "gender": "여성",
+        "date": "2024-12-20",
+        "like": 921,
+        "sale": 554,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "씨슬 로고 중목 양말 MCW3OC759 GRN",
-        "price": "39,000 ",
+        "price": "27,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003193/image/main/register_main_030.jpg",
         "labels": [
             [
@@ -4538,21 +4694,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2023-04-20",
-        "like": 660,
-        "sale": 196,
-        "gender": "여성",
+        "date": "2022-07-29",
+        "like": 1050,
+        "sale": 967,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "아가일 중목 양말 MCW3OC755 PNK",
-        "price": "39,000 ",
+        "price": "27,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003194/image/main/register_main_049.jpg",
         "labels": [
             [
@@ -4564,21 +4720,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "핑크",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2023-07-02",
-        "like": 1019,
-        "sale": 791,
-        "gender": "여성",
+        "date": "2022-06-10",
+        "like": 1151,
+        "sale": 942,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "아가일 중목 양말 MCW3OC755 GRN",
-        "price": "39,000 ",
+        "price": "27,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003195/image/main/register_main_072.jpg",
         "labels": [
             [
@@ -4590,21 +4746,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2023-04-14",
-        "like": 1961,
-        "sale": 428,
-        "gender": "여성",
+        "date": "2023-09-24",
+        "like": 871,
+        "sale": 592,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "언발란스 포인트 중목 양말 MCW3OC657 PNK",
-        "price": "39,000 ",
+        "price": "27,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003196/image/main/register_main_074.jpg",
         "labels": [
             [
@@ -4616,21 +4772,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "핑크",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-08-08",
-        "like": 1326,
-        "sale": 655,
-        "gender": "여성",
+        "date": "2023-11-28",
+        "like": 1375,
+        "sale": 838,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "언발란스 포인트 중목 양말 MCW3OC657 MIN",
-        "price": "39,000 ",
+        "price": "27,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003197/image/main/register_main_096.jpg",
         "labels": [
             [
@@ -4642,21 +4798,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "민트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-06-03",
-        "like": 1745,
-        "sale": 720,
-        "gender": "여성",
+        "date": "2022-04-07",
+        "like": 1082,
+        "sale": 548,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "씨슬 포인트 중목 양말 화이트 MCW3OC669 WHI",
-        "price": "39,000 ",
+        "price": "27,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005803/image/main/modify_main_038.jpg",
         "labels": [
             [
@@ -4668,21 +4824,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-02-23",
-        "like": 448,
-        "sale": 405,
-        "gender": "여성",
+        "date": "2024-07-03",
+        "like": 1404,
+        "sale": 840,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "씨슬 포인트 중목 양말 블랙 MCW3OC669 BLK",
-        "price": "39,000 ",
+        "price": "27,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005804/image/main/modify_main_017.jpg",
         "labels": [
             [
@@ -4694,21 +4850,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-07-28",
-        "like": 621,
-        "sale": 582,
-        "gender": "여성",
+        "date": "2022-12-22",
+        "like": 1537,
+        "sale": 840,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "아가일 니삭스 MCM3OC766 BLK",
-        "price": "59,000 ",
+        "price": "41,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003203/image/main/register_main_052.jpg",
         "labels": [
             [
@@ -4720,21 +4876,21 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2022-05-25",
-        "like": 1065,
-        "sale": 748,
-        "gender": "남성",
+        "date": "2024-05-31",
+        "like": 502,
+        "sale": 505,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "스트라이프 중목 양말 MCM3OC658 GRN",
-        "price": "39,000 ",
+        "price": "27,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003172/image/main/register_main_060.jpg",
         "labels": [
             [
@@ -4746,21 +4902,21 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "그린",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2023-02-20",
-        "like": 1045,
-        "sale": 577,
-        "gender": "남성",
+        "date": "2024-03-06",
+        "like": 1361,
+        "sale": 777,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "스트라이프 중목 양말 MCM3OC658 BRO",
-        "price": "39,000 ",
+        "price": "27,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003173/image/main/register_main_082.jpg",
         "labels": [
             [
@@ -4772,21 +4928,21 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "브라운",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2023-06-12",
-        "like": 1170,
-        "sale": 241,
-        "gender": "남성",
+        "date": "2023-09-15",
+        "like": 1998,
+        "sale": 676,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "아가일 중목 양말 MCM3OC769 PNK",
-        "price": "39,000 ",
+        "price": "27,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003174/image/main/register_main_073.jpg",
         "labels": [
             [
@@ -4798,21 +4954,21 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "핑크",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2023-04-27",
-        "like": 523,
-        "sale": 223,
-        "gender": "남성",
+        "date": "2022-08-02",
+        "like": 93,
+        "sale": 981,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "아가일 중목 양말 MCM3OC769 GRN",
-        "price": "39,000 ",
+        "price": "27,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003175/image/main/register_main_068.jpg",
         "labels": [
             [
@@ -4824,21 +4980,21 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "그린",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2023-01-25",
-        "like": 1789,
-        "sale": 90,
-        "gender": "남성",
+        "date": "2024-04-04",
+        "like": 667,
+        "sale": 105,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "컬러 블록 중목 양말 MCM3OC756 MIN",
-        "price": "39,000 ",
+        "price": "27,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003176/image/main/register_main_049.jpg",
         "labels": [
             [
@@ -4850,21 +5006,21 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "민트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2024-12-10",
-        "like": 1288,
-        "sale": 479,
-        "gender": "남성",
+        "date": "2022-09-10",
+        "like": 644,
+        "sale": 611,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "컬러 블록 중목 양말 MCM3OC756 MGR 다크그레이",
-        "price": "39,000 ",
+        "price": "27,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003177/image/main/register_main_081.jpg",
         "labels": [
             [
@@ -4876,21 +5032,21 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "다크그레이",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2023-06-05",
-        "like": 1165,
-        "sale": 744,
-        "gender": "남성",
+        "date": "2022-10-31",
+        "like": 1227,
+        "sale": 335,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "컬러 블록 중목 양말 MCM3OC756 BEG",
-        "price": "39,000 ",
+        "price": "27,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003178/image/main/register_main_044.jpg",
         "labels": [
             [
@@ -4902,21 +5058,21 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "베이지",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2024-04-02",
-        "like": 1459,
-        "sale": 839,
-        "gender": "남성",
+        "date": "2024-03-01",
+        "like": 1638,
+        "sale": 226,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "맥케이슨 로고 반목 양말 MCM3OC754 GRN",
-        "price": "29,000 ",
+        "price": "20,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003179/image/main/register_main_084.jpg",
         "labels": [
             [
@@ -4928,21 +5084,21 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "그린",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2022-08-27",
-        "like": 1272,
-        "sale": 186,
-        "gender": "남성",
+        "date": "2024-01-28",
+        "like": 1978,
+        "sale": 687,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "맥케이슨 로고 반목 양말 MCM3OC754 DGY",
-        "price": "29,000 ",
+        "price": "20,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003180/image/main/register_main_068.jpg",
         "labels": [
             [
@@ -4954,21 +5110,21 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "다크그레이",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2022-04-23",
-        "like": 1264,
-        "sale": 892,
-        "gender": "남성",
+        "date": "2022-02-07",
+        "like": 794,
+        "sale": 734,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "백라인 포인트 반목 양말 MCM3OC753 LBL",
-        "price": "29,000 ",
+        "price": "20,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003181/image/main/register_main_052.jpg",
         "labels": [
             [
@@ -4980,21 +5136,21 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "라이트블루",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-11-22",
-        "like": 166,
-        "sale": 715,
-        "gender": "남성",
+        "date": "2023-11-08",
+        "like": 1670,
+        "sale": 862,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "백라인 포인트 반목 양말 MCM3OC753 BLK",
-        "price": "29,000 ",
+        "price": "20,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003182/image/main/register_main_091.jpg",
         "labels": [
             [
@@ -5006,21 +5162,21 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-08-15",
-        "like": 1826,
-        "sale": 12,
-        "gender": "남성",
+        "date": "2022-09-12",
+        "like": 93,
+        "sale": 147,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "삼원 로고 반목 양말 MCM3OC752 GRE",
-        "price": "29,000 ",
+        "price": "20,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003183/image/main/register_main_086.jpg",
         "labels": [
             [
@@ -5032,21 +5188,21 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "그레이",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2024-07-08",
-        "like": 1503,
-        "sale": 172,
-        "gender": "남성",
+        "date": "2023-02-10",
+        "like": 1991,
+        "sale": 412,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "삼원 로고 반목 양말 MCM3OC752 DGY",
-        "price": "29,000 ",
+        "price": "20,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003184/image/main/register_main_014.jpg",
         "labels": [
             [
@@ -5058,21 +5214,21 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "다크그레이",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2024-03-07",
-        "like": 1433,
-        "sale": 926,
-        "gender": "남성",
+        "date": "2024-04-17",
+        "like": 1359,
+        "sale": 184,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "삼원 로고 반목 양말 MCM3OC752 BLK",
-        "price": "29,000 ",
+        "price": "20,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003185/image/main/register_main_07.jpg",
         "labels": [
             [
@@ -5084,21 +5240,21 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2022-11-18",
-        "like": 1020,
-        "sale": 214,
-        "gender": "남성",
+        "date": "2024-11-19",
+        "like": 387,
+        "sale": 237,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "베이직 발목 양말 MCM3OC751 GRE",
-        "price": "19,000 ",
+        "price": "13,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003186/image/main/register_main_069.jpg",
         "labels": [
             [
@@ -5110,21 +5266,21 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "그레이",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2024-03-16",
-        "like": 1121,
-        "sale": 956,
-        "gender": "남성",
+        "date": "2024-03-07",
+        "like": 771,
+        "sale": 117,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "베이직 발목 양말 MCM3OC751 BLK",
-        "price": "19,000 ",
+        "price": "13,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003187/image/main/register_main_019.jpg",
         "labels": [
             [
@@ -5136,14 +5292,14 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2023-06-25",
-        "like": 128,
-        "sale": 622,
-        "gender": "남성",
+        "date": "2023-02-14",
+        "like": 1282,
+        "sale": 820,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5166,12 +5322,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "퍼플",
         "acc": true,
-        "date": "2022-06-30",
-        "like": 1923,
-        "sale": 397,
-        "gender": "여성",
+        "date": "2024-01-03",
+        "like": 190,
+        "sale": 455,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5194,12 +5350,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "라이트그레이",
         "acc": true,
-        "date": "2022-02-01",
-        "like": 1251,
-        "sale": 377,
-        "gender": "여성",
+        "date": "2022-07-11",
+        "like": 1640,
+        "sale": 145,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5222,14 +5378,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "기타",
-        "date": "2024-08-19",
-        "like": 1169,
-        "sale": 364,
-        "gender": "여성",
+        "date": "2023-03-04",
+        "like": 1369,
+        "sale": 685,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5252,14 +5408,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-07-25",
-        "like": 216,
-        "sale": 473,
-        "gender": "여성",
+        "date": "2022-07-10",
+        "like": 1042,
+        "sale": 834,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5282,14 +5438,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-09-06",
-        "like": 691,
-        "sale": 203,
-        "gender": "여성",
+        "date": "2023-10-23",
+        "like": 1967,
+        "sale": 530,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5312,14 +5468,14 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-02-03",
-        "like": 1240,
-        "sale": 702,
-        "gender": "남성",
+        "date": "2023-03-08",
+        "like": 667,
+        "sale": 790,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5342,14 +5498,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "장갑",
-        "date": "2024-09-20",
-        "like": 1942,
-        "sale": 934,
-        "gender": "여성",
+        "date": "2024-10-12",
+        "like": 676,
+        "sale": 797,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5372,14 +5528,14 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-04-19",
-        "like": 417,
-        "sale": 155,
-        "gender": "남성",
+        "date": "2022-04-25",
+        "like": 134,
+        "sale": 40,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5398,14 +5554,14 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "장갑",
-        "date": "2023-08-22",
-        "like": 222,
-        "sale": 668,
-        "gender": "여성",
+        "date": "2023-06-26",
+        "like": 1460,
+        "sale": 499,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5424,14 +5580,14 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "라이트블루",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "장갑",
-        "date": "2023-10-23",
-        "like": 556,
-        "sale": 960,
-        "gender": "여성",
+        "date": "2024-05-30",
+        "like": 1020,
+        "sale": 424,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5450,14 +5606,14 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "라이트블루",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "장갑",
-        "date": "2022-01-11",
-        "like": 1139,
-        "sale": 435,
-        "gender": "여성",
+        "date": "2022-10-24",
+        "like": 1794,
+        "sale": 524,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5476,14 +5632,14 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "장갑",
-        "date": "2022-01-16",
-        "like": 405,
-        "sale": 941,
-        "gender": "여성",
+        "date": "2024-12-07",
+        "like": 308,
+        "sale": 870,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5502,14 +5658,14 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "브라운",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "장갑",
-        "date": "2024-09-10",
-        "like": 1904,
-        "sale": 362,
-        "gender": "여성",
+        "date": "2023-11-27",
+        "like": 103,
+        "sale": 21,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5528,21 +5684,21 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "브라운",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "장갑",
-        "date": "2024-07-14",
-        "like": 300,
-        "sale": 316,
-        "gender": "남성",
+        "date": "2024-09-08",
+        "like": 809,
+        "sale": 89,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "양피 여성 양손장갑 MCW3GL711 WHI",
-        "price": "89,000 ",
+        "price": "62,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003204/image/main/register_main_030.jpg",
         "labels": [
             [
@@ -5554,21 +5710,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "장갑",
-        "date": "2023-02-07",
-        "like": 1866,
-        "sale": 579,
-        "gender": "여성",
+        "date": "2024-03-13",
+        "like": 1517,
+        "sale": 255,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "양피 여성 양손장갑 MCW3GL711 DGN",
-        "price": "89,000 ",
+        "price": "62,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003205/image/main/register_main_094.jpg",
         "labels": [
             [
@@ -5580,21 +5736,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "다크그린",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "장갑",
-        "date": "2022-01-21",
-        "like": 1206,
-        "sale": 347,
-        "gender": "여성",
+        "date": "2024-09-20",
+        "like": 445,
+        "sale": 626,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "양피 여성 양손장갑 MCW3GL711 BRO",
-        "price": "89,000 ",
+        "price": "62,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003206/image/main/register_main_073.jpg",
         "labels": [
             [
@@ -5606,21 +5762,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "브라운",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "장갑",
-        "date": "2024-04-27",
-        "like": 715,
-        "sale": 848,
-        "gender": "여성",
+        "date": "2022-02-18",
+        "like": 781,
+        "sale": 292,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "한 손 양피 장갑 MCM3GL711 WHI",
-        "price": "59,000 ",
+        "price": "41,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003207/image/main/register_main_029.jpg",
         "labels": [
             [
@@ -5632,21 +5788,21 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "장갑",
-        "date": "2024-01-31",
-        "like": 697,
-        "sale": 310,
-        "gender": "남성",
+        "date": "2024-01-30",
+        "like": 879,
+        "sale": 635,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "한 손 양피 장갑 MCM3GL711 LBL",
-        "price": "59,000 ",
+        "price": "41,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003208/image/main/1000003208_main_058.jpg",
         "labels": [
             [
@@ -5658,21 +5814,21 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "라이트블루",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "장갑",
-        "date": "2024-04-28",
-        "like": 1299,
-        "sale": 519,
-        "gender": "남성",
+        "date": "2022-02-22",
+        "like": 778,
+        "sale": 416,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "한 손 양피 장갑 MCM3GL711 GRE",
-        "price": "59,000 ",
+        "price": "41,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003209/image/main/register_main_087.jpg",
         "labels": [
             [
@@ -5684,14 +5840,14 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "그레이",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "장갑",
-        "date": "2022-09-07",
-        "like": 361,
-        "sale": 911,
-        "gender": "남성",
+        "date": "2023-02-12",
+        "like": 1790,
+        "sale": 576,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5714,14 +5870,14 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "기타",
-        "date": "2024-11-29",
-        "like": 1132,
-        "sale": 12,
-        "gender": "남성",
+        "date": "2024-07-02",
+        "like": 1614,
+        "sale": 498,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5744,21 +5900,21 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "기타",
-        "date": "2024-06-03",
-        "like": 1937,
-        "sale": 112,
-        "gender": "남성",
+        "date": "2023-09-30",
+        "like": 452,
+        "sale": 808,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "이지 리버시블 벨트 MCM3BE871 GRN",
-        "price": "199,000 ",
+        "price": "139,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003518/image/main/register_main_02.jpg",
         "labels": [
             [
@@ -5770,21 +5926,21 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "그린",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "기타",
-        "date": "2023-10-06",
-        "like": 404,
-        "sale": 829,
-        "gender": "남성",
+        "date": "2024-10-23",
+        "like": 1160,
+        "sale": 310,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "이지 리버시블 벨트 MCM3BE871 CAM",
-        "price": "199,000 ",
+        "price": "139,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003519/image/main/register_main_052.jpg",
         "labels": [
             [
@@ -5796,21 +5952,21 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "카멜",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "기타",
-        "date": "2024-01-15",
-        "like": 1756,
-        "sale": 871,
-        "gender": "남성",
+        "date": "2023-02-12",
+        "like": 1794,
+        "sale": 749,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "자동 버클 벨트 MCM3BE870 CAM",
-        "price": "199,000 ",
+        "price": "139,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003520/image/main/register_main_028.jpg",
         "labels": [
             [
@@ -5822,21 +5978,21 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "카멜",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "기타",
-        "date": "2023-10-16",
-        "like": 855,
-        "sale": 783,
-        "gender": "남성",
+        "date": "2022-05-18",
+        "like": 1884,
+        "sale": 308,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "자동 버클 벨트 MCM3BE870 GRN",
-        "price": "199,000 ",
+        "price": "139,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003521/image/main/register_main_083.jpg",
         "labels": [
             [
@@ -5848,14 +6004,14 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "그린",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "기타",
-        "date": "2024-04-24",
-        "like": 441,
-        "sale": 49,
-        "gender": "남성",
+        "date": "2022-10-08",
+        "like": 1365,
+        "sale": 275,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5878,14 +6034,14 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-08-10",
-        "like": 687,
-        "sale": 637,
-        "gender": "여성",
+        "date": "2022-09-03",
+        "like": 1855,
+        "sale": 48,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5908,14 +6064,14 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-07-07",
-        "like": 996,
-        "sale": 604,
-        "gender": "남성",
+        "date": "2022-04-18",
+        "like": 1526,
+        "sale": 232,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5938,21 +6094,21 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-10-11",
-        "like": 740,
-        "sale": 691,
-        "gender": "남성",
+        "date": "2022-05-28",
+        "like": 529,
+        "sale": 242,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "가죽 로고 포인트 클래식 슈즈 다크그레이 MCM3SH602 DGY",
-        "price": "390,000 ",
+        "price": "273,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005784/image/main/register_main_048.jpg",
         "labels": [
             [
@@ -5964,21 +6120,21 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "다크그레이",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-12-24",
-        "like": 198,
-        "sale": 592,
-        "gender": "남성",
+        "date": "2023-11-16",
+        "like": 1331,
+        "sale": 686,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "가죽 로고 포인트 클래식 슈즈 화이트 MCM3SH602 WHI",
-        "price": "390,000 ",
+        "price": "273,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005785/image/main/register_main_049.jpg",
         "labels": [
             [
@@ -5990,21 +6146,21 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-05-21",
-        "like": 858,
-        "sale": 776,
-        "gender": "남성",
+        "date": "2023-03-30",
+        "like": 1207,
+        "sale": 423,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "벨크로 킬티 골프화 MCW3SH603 WHI",
-        "price": "390,000 ",
+        "price": "273,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003632/image/main/register_main_045.jpg",
         "labels": [
             [
@@ -6016,21 +6172,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "기타",
-        "date": "2023-01-09",
-        "like": 652,
-        "sale": 635,
-        "gender": "여성",
+        "date": "2022-02-13",
+        "like": 628,
+        "sale": 222,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "벨크로 킬티 골프화 MCW3SH603 SIL",
-        "price": "390,000 ",
+        "price": "273,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003633/image/main/register_main_018.jpg",
         "labels": [
             [
@@ -6042,21 +6198,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "실버",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "기타",
-        "date": "2024-06-16",
-        "like": 704,
-        "sale": 964,
-        "gender": "여성",
+        "date": "2023-12-05",
+        "like": 1321,
+        "sale": 470,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "공용 파스텔 민트 벨크로 골프화 MCU3SH601 CAM",
-        "price": "390,000 ",
+        "price": "273,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003634/image/main/register_main_07.jpg",
         "labels": [
             [
@@ -6068,21 +6224,21 @@
                 "세일"
             ]
         ],
+        "gender": "공용",
         "color": "카멜",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "기타",
-        "date": "2024-12-16",
-        "like": 506,
-        "sale": 921,
-        "gender": "공용",
+        "date": "2022-11-20",
+        "like": 1425,
+        "sale": 30,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "스코티시 체크 롱부츠 그린 MCW3SH604 GRN",
-        "price": "490,000 ",
+        "price": "343,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005752/image/main/register_main_079.jpg",
         "labels": [
             [
@@ -6094,21 +6250,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "기타",
-        "date": "2023-07-10",
-        "like": 1976,
-        "sale": 33,
-        "gender": "여성",
+        "date": "2022-04-28",
+        "like": 279,
+        "sale": 298,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "스코티시 체크 롱부츠 브라운 MCW3SH604 BRO",
-        "price": "490,000 ",
+        "price": "343,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005753/image/main/register_main_050.jpg",
         "labels": [
             [
@@ -6120,21 +6276,21 @@
                 "세일"
             ]
         ],
+        "gender": "여성",
         "color": "브라운",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "기타",
-        "date": "2023-05-27",
-        "like": 443,
-        "sale": 821,
-        "gender": "여성",
+        "date": "2022-06-03",
+        "like": 239,
+        "sale": 458,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "스마트 락 거리측정기 케이스 MCU3AZ874 GRE",
-        "price": "119,000 ",
+        "price": "83,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005610/image/main/register_main_029.jpg",
         "labels": [
             [
@@ -6146,21 +6302,21 @@
                 "세일"
             ]
         ],
+        "gender": "공용",
         "color": "그레이",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "파우치",
-        "date": "2024-12-08",
-        "like": 1163,
-        "sale": 183,
-        "gender": "공용",
+        "date": "2023-01-10",
+        "like": 1499,
+        "sale": 33,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "스마트 락 거리측정기 케이스 MCU3AZ874 MIN",
-        "price": "119,000 ",
+        "price": "83,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005611/image/main/register_main_042.jpg",
         "labels": [
             [
@@ -6172,21 +6328,21 @@
                 "세일"
             ]
         ],
+        "gender": "공용",
         "color": "민트",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "파우치",
-        "date": "2022-05-01",
-        "like": 861,
-        "sale": 843,
-        "gender": "공용",
+        "date": "2024-08-19",
+        "like": 425,
+        "sale": 623,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "해리스 트위드 웨지 커버 MCU3AZ875 NVY",
-        "price": "109,000 ",
+        "price": "87,200",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005618/image/main/register_main_076.jpg",
         "labels": [
             [
@@ -6198,19 +6354,19 @@
                 "세일"
             ]
         ],
+        "gender": "공용",
         "color": "네이비",
         "acc": true,
-        "date": "2023-05-26",
-        "like": 640,
-        "sale": 624,
-        "gender": "공용",
+        "date": "2023-06-25",
+        "like": 604,
+        "sale": 964,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "해리스 트위드 웨지 커버 MCU3AZ875 GRN",
-        "price": "109,000 ",
+        "price": "87,200",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005617/image/main/register_main_089.jpg",
         "labels": [
             [
@@ -6222,19 +6378,19 @@
                 "세일"
             ]
         ],
+        "gender": "공용",
         "color": "그린",
         "acc": true,
-        "date": "2022-06-18",
-        "like": 1865,
-        "sale": 265,
-        "gender": "공용",
+        "date": "2023-09-25",
+        "like": 1352,
+        "sale": 219,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "해리스 트위드 웨지 커버 MCU3AZ875 CAM",
-        "price": "109,000 ",
+        "price": "87,200",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005616/image/main/register_main_086.jpg",
         "labels": [
             [
@@ -6246,12 +6402,12 @@
                 "세일"
             ]
         ],
+        "gender": "공용",
         "color": "카멜",
         "acc": true,
-        "date": "2023-11-10",
-        "like": 1767,
-        "sale": 643,
-        "gender": "공용",
+        "date": "2024-09-13",
+        "like": 134,
+        "sale": 33,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6266,14 +6422,14 @@
                 "공용"
             ]
         ],
+        "gender": "공용",
         "color": "핑크",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "기타",
-        "date": "2022-12-22",
-        "like": 1250,
-        "sale": 424,
-        "gender": "공용",
+        "date": "2023-08-14",
+        "like": 1063,
+        "sale": 462,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6288,14 +6444,14 @@
                 "공용"
             ]
         ],
+        "gender": "공용",
         "color": "그린",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "기타",
-        "date": "2022-11-28",
-        "like": 345,
-        "sale": 234,
-        "gender": "공용",
+        "date": "2024-04-15",
+        "like": 979,
+        "sale": 563,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6314,21 +6470,21 @@
                 "세일"
             ]
         ],
+        "gender": "공용",
         "color": "블랙",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "캐디백",
-        "date": "2024-05-14",
-        "like": 915,
-        "sale": 939,
-        "gender": "공용",
+        "date": "2023-08-24",
+        "like": 1601,
+        "sale": 387,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "공용 타탄 체크 캐디백 MCU3CB680 GRN",
-        "price": "1,290,000 ",
+        "price": "903,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003241/image/main/1000003241_main_04.jpg",
         "labels": [
             [
@@ -6340,21 +6496,21 @@
                 "세일"
             ]
         ],
+        "gender": "공용",
         "color": "그린",
         "acc": true,
         "subCategory": "가방",
         "thirdCategory": "캐디백",
-        "date": "2022-06-17",
-        "like": 1088,
-        "sale": 745,
-        "gender": "공용",
+        "date": "2024-03-03",
+        "like": 425,
+        "sale": 759,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "리얼퍼 넥워머 아이보리 MCW4AZ778 IVY",
-        "price": "390,000 ",
+        "price": "273,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005812/image/main/modify_main_070.jpg",
         "labels": [
             [
@@ -6362,21 +6518,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "아이보리",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "기타",
-        "date": "2024-07-11",
-        "like": 545,
-        "sale": 396,
-        "gender": "여성",
+        "date": "2023-03-22",
+        "like": 557,
+        "sale": 860,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "리얼퍼 넥워머 민트 MCW4AZ778 MIN",
-        "price": "390,000 ",
+        "price": "273,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005813/image/main/modify_main_054.jpg",
         "labels": [
             [
@@ -6384,21 +6540,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "민트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "기타",
-        "date": "2023-05-21",
-        "like": 607,
-        "sale": 109,
-        "gender": "여성",
+        "date": "2023-02-07",
+        "like": 346,
+        "sale": 969,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "퀼팅 레그워머 블랙 MCW4AZ776 BLK",
-        "price": "198,000 ",
+        "price": "138,600",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005815/image/main/modify_main_054.jpg",
         "labels": [
             [
@@ -6406,21 +6562,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "기타",
-        "date": "2022-10-27",
-        "like": 1669,
-        "sale": 667,
-        "gender": "여성",
+        "date": "2022-01-05",
+        "like": 326,
+        "sale": 142,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "방한 후드 넥워머 블랙 MCM4AZ893 BLK",
-        "price": "190,000 ",
+        "price": "133,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005819/image/main/modify_main_029.jpg",
         "labels": [
             [
@@ -6428,21 +6584,21 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "기타",
-        "date": "2023-02-21",
-        "like": 227,
-        "sale": 398,
-        "gender": "남성",
+        "date": "2023-10-22",
+        "like": 166,
+        "sale": 436,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "퍼 오버 니하이 양말 MCW4OC667 GRE",
-        "price": "69,000 ",
+        "price": "48,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003635/image/main/register_main_086.jpg",
         "labels": [
             [
@@ -6450,21 +6606,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "그레이",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2024-08-14",
-        "like": 1302,
-        "sale": 845,
-        "gender": "여성",
+        "date": "2023-03-17",
+        "like": 1447,
+        "sale": 216,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "퍼 오버 니하이 양말 MCW4OC667 BLK",
-        "price": "69,000 ",
+        "price": "48,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003636/image/main/register_main_071.jpg",
         "labels": [
             [
@@ -6472,21 +6628,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2024-12-26",
-        "like": 291,
-        "sale": 92,
-        "gender": "여성",
+        "date": "2023-06-26",
+        "like": 533,
+        "sale": 839,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "퍼 오버 니하이 양말 MCW4OC667 IVY",
-        "price": "69,000 ",
+        "price": "48,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003637/image/main/register_main_080.jpg",
         "labels": [
             [
@@ -6494,21 +6650,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "아이보리",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2024-05-27",
-        "like": 1674,
-        "sale": 638,
-        "gender": "여성",
+        "date": "2023-01-01",
+        "like": 590,
+        "sale": 661,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "씨슬 로고 자수 방한 마스크 블랙 MCW4AZ775 BLK",
-        "price": "59,000 ",
+        "price": "41,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005816/image/main/modify_main_076.jpg",
         "labels": [
             [
@@ -6516,21 +6672,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "기타",
-        "date": "2023-05-17",
-        "like": 1694,
-        "sale": 681,
-        "gender": "여성",
+        "date": "2024-07-07",
+        "like": 712,
+        "sale": 432,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "씨슬 로고 자수 방한 마스크 베이지 MCW4AZ775 BEG",
-        "price": "59,000 ",
+        "price": "41,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005817/image/main/modify_main_056.jpg",
         "labels": [
             [
@@ -6538,21 +6694,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "기타",
-        "date": "2024-05-21",
-        "like": 317,
-        "sale": 155,
-        "gender": "여성",
+        "date": "2023-02-07",
+        "like": 1458,
+        "sale": 580,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "기본 방한마스크 블랙 MCM4AZ775 BLK",
-        "price": "59,000 ",
+        "price": "41,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005820/image/main/modify_main_090.jpg",
         "labels": [
             [
@@ -6560,21 +6716,21 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "기타",
-        "date": "2022-08-09",
-        "like": 1912,
-        "sale": 668,
-        "gender": "남성",
+        "date": "2023-07-09",
+        "like": 149,
+        "sale": 657,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "물결 짜임 핸드워머 MCW4AZ721 GRE",
-        "price": "89,000 ",
+        "price": "62,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005632/image/main/register_main_060.jpg",
         "labels": [
             [
@@ -6582,21 +6738,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "그레이",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "기타",
-        "date": "2022-12-01",
-        "like": 436,
-        "sale": 104,
-        "gender": "여성",
+        "date": "2023-08-20",
+        "like": 1404,
+        "sale": 91,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "물결 짜임 핸드워머 MCW4AZ721 CAM",
-        "price": "89,000 ",
+        "price": "62,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005633/image/main/register_main_099.jpg",
         "labels": [
             [
@@ -6604,21 +6760,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "카멜",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "기타",
-        "date": "2022-06-07",
-        "like": 1708,
-        "sale": 410,
-        "gender": "여성",
+        "date": "2023-08-01",
+        "like": 392,
+        "sale": 100,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "로고 포인트 핸드 워머 블랙 MCW4AZ777 BLK",
-        "price": "230,000 ",
+        "price": "161,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005814/image/main/modify_main_085.jpg",
         "labels": [
             [
@@ -6626,21 +6782,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-04-15",
-        "like": 1839,
-        "sale": 759,
-        "gender": "여성",
+        "date": "2024-01-18",
+        "like": 719,
+        "sale": 638,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "방한 부츠 블랙 MCW4SH605 BLK",
-        "price": "490,000 ",
+        "price": "343,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005783/image/main/register_main_023.jpg",
         "labels": [
             [
@@ -6648,21 +6804,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "기타",
-        "date": "2023-10-14",
-        "like": 207,
-        "sale": 884,
-        "gender": "여성",
+        "date": "2023-09-23",
+        "like": 631,
+        "sale": 417,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "니트 손목 방한장갑 다크그린 MCM4GL610 DGN",
-        "price": "159,000 ",
+        "price": "111,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005818/image/main/modify_main_058.jpg",
         "labels": [
             [
@@ -6670,21 +6826,21 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "다크그린",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "장갑",
-        "date": "2022-06-06",
-        "like": 1559,
-        "sale": 928,
-        "gender": "남성",
+        "date": "2023-08-21",
+        "like": 1624,
+        "sale": 802,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "파스텔 로고 자수 장갑 핑크 MCW4GL712 PNK",
-        "price": "129,000 ",
+        "price": "90,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005809/image/main/modify_main_09.jpg",
         "labels": [
             [
@@ -6692,21 +6848,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "핑크",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "장갑",
-        "date": "2023-07-18",
-        "like": 958,
-        "sale": 106,
-        "gender": "여성",
+        "date": "2023-01-01",
+        "like": 63,
+        "sale": 449,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "파스텔 로고 자수 장갑 민트 MCW4GL712 MIN",
-        "price": "129,000 ",
+        "price": "90,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005810/image/main/modify_main_099.jpg",
         "labels": [
             [
@@ -6714,21 +6870,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "민트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "장갑",
-        "date": "2023-03-05",
-        "like": 752,
-        "sale": 989,
-        "gender": "여성",
+        "date": "2024-01-13",
+        "like": 1818,
+        "sale": 599,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "니트 손목 방한장갑 카멜 MCW4GL610 CAM",
-        "price": "159,000 ",
+        "price": "111,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005811/image/main/modify_main_079.jpg",
         "labels": [
             [
@@ -6736,21 +6892,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "카멜",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "장갑",
-        "date": "2023-02-16",
-        "like": 1164,
-        "sale": 328,
-        "gender": "여성",
+        "date": "2024-06-11",
+        "like": 800,
+        "sale": 668,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "퍼 포인트 벙어리 장갑 베이지 MCW4GL796 BEI",
-        "price": "159,000 ",
+        "price": "111,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005805/image/main/modify_main_060.jpg",
         "labels": [
             [
@@ -6758,21 +6914,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2022-12-09",
-        "like": 626,
-        "sale": 710,
-        "gender": "여성",
+        "date": "2023-09-09",
+        "like": 451,
+        "sale": 307,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "퍼 포인트 벙어리 장갑 그레이 MCW4GL796 GRE",
-        "price": "159,000 ",
+        "price": "111,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005806/image/main/modify_main_089.jpg",
         "labels": [
             [
@@ -6780,21 +6936,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "그레이",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-01-06",
-        "like": 541,
-        "sale": 303,
-        "gender": "여성",
+        "date": "2024-02-16",
+        "like": 1123,
+        "sale": 415,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "리본 울 니삭스 아이보리 MCW4OC795 IVY",
-        "price": "79,000 ",
+        "price": "55,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005781/image/main/register_main_058.jpg",
         "labels": [
             [
@@ -6802,21 +6958,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "아이보리",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2023-05-15",
-        "like": 1628,
-        "sale": 901,
-        "gender": "여성",
+        "date": "2023-01-21",
+        "like": 1815,
+        "sale": 877,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "리본 울 니삭스 블랙 MCW4OC795 BLK",
-        "price": "79,000 ",
+        "price": "55,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005782/image/main/register_main_079.jpg",
         "labels": [
             [
@@ -6824,21 +6980,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2022-03-26",
-        "like": 1873,
-        "sale": 189,
-        "gender": "여성",
+        "date": "2022-05-28",
+        "like": 579,
+        "sale": 772,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "배색 씨슬라인 중목 양말 MCW4OC764 BRO",
-        "price": "59,000 ",
+        "price": "41,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003638/image/main/register_main_066.jpg",
         "labels": [
             [
@@ -6846,21 +7002,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "브라운",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2024-10-17",
-        "like": 531,
-        "sale": 312,
-        "gender": "여성",
+        "date": "2024-06-22",
+        "like": 971,
+        "sale": 806,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "배색 씨슬라인 중목 양말 MCW4OC764 BLK",
-        "price": "59,000 ",
+        "price": "41,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003639/image/main/register_main_016.jpg",
         "labels": [
             [
@@ -6868,21 +7024,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2024-01-01",
-        "like": 920,
-        "sale": 524,
-        "gender": "여성",
+        "date": "2024-03-31",
+        "like": 343,
+        "sale": 699,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "꽈배기 중목 양말 MCW4OC761 BEG",
-        "price": "59,000 ",
+        "price": "41,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003640/image/main/register_main_050.jpg",
         "labels": [
             [
@@ -6890,21 +7046,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2024-09-01",
-        "like": 1642,
-        "sale": 867,
-        "gender": "여성",
+        "date": "2022-09-17",
+        "like": 1252,
+        "sale": 869,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "꽈배기 중목 양말 MCW4OC761 BLK",
-        "price": "59,000 ",
+        "price": "41,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003641/image/main/register_main_049.jpg",
         "labels": [
             [
@@ -6912,21 +7068,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2024-10-19",
-        "like": 619,
-        "sale": 234,
-        "gender": "여성",
+        "date": "2022-06-27",
+        "like": 341,
+        "sale": 279,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "꽈배기 중목 양말 MCW4OC761 MIN",
-        "price": "59,000 ",
+        "price": "41,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003642/image/main/register_main_052.jpg",
         "labels": [
             [
@@ -6934,21 +7090,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "민트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "양말",
-        "date": "2023-12-10",
-        "like": 1845,
-        "sale": 894,
-        "gender": "여성",
+        "date": "2024-06-23",
+        "like": 1424,
+        "sale": 887,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "로고 포인트 바이져 MCM3CA648 BRO",
-        "price": "130,000 ",
+        "price": "91,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003232/image/main/1000003232_main_019.jpg",
         "labels": [
             [
@@ -6960,21 +7116,21 @@
                 "세일"
             ]
         ],
+        "gender": "남성",
         "color": "브라운",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-06-07",
-        "like": 1324,
-        "sale": 464,
-        "gender": "남성",
+        "date": "2022-11-21",
+        "like": 585,
+        "sale": 841,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "리얼 폭스 fur 바이저 아이보리 MCW4CA738 IVY",
-        "price": "230,000 ",
+        "price": "161,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005756/image/main/register_main_015.jpg",
         "labels": [
             [
@@ -6982,21 +7138,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "아이보리",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-12-27",
-        "like": 1510,
-        "sale": 95,
-        "gender": "여성",
+        "date": "2022-05-14",
+        "like": 1064,
+        "sale": 618,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "리얼 폭스 fur 바이저 베이지 MCW4CA738 BEG",
-        "price": "230,000 ",
+        "price": "161,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005757/image/main/register_main_065.jpg",
         "labels": [
             [
@@ -7004,21 +7160,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-07-28",
-        "like": 1071,
-        "sale": 60,
-        "gender": "여성",
+        "date": "2023-12-04",
+        "like": 329,
+        "sale": 753,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "니트 골지 바이저 아이보리 MCW4CA737 IVY",
-        "price": "150,000 ",
+        "price": "105,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005758/image/main/register_main_014.jpg",
         "labels": [
             [
@@ -7026,21 +7182,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "아이보리",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-01-13",
-        "like": 1115,
-        "sale": 517,
-        "gender": "여성",
+        "date": "2023-11-15",
+        "like": 970,
+        "sale": 275,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "부클 자수 포인트 볼캡 MCW4CA744 MIN",
-        "price": "150,000 ",
+        "price": "105,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003559/image/main/register_main_038.jpg",
         "labels": [
             [
@@ -7048,21 +7204,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "민트",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-08-08",
-        "like": 1786,
-        "sale": 720,
-        "gender": "여성",
+        "date": "2024-09-17",
+        "like": 533,
+        "sale": 221,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "부클 자수 포인트 볼캡 MCW4CA744 CAM",
-        "price": "150,000 ",
+        "price": "105,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000003560/image/main/register_main_059.jpg",
         "labels": [
             [
@@ -7070,21 +7226,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "카멜",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-04-24",
-        "like": 220,
-        "sale": 835,
-        "gender": "여성",
+        "date": "2022-07-12",
+        "like": 586,
+        "sale": 827,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "니트 워머 캡비니 그레이 MCM4CA834 GRE",
-        "price": "170,000 ",
+        "price": "119,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005732/image/main/register_main_032.jpg",
         "labels": [
             [
@@ -7092,21 +7248,21 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "그레이",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-09-14",
-        "like": 1320,
-        "sale": 434,
-        "gender": "남성",
+        "date": "2022-08-17",
+        "like": 490,
+        "sale": 651,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "방한모자 MCM4CA792 BLK",
-        "price": "190,000 ",
+        "price": "133,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005607/image/main/1000005607_main_071.jpg",
         "labels": [
             [
@@ -7114,21 +7270,21 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-10-29",
-        "like": 79,
-        "sale": 310,
-        "gender": "남성",
+        "date": "2022-07-07",
+        "like": 1665,
+        "sale": 742,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "탈부착 귀도리 햇 MCW4CA793 BLK",
-        "price": "190,000 ",
+        "price": "133,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005621/image/main/register_main_050.jpg",
         "labels": [
             [
@@ -7136,21 +7292,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-01-23",
-        "like": 943,
-        "sale": 657,
-        "gender": "여성",
+        "date": "2024-07-09",
+        "like": 475,
+        "sale": 534,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "탈부착 귀도리 햇 MCW4CA793 IVY",
-        "price": "190,000 ",
+        "price": "133,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005622/image/main/register_main_041.jpg",
         "labels": [
             [
@@ -7158,21 +7314,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "아이보리",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-04-29",
-        "like": 395,
-        "sale": 696,
-        "gender": "여성",
+        "date": "2024-06-20",
+        "like": 1375,
+        "sale": 286,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "탈부착 귀도리 햇 MCW4CA793 PNK",
-        "price": "190,000 ",
+        "price": "133,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005623/image/main/register_main_023.jpg",
         "labels": [
             [
@@ -7180,21 +7336,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "핑크",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-07-23",
-        "like": 53,
-        "sale": 302,
-        "gender": "여성",
+        "date": "2024-06-13",
+        "like": 568,
+        "sale": 741,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "프리티 울리 햇 MCW4CA739 CAM",
-        "price": "170,000 ",
+        "price": "119,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005625/image/main/register_main_050.jpg",
         "labels": [
             [
@@ -7202,21 +7358,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "카멜",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-08-11",
-        "like": 1542,
-        "sale": 458,
-        "gender": "여성",
+        "date": "2022-11-13",
+        "like": 1150,
+        "sale": 170,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "프리티 울리 햇 MCW4CA739 GRE",
-        "price": "170,000 ",
+        "price": "119,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005626/image/main/register_main_042.jpg",
         "labels": [
             [
@@ -7224,21 +7380,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "그레이",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2023-10-31",
-        "like": 416,
-        "sale": 756,
-        "gender": "여성",
+        "date": "2023-03-23",
+        "like": 1547,
+        "sale": 41,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "여성 방울 햇 아이보리 MCW4CA791 IVY",
-        "price": "190,000 ",
+        "price": "133,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005754/image/main/register_main_084.jpg",
         "labels": [
             [
@@ -7246,21 +7402,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "아이보리",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-01-10",
-        "like": 680,
-        "sale": 539,
-        "gender": "여성",
+        "date": "2024-06-18",
+        "like": 669,
+        "sale": 156,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "여성 방울 햇 그레이 MCW4CA791 GRE",
-        "price": "190,000 ",
+        "price": "133,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005755/image/main/register_main_014.jpg",
         "labels": [
             [
@@ -7268,21 +7424,21 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "그레이",
         "acc": true,
         "subCategory": "용품",
         "thirdCategory": "모자",
-        "date": "2024-10-07",
-        "like": 818,
-        "sale": 345,
-        "gender": "여성",
+        "date": "2022-12-25",
+        "like": 717,
+        "sale": 828,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "ACC",
         "name": "방한 기모 레깅스 블랙 MCW4AZ779 BLK",
-        "price": "79,000 ",
+        "price": "55,300",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005793/image/main/register_main_011.jpg",
         "labels": [
             [
@@ -7290,12 +7446,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": true,
-        "date": "2024-06-29",
-        "like": 968,
-        "sale": 611,
-        "gender": "여성",
+        "date": "2022-04-23",
+        "like": 950,
+        "sale": 424,
         "size": ["FRE"],
         "season": ["ALW"]
     }

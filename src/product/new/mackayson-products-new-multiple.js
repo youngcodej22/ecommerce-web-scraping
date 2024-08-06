@@ -70,6 +70,20 @@ async function run() {
                 }))
         );
 
+        // todo: insert value for "filtering", 성별, 컬러, 사이즈, 계절, 가격
+        // * 성별
+        for (const item of products) {
+            const genderLabel = item.labels.find((label) =>
+                ["여성", "남성", "공용"].includes(label[1])
+            );
+
+            if (genderLabel) {
+                item.gender = genderLabel[1]; // Assigns "여성", "남성", or "공용"
+            } else {
+                item.gender = "공용"; // Default value if no gender-specific label is found
+            }
+        }
+
         // * 추가 컬러 구분 (상품명에 색상이 들어가야해서 *컬러 코드 아래에 배치)
         // ! 페이지가 [0] 경우 1페이지를 말함
         const imageSrcList = products.map((product) => product.image);
@@ -287,20 +301,6 @@ async function run() {
         // * 추가 sale (sellcnt)
         for (const item of products) {
             item.sale = generateRandomSaleCount(minSales, maxSales);
-        }
-
-        // todo: insert value for "filtering", 성별, 컬러, 사이즈, 계절, 가격
-        // * 성별
-        for (const item of products) {
-            const genderLabel = item.labels.find((label) =>
-                ["여성", "남성", "공용"].includes(label[1])
-            );
-
-            if (genderLabel) {
-                item.gender = genderLabel[1]; // Assigns "여성", "남성", or "공용"
-            } else {
-                item.gender = "공용"; // Default value if no gender-specific label is found
-            }
         }
 
         // * 사이즈 , 계절

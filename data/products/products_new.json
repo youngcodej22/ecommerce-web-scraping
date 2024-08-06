@@ -18,12 +18,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "라이트그레이",
         "acc": false,
-        "date": "2022-09-30",
-        "like": 406,
-        "sale": 999,
-        "gender": "남성",
+        "date": "2022-10-30",
+        "like": 864,
+        "sale": 46,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -46,12 +46,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "베이지",
         "acc": false,
-        "date": "2022-07-08",
-        "like": 933,
-        "sale": 191,
-        "gender": "남성",
+        "date": "2022-03-05",
+        "like": 284,
+        "sale": 365,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -74,12 +74,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": false,
-        "date": "2022-04-08",
-        "like": 1432,
-        "sale": 636,
-        "gender": "남성",
+        "date": "2023-08-06",
+        "like": 588,
+        "sale": 863,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -102,12 +102,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "라임",
         "acc": false,
-        "date": "2024-01-07",
-        "like": 1999,
-        "sale": 632,
-        "gender": "남성",
+        "date": "2022-11-26",
+        "like": 402,
+        "sale": 397,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -130,12 +130,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "라이트블루",
         "acc": false,
-        "date": "2023-02-01",
-        "like": 844,
-        "sale": 672,
-        "gender": "여성",
+        "date": "2023-03-13",
+        "like": 1426,
+        "sale": 860,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -158,12 +158,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2022-05-27",
-        "like": 480,
-        "sale": 176,
-        "gender": "여성",
+        "date": "2022-09-13",
+        "like": 1239,
+        "sale": 435,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -186,12 +186,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "퍼플",
         "acc": false,
-        "date": "2023-01-31",
-        "like": 1473,
-        "sale": 36,
-        "gender": "여성",
+        "date": "2023-02-12",
+        "like": 1715,
+        "sale": 101,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -214,12 +214,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": false,
-        "date": "2024-02-01",
-        "like": 313,
-        "sale": 829,
-        "gender": "여성",
+        "date": "2024-07-13",
+        "like": 1975,
+        "sale": 380,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -242,12 +242,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2023-05-31",
-        "like": 462,
-        "sale": 999,
-        "gender": "여성",
+        "date": "2023-01-16",
+        "like": 391,
+        "sale": 448,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -270,12 +270,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "퍼플",
         "acc": false,
-        "date": "2022-05-29",
-        "like": 1512,
-        "sale": 561,
-        "gender": "여성",
+        "date": "2023-06-16",
+        "like": 1259,
+        "sale": 635,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -298,19 +298,19 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": false,
-        "date": "2023-05-29",
-        "like": 370,
-        "sale": 853,
-        "gender": "여성",
+        "date": "2024-09-14",
+        "like": 1853,
+        "sale": 559,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "하이퍼포먼스 반팔 티셔츠 MDW2TS903 GBL 라이트그레이",
-        "price": "290,000 ",
+        "price": "145,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000007863/image/main/1000007863_main_070.jpg",
         "labels": [
             [
@@ -326,19 +326,19 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "라이트그레이",
         "acc": false,
-        "date": "2023-12-08",
-        "like": 288,
-        "sale": 319,
-        "gender": "여성",
+        "date": "2023-10-30",
+        "like": 1051,
+        "sale": 327,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "로고 포인트 반팔 티셔츠 MDW2TS902 WHI",
-        "price": "290,000 ",
+        "price": "145,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000007862/image/main/1000007862_main_033.jpg",
         "labels": [
             [
@@ -354,19 +354,19 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2023-06-04",
-        "like": 573,
-        "sale": 643,
-        "gender": "여성",
+        "date": "2022-08-31",
+        "like": 114,
+        "sale": 698,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "원포인트 반팔 티셔츠 MDW2TS901 NVY",
-        "price": "290,000 ",
+        "price": "145,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000007861/image/main/1000007861_main_016.jpg",
         "labels": [
             [
@@ -382,12 +382,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": false,
-        "date": "2023-10-18",
-        "like": 613,
-        "sale": 650,
-        "gender": "여성",
+        "date": "2024-11-27",
+        "like": 661,
+        "sale": 536,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -406,12 +406,12 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": false,
-        "date": "2022-05-15",
-        "like": 346,
-        "sale": 483,
-        "gender": "남성",
+        "date": "2024-04-27",
+        "like": 1012,
+        "sale": 314,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -434,12 +434,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2023-01-07",
-        "like": 1399,
-        "sale": 213,
-        "gender": "여성",
+        "date": "2024-08-24",
+        "like": 1529,
+        "sale": 182,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -462,12 +462,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": false,
-        "date": "2022-05-03",
-        "like": 734,
-        "sale": 999,
-        "gender": "여성",
+        "date": "2023-01-05",
+        "like": 418,
+        "sale": 37,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -490,12 +490,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": false,
-        "date": "2024-07-05",
-        "like": 336,
-        "sale": 376,
-        "gender": "남성",
+        "date": "2024-04-30",
+        "like": 1548,
+        "sale": 613,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -518,12 +518,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": false,
-        "date": "2023-03-08",
-        "like": 1573,
-        "sale": 742,
-        "gender": "남성",
+        "date": "2024-02-05",
+        "like": 571,
+        "sale": 57,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -546,12 +546,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": false,
-        "date": "2024-11-12",
-        "like": 1909,
-        "sale": 959,
-        "gender": "여성",
+        "date": "2022-01-08",
+        "like": 930,
+        "sale": 411,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -574,12 +574,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2022-05-28",
-        "like": 152,
-        "sale": 872,
-        "gender": "여성",
+        "date": "2024-11-26",
+        "like": 1749,
+        "sale": 379,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -602,12 +602,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "핑크",
         "acc": false,
-        "date": "2022-04-16",
-        "like": 1978,
-        "sale": 747,
-        "gender": "여성",
+        "date": "2022-05-07",
+        "like": 784,
+        "sale": 682,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -630,12 +630,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "라이트그레이",
         "acc": false,
-        "date": "2023-09-02",
-        "like": 1439,
-        "sale": 673,
-        "gender": "여성",
+        "date": "2022-02-08",
+        "like": 420,
+        "sale": 799,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -658,12 +658,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": false,
-        "date": "2023-09-10",
-        "like": 1637,
-        "sale": 187,
-        "gender": "남성",
+        "date": "2022-01-12",
+        "like": 1939,
+        "sale": 375,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -686,12 +686,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "네이비",
         "acc": false,
-        "date": "2022-03-25",
-        "like": 1884,
-        "sale": 482,
-        "gender": "남성",
+        "date": "2022-11-14",
+        "like": 1851,
+        "sale": 369,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -714,12 +714,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": false,
-        "date": "2022-07-08",
-        "like": 149,
-        "sale": 366,
-        "gender": "여성",
+        "date": "2024-01-11",
+        "like": 81,
+        "sale": 271,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -742,12 +742,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": false,
-        "date": "2024-08-07",
-        "like": 986,
-        "sale": 912,
-        "gender": "여성",
+        "date": "2022-07-27",
+        "like": 1520,
+        "sale": 249,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -770,12 +770,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": false,
-        "date": "2024-09-06",
-        "like": 489,
-        "sale": 821,
-        "gender": "여성",
+        "date": "2023-04-03",
+        "like": 462,
+        "sale": 905,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -798,12 +798,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "오렌지",
         "acc": false,
-        "date": "2022-02-10",
-        "like": 1232,
-        "sale": 295,
-        "gender": "여성",
+        "date": "2024-10-18",
+        "like": 969,
+        "sale": 860,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -826,12 +826,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2024-01-15",
-        "like": 1308,
-        "sale": 649,
-        "gender": "여성",
+        "date": "2022-01-19",
+        "like": 1571,
+        "sale": 634,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -854,12 +854,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": false,
-        "date": "2022-05-14",
-        "like": 358,
-        "sale": 425,
-        "gender": "여성",
+        "date": "2024-01-04",
+        "like": 520,
+        "sale": 47,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -882,12 +882,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "블루",
         "acc": false,
-        "date": "2024-12-30",
-        "like": 304,
-        "sale": 357,
-        "gender": "여성",
+        "date": "2023-10-22",
+        "like": 272,
+        "sale": 913,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -910,12 +910,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "브라운",
         "acc": false,
-        "date": "2024-02-14",
-        "like": 1029,
-        "sale": 575,
-        "gender": "여성",
+        "date": "2023-02-20",
+        "like": 453,
+        "sale": 952,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -938,12 +938,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": false,
-        "date": "2023-04-22",
-        "like": 1711,
-        "sale": 152,
-        "gender": "여성",
+        "date": "2024-04-13",
+        "like": 1455,
+        "sale": 460,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -966,12 +966,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "브라운",
         "acc": false,
-        "date": "2022-02-04",
-        "like": 185,
-        "sale": 638,
-        "gender": "여성",
+        "date": "2022-02-09",
+        "like": 717,
+        "sale": 62,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -994,12 +994,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": false,
-        "date": "2022-11-27",
-        "like": 346,
-        "sale": 517,
-        "gender": "여성",
+        "date": "2022-04-10",
+        "like": 547,
+        "sale": 536,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1022,12 +1022,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "블루",
         "acc": false,
-        "date": "2024-02-04",
-        "like": 1306,
-        "sale": 558,
-        "gender": "여성",
+        "date": "2022-09-05",
+        "like": 1975,
+        "sale": 733,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1050,12 +1050,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": false,
-        "date": "2023-07-04",
-        "like": 1732,
-        "sale": 379,
-        "gender": "여성",
+        "date": "2024-05-01",
+        "like": 1978,
+        "sale": 733,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1078,12 +1078,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2023-07-29",
-        "like": 509,
-        "sale": 57,
-        "gender": "여성",
+        "date": "2024-07-11",
+        "like": 1180,
+        "sale": 722,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1106,12 +1106,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "라이트블루",
         "acc": false,
-        "date": "2024-09-17",
-        "like": 461,
-        "sale": 740,
-        "gender": "여성",
+        "date": "2022-06-22",
+        "like": 1114,
+        "sale": 914,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1134,12 +1134,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2024-03-09",
-        "like": 1351,
-        "sale": 131,
-        "gender": "여성",
+        "date": "2022-01-24",
+        "like": 95,
+        "sale": 363,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1162,12 +1162,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": false,
-        "date": "2024-02-08",
-        "like": 249,
-        "sale": 716,
-        "gender": "여성",
+        "date": "2024-01-21",
+        "like": 348,
+        "sale": 485,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1190,12 +1190,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": false,
-        "date": "2023-04-13",
-        "like": 1323,
-        "sale": 93,
-        "gender": "여성",
+        "date": "2022-03-31",
+        "like": 1884,
+        "sale": 446,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1218,12 +1218,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": false,
-        "date": "2023-03-08",
-        "like": 1264,
-        "sale": 402,
-        "gender": "여성",
+        "date": "2022-08-18",
+        "like": 1226,
+        "sale": 645,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1246,12 +1246,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": false,
-        "date": "2022-06-19",
-        "like": 85,
-        "sale": 715,
-        "gender": "여성",
+        "date": "2024-03-20",
+        "like": 544,
+        "sale": 19,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1274,12 +1274,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "레드",
         "acc": false,
-        "date": "2024-07-27",
-        "like": 360,
-        "sale": 676,
-        "gender": "여성",
+        "date": "2024-01-02",
+        "like": 1891,
+        "sale": 389,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1302,12 +1302,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": false,
-        "date": "2023-08-10",
-        "like": 363,
-        "sale": 530,
-        "gender": "여성",
+        "date": "2024-11-18",
+        "like": 1858,
+        "sale": 939,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1330,12 +1330,12 @@
                 "신상품"
             ]
         ],
+        "gender": "공용",
         "color": "네이비",
         "acc": false,
-        "date": "2024-05-15",
-        "like": 1101,
-        "sale": 60,
-        "gender": "공용",
+        "date": "2023-12-10",
+        "like": 1658,
+        "sale": 703,
         "size": ["080", "085", "090", "095", "100", "105", "110"],
         "season": ["봄", "여름"]
     },
@@ -1358,12 +1358,12 @@
                 "신상품"
             ]
         ],
+        "gender": "공용",
         "color": "그린",
         "acc": false,
-        "date": "2022-08-04",
-        "like": 1712,
-        "sale": 688,
-        "gender": "공용",
+        "date": "2024-08-15",
+        "like": 858,
+        "sale": 167,
         "size": ["080", "085", "090", "095", "100", "105", "110"],
         "season": ["봄", "여름"]
     },
@@ -1386,12 +1386,12 @@
                 "신상품"
             ]
         ],
+        "gender": "공용",
         "color": "블루",
         "acc": false,
-        "date": "2023-04-17",
-        "like": 847,
-        "sale": 121,
-        "gender": "공용",
+        "date": "2024-12-12",
+        "like": 576,
+        "sale": 782,
         "size": ["080", "085", "090", "095", "100", "105", "110"],
         "season": ["봄", "여름"]
     },
@@ -1402,24 +1402,24 @@
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006023/image/main/1000006023_main_090.jpg",
         "labels": [
             [
+                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/NEW.png",
+                "신상품"
+            ],
+            [
                 "https://www.mckayson.com/data/icon/goods_icon/2024%60SS_.png",
                 "2024SS"
             ],
             [
                 "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/UNISEX_.png",
                 "공용"
-            ],
-            [
-                "https://mckayson.cdn-nhncommerce.com/data/icon/goods_icon/NEW.png",
-                "신상품"
             ]
         ],
+        "gender": "공용",
         "color": "베이지",
         "acc": false,
-        "date": "2024-05-04",
-        "like": 1543,
-        "sale": 848,
-        "gender": "공용",
+        "date": "2024-10-30",
+        "like": 631,
+        "sale": 943,
         "size": ["080", "085", "090", "095", "100", "105", "110"],
         "season": ["봄", "여름"]
     },
@@ -1442,12 +1442,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": false,
-        "date": "2023-03-12",
-        "like": 194,
-        "sale": 56,
-        "gender": "남성",
+        "date": "2022-06-17",
+        "like": 766,
+        "sale": 839,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1470,12 +1470,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블루",
         "acc": false,
-        "date": "2022-12-21",
-        "like": 96,
-        "sale": 168,
-        "gender": "남성",
+        "date": "2024-11-25",
+        "like": 1091,
+        "sale": 573,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1498,12 +1498,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "카키",
         "acc": false,
-        "date": "2024-01-22",
-        "like": 828,
-        "sale": 584,
-        "gender": "남성",
+        "date": "2023-07-04",
+        "like": 478,
+        "sale": 364,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1526,12 +1526,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": false,
-        "date": "2024-01-17",
-        "like": 859,
-        "sale": 41,
-        "gender": "남성",
+        "date": "2023-02-07",
+        "like": 471,
+        "sale": 141,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1554,12 +1554,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "베이지",
         "acc": false,
-        "date": "2022-08-30",
-        "like": 1992,
-        "sale": 548,
-        "gender": "남성",
+        "date": "2022-04-28",
+        "like": 533,
+        "sale": 826,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1582,12 +1582,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": false,
-        "date": "2023-07-05",
-        "like": 468,
-        "sale": 205,
-        "gender": "남성",
+        "date": "2024-09-23",
+        "like": 1673,
+        "sale": 463,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1610,12 +1610,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": false,
-        "date": "2023-05-21",
-        "like": 1795,
-        "sale": 186,
-        "gender": "남성",
+        "date": "2023-06-25",
+        "like": 337,
+        "sale": 423,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1638,12 +1638,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "그레이",
         "acc": false,
-        "date": "2022-02-13",
-        "like": 1263,
-        "sale": 823,
-        "gender": "남성",
+        "date": "2024-09-26",
+        "like": 59,
+        "sale": 333,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1666,12 +1666,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "네이비",
         "acc": false,
-        "date": "2024-02-01",
-        "like": 1264,
-        "sale": 41,
-        "gender": "남성",
+        "date": "2022-08-12",
+        "like": 296,
+        "sale": 798,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1694,12 +1694,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "네이비",
         "acc": false,
-        "date": "2024-06-11",
-        "like": 1085,
-        "sale": 649,
-        "gender": "남성",
+        "date": "2023-01-21",
+        "like": 1699,
+        "sale": 771,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1722,12 +1722,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "베이지",
         "acc": false,
-        "date": "2022-05-23",
-        "like": 1003,
-        "sale": 787,
-        "gender": "남성",
+        "date": "2022-01-01",
+        "like": 1265,
+        "sale": 715,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1750,12 +1750,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "오렌지",
         "acc": false,
-        "date": "2024-10-24",
-        "like": 222,
-        "sale": 74,
-        "gender": "남성",
+        "date": "2024-10-31",
+        "like": 1189,
+        "sale": 934,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1778,12 +1778,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "네이비",
         "acc": false,
-        "date": "2023-10-13",
-        "like": 1282,
-        "sale": 353,
-        "gender": "남성",
+        "date": "2024-07-30",
+        "like": 1745,
+        "sale": 106,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1806,12 +1806,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "그레이",
         "acc": false,
-        "date": "2022-02-14",
-        "like": 1943,
-        "sale": 318,
-        "gender": "남성",
+        "date": "2023-02-04",
+        "like": 478,
+        "sale": 192,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1834,12 +1834,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "네이비",
         "acc": false,
-        "date": "2022-06-02",
-        "like": 290,
-        "sale": 779,
-        "gender": "남성",
+        "date": "2022-02-05",
+        "like": 891,
+        "sale": 219,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1862,12 +1862,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "베이지",
         "acc": false,
-        "date": "2022-08-16",
-        "like": 1921,
-        "sale": 117,
-        "gender": "남성",
+        "date": "2024-11-21",
+        "like": 898,
+        "sale": 220,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1890,12 +1890,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "차콜",
         "acc": false,
-        "date": "2024-01-26",
-        "like": 616,
-        "sale": 711,
-        "gender": "남성",
+        "date": "2022-06-30",
+        "like": 1180,
+        "sale": 232,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1918,12 +1918,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "그린",
         "acc": false,
-        "date": "2024-08-07",
-        "like": 211,
-        "sale": 30,
-        "gender": "남성",
+        "date": "2024-05-26",
+        "like": 1077,
+        "sale": 906,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1946,12 +1946,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "네이비",
         "acc": false,
-        "date": "2022-01-03",
-        "like": 1216,
-        "sale": 361,
-        "gender": "남성",
+        "date": "2024-10-29",
+        "like": 512,
+        "sale": 270,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -1974,12 +1974,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "그린",
         "acc": false,
-        "date": "2022-02-21",
-        "like": 803,
-        "sale": 460,
-        "gender": "남성",
+        "date": "2023-04-03",
+        "like": 1418,
+        "sale": 438,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2002,12 +2002,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2024-02-19",
-        "like": 1458,
-        "sale": 800,
-        "gender": "여성",
+        "date": "2024-03-14",
+        "like": 1353,
+        "sale": 395,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2030,12 +2030,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "라이트블루",
         "acc": false,
-        "date": "2022-11-09",
-        "like": 762,
-        "sale": 355,
-        "gender": "여성",
+        "date": "2023-09-18",
+        "like": 512,
+        "sale": 134,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2058,12 +2058,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": false,
-        "date": "2024-07-01",
-        "like": 670,
-        "sale": 626,
-        "gender": "여성",
+        "date": "2024-02-15",
+        "like": 422,
+        "sale": 28,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2086,12 +2086,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2023-09-22",
-        "like": 1967,
-        "sale": 769,
-        "gender": "여성",
+        "date": "2023-03-19",
+        "like": 606,
+        "sale": 137,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2114,12 +2114,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": false,
-        "date": "2024-07-21",
-        "like": 51,
-        "sale": 418,
-        "gender": "여성",
+        "date": "2023-12-08",
+        "like": 1180,
+        "sale": 899,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2142,12 +2142,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": false,
-        "date": "2023-09-11",
-        "like": 772,
-        "sale": 648,
-        "gender": "여성",
+        "date": "2024-03-17",
+        "like": 937,
+        "sale": 927,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2170,12 +2170,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "라임",
         "acc": false,
-        "date": "2024-06-25",
-        "like": 663,
-        "sale": 341,
-        "gender": "여성",
+        "date": "2022-10-20",
+        "like": 1703,
+        "sale": 758,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2198,12 +2198,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": false,
-        "date": "2022-06-04",
-        "like": 325,
-        "sale": 805,
-        "gender": "여성",
+        "date": "2023-06-26",
+        "like": 115,
+        "sale": 118,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2226,12 +2226,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "블루",
         "acc": false,
-        "date": "2022-10-04",
-        "like": 1343,
-        "sale": 536,
-        "gender": "여성",
+        "date": "2024-03-21",
+        "like": 1541,
+        "sale": 163,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2254,12 +2254,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": false,
-        "date": "2022-11-21",
-        "like": 1988,
-        "sale": 120,
-        "gender": "여성",
+        "date": "2022-08-22",
+        "like": 221,
+        "sale": 627,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2282,12 +2282,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2023-03-29",
-        "like": 1384,
-        "sale": 392,
-        "gender": "여성",
+        "date": "2023-07-24",
+        "like": 1531,
+        "sale": 45,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2310,12 +2310,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": false,
-        "date": "2022-06-30",
-        "like": 1735,
-        "sale": 521,
-        "gender": "여성",
+        "date": "2024-03-06",
+        "like": 1801,
+        "sale": 116,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2338,12 +2338,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2024-06-08",
-        "like": 424,
-        "sale": 197,
-        "gender": "여성",
+        "date": "2022-10-01",
+        "like": 310,
+        "sale": 662,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2366,12 +2366,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "카키",
         "acc": false,
-        "date": "2023-05-01",
-        "like": 1252,
-        "sale": 776,
-        "gender": "여성",
+        "date": "2023-07-26",
+        "like": 909,
+        "sale": 261,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2394,12 +2394,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "라이트블루",
         "acc": false,
-        "date": "2024-12-25",
-        "like": 383,
-        "sale": 920,
-        "gender": "남성",
+        "date": "2023-09-05",
+        "like": 914,
+        "sale": 570,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2422,12 +2422,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": false,
-        "date": "2024-04-30",
-        "like": 461,
-        "sale": 818,
-        "gender": "남성",
+        "date": "2023-02-25",
+        "like": 1119,
+        "sale": 943,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2450,12 +2450,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": false,
-        "date": "2022-02-19",
-        "like": 379,
-        "sale": 154,
-        "gender": "여성",
+        "date": "2022-07-11",
+        "like": 593,
+        "sale": 202,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2478,12 +2478,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": false,
-        "date": "2022-01-09",
-        "like": 1816,
-        "sale": 668,
-        "gender": "여성",
+        "date": "2024-05-27",
+        "like": 1568,
+        "sale": 508,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2506,12 +2506,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": false,
-        "date": "2023-02-19",
-        "like": 143,
-        "sale": 578,
-        "gender": "여성",
+        "date": "2024-06-05",
+        "like": 802,
+        "sale": 80,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2534,12 +2534,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": false,
-        "date": "2022-12-26",
-        "like": 697,
-        "sale": 394,
-        "gender": "여성",
+        "date": "2023-02-18",
+        "like": 1890,
+        "sale": 980,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2562,12 +2562,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "오렌지",
         "acc": false,
-        "date": "2023-08-22",
-        "like": 546,
-        "sale": 987,
-        "gender": "여성",
+        "date": "2022-06-17",
+        "like": 427,
+        "sale": 700,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2590,12 +2590,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": false,
-        "date": "2022-07-27",
-        "like": 508,
-        "sale": 379,
-        "gender": "여성",
+        "date": "2023-03-19",
+        "like": 777,
+        "sale": 20,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2618,12 +2618,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": false,
-        "date": "2022-12-12",
-        "like": 1238,
-        "sale": 654,
-        "gender": "여성",
+        "date": "2024-04-09",
+        "like": 1303,
+        "sale": 759,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2646,12 +2646,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "라이트블루",
         "acc": false,
-        "date": "2022-06-04",
-        "like": 490,
-        "sale": 406,
-        "gender": "여성",
+        "date": "2023-10-01",
+        "like": 686,
+        "sale": 644,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2674,12 +2674,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": false,
-        "date": "2024-06-02",
-        "like": 282,
-        "sale": 600,
-        "gender": "여성",
+        "date": "2022-08-23",
+        "like": 1873,
+        "sale": 842,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2702,12 +2702,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "퍼플",
         "acc": false,
-        "date": "2023-02-10",
-        "like": 1628,
-        "sale": 16,
-        "gender": "여성",
+        "date": "2022-01-08",
+        "like": 1841,
+        "sale": 790,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2730,12 +2730,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": false,
-        "date": "2023-01-06",
-        "like": 749,
-        "sale": 316,
-        "gender": "여성",
+        "date": "2022-10-10",
+        "like": 257,
+        "sale": 16,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2758,12 +2758,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2023-12-13",
-        "like": 112,
-        "sale": 468,
-        "gender": "여성",
+        "date": "2023-04-21",
+        "like": 886,
+        "sale": 850,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2786,12 +2786,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": false,
-        "date": "2022-05-21",
-        "like": 1638,
-        "sale": 255,
-        "gender": "여성",
+        "date": "2022-01-29",
+        "like": 224,
+        "sale": 653,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2814,12 +2814,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2024-06-18",
-        "like": 846,
-        "sale": 218,
-        "gender": "여성",
+        "date": "2023-01-15",
+        "like": 651,
+        "sale": 299,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2842,12 +2842,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": false,
-        "date": "2022-02-16",
-        "like": 139,
-        "sale": 187,
-        "gender": "여성",
+        "date": "2024-01-29",
+        "like": 541,
+        "sale": 737,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2870,12 +2870,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": false,
-        "date": "2022-09-27",
-        "like": 1541,
-        "sale": 80,
-        "gender": "남성",
+        "date": "2024-10-27",
+        "like": 122,
+        "sale": 91,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2898,12 +2898,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블루",
         "acc": false,
-        "date": "2022-01-28",
-        "like": 1937,
-        "sale": 52,
-        "gender": "남성",
+        "date": "2023-05-24",
+        "like": 308,
+        "sale": 64,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2926,12 +2926,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": false,
-        "date": "2022-01-26",
-        "like": 995,
-        "sale": 340,
-        "gender": "여성",
+        "date": "2024-03-02",
+        "like": 1429,
+        "sale": 740,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2954,12 +2954,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "라이트블루",
         "acc": false,
-        "date": "2023-11-03",
-        "like": 1357,
-        "sale": 884,
-        "gender": "여성",
+        "date": "2024-07-20",
+        "like": 1014,
+        "sale": 454,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -2982,12 +2982,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2024-05-31",
-        "like": 1507,
-        "sale": 967,
-        "gender": "여성",
+        "date": "2022-10-02",
+        "like": 127,
+        "sale": 998,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3010,12 +3010,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": false,
-        "date": "2022-05-05",
-        "like": 1868,
-        "sale": 283,
-        "gender": "여성",
+        "date": "2023-06-13",
+        "like": 1603,
+        "sale": 193,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3038,12 +3038,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": false,
-        "date": "2024-08-26",
-        "like": 879,
-        "sale": 525,
-        "gender": "남성",
+        "date": "2022-04-11",
+        "like": 714,
+        "sale": 253,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3066,12 +3066,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": false,
-        "date": "2024-01-02",
-        "like": 950,
-        "sale": 288,
-        "gender": "남성",
+        "date": "2024-10-30",
+        "like": 1827,
+        "sale": 626,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3094,12 +3094,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "퍼플",
         "acc": false,
-        "date": "2024-11-14",
-        "like": 321,
-        "sale": 417,
-        "gender": "여성",
+        "date": "2023-09-01",
+        "like": 1438,
+        "sale": 404,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3122,12 +3122,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": false,
-        "date": "2023-07-12",
-        "like": 1286,
-        "sale": 761,
-        "gender": "여성",
+        "date": "2024-06-08",
+        "like": 1669,
+        "sale": 880,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3150,12 +3150,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2022-12-08",
-        "like": 1986,
-        "sale": 751,
-        "gender": "여성",
+        "date": "2022-01-09",
+        "like": 1027,
+        "sale": 855,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3178,12 +3178,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": false,
-        "date": "2023-12-04",
-        "like": 1566,
-        "sale": 663,
-        "gender": "여성",
+        "date": "2022-06-15",
+        "like": 771,
+        "sale": 30,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3206,12 +3206,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": false,
-        "date": "2022-05-23",
-        "like": 495,
-        "sale": 634,
-        "gender": "여성",
+        "date": "2023-07-13",
+        "like": 1419,
+        "sale": 615,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3234,12 +3234,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "다크그레이",
         "acc": false,
-        "date": "2023-12-04",
-        "like": 218,
-        "sale": 422,
-        "gender": "여성",
+        "date": "2023-11-02",
+        "like": 208,
+        "sale": 868,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3262,12 +3262,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "차콜",
         "acc": false,
-        "date": "2022-06-19",
-        "like": 1857,
-        "sale": 88,
-        "gender": "남성",
+        "date": "2024-06-30",
+        "like": 1082,
+        "sale": 425,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3290,12 +3290,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "다크그레이",
         "acc": false,
-        "date": "2024-01-29",
-        "like": 1436,
-        "sale": 370,
-        "gender": "남성",
+        "date": "2023-07-12",
+        "like": 1802,
+        "sale": 297,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3318,12 +3318,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "핑크",
         "acc": false,
-        "date": "2024-08-07",
-        "like": 662,
-        "sale": 139,
-        "gender": "여성",
+        "date": "2022-01-21",
+        "like": 248,
+        "sale": 761,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3346,12 +3346,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": false,
-        "date": "2024-08-24",
-        "like": 921,
-        "sale": 612,
-        "gender": "여성",
+        "date": "2022-09-23",
+        "like": 173,
+        "sale": 302,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3374,12 +3374,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2022-09-24",
-        "like": 1601,
-        "sale": 870,
-        "gender": "여성",
+        "date": "2024-11-09",
+        "like": 1261,
+        "sale": 106,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3402,12 +3402,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": false,
-        "date": "2022-08-26",
-        "like": 220,
-        "sale": 638,
-        "gender": "여성",
+        "date": "2022-09-02",
+        "like": 365,
+        "sale": 826,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3430,12 +3430,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2023-07-31",
-        "like": 1361,
-        "sale": 170,
-        "gender": "여성",
+        "date": "2022-07-21",
+        "like": 971,
+        "sale": 758,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3458,12 +3458,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": false,
-        "date": "2023-12-19",
-        "like": 1174,
-        "sale": 883,
-        "gender": "여성",
+        "date": "2023-06-19",
+        "like": 649,
+        "sale": 89,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3486,12 +3486,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "아이보리",
         "acc": false,
-        "date": "2023-09-19",
-        "like": 416,
-        "sale": 125,
-        "gender": "여성",
+        "date": "2024-06-15",
+        "like": 1319,
+        "sale": 869,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3514,12 +3514,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": false,
-        "date": "2023-07-31",
-        "like": 401,
-        "sale": 604,
-        "gender": "여성",
+        "date": "2022-01-03",
+        "like": 282,
+        "sale": 381,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3542,12 +3542,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": false,
-        "date": "2024-02-02",
-        "like": 1973,
-        "sale": 556,
-        "gender": "여성",
+        "date": "2023-03-08",
+        "like": 1496,
+        "sale": 532,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3570,12 +3570,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "라이트베이지",
         "acc": false,
-        "date": "2022-01-15",
-        "like": 1404,
-        "sale": 622,
-        "gender": "여성",
+        "date": "2024-12-18",
+        "like": 977,
+        "sale": 466,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3598,12 +3598,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": false,
-        "date": "2024-10-14",
-        "like": 1615,
-        "sale": 310,
-        "gender": "여성",
+        "date": "2023-09-10",
+        "like": 762,
+        "sale": 245,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3626,12 +3626,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "핑크",
         "acc": false,
-        "date": "2024-08-25",
-        "like": 513,
-        "sale": 434,
-        "gender": "여성",
+        "date": "2023-08-05",
+        "like": 267,
+        "sale": 345,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3654,12 +3654,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2024-02-28",
-        "like": 103,
-        "sale": 288,
-        "gender": "여성",
+        "date": "2024-11-13",
+        "like": 1156,
+        "sale": 500,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3682,12 +3682,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": false,
-        "date": "2024-09-21",
-        "like": 1935,
-        "sale": 742,
-        "gender": "여성",
+        "date": "2024-03-12",
+        "like": 1519,
+        "sale": 93,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3710,12 +3710,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": false,
-        "date": "2023-06-05",
-        "like": 1698,
-        "sale": 561,
-        "gender": "여성",
+        "date": "2023-05-10",
+        "like": 234,
+        "sale": 407,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3738,12 +3738,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": false,
-        "date": "2023-12-21",
-        "like": 602,
-        "sale": 108,
-        "gender": "여성",
+        "date": "2023-03-10",
+        "like": 1704,
+        "sale": 702,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3766,12 +3766,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": false,
-        "date": "2023-07-09",
-        "like": 572,
-        "sale": 873,
-        "gender": "여성",
+        "date": "2022-03-14",
+        "like": 206,
+        "sale": 642,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3794,12 +3794,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "아이보리",
         "acc": false,
-        "date": "2022-02-04",
-        "like": 182,
-        "sale": 602,
-        "gender": "여성",
+        "date": "2023-07-24",
+        "like": 773,
+        "sale": 343,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3822,12 +3822,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "그린",
         "acc": false,
-        "date": "2023-05-26",
-        "like": 1078,
-        "sale": 127,
-        "gender": "남성",
+        "date": "2024-04-21",
+        "like": 1624,
+        "sale": 105,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3850,12 +3850,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "그레이",
         "acc": false,
-        "date": "2022-04-09",
-        "like": 1555,
-        "sale": 587,
-        "gender": "남성",
+        "date": "2023-07-16",
+        "like": 1737,
+        "sale": 215,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3878,12 +3878,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "네이비",
         "acc": false,
-        "date": "2023-12-27",
-        "like": 860,
-        "sale": 257,
-        "gender": "남성",
+        "date": "2022-09-30",
+        "like": 188,
+        "sale": 892,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3906,12 +3906,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "네이비",
         "acc": false,
-        "date": "2024-02-09",
-        "like": 765,
-        "sale": 607,
-        "gender": "남성",
+        "date": "2022-05-20",
+        "like": 593,
+        "sale": 132,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3934,12 +3934,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": false,
-        "date": "2023-05-04",
-        "like": 198,
-        "sale": 661,
-        "gender": "여성",
+        "date": "2024-09-30",
+        "like": 1878,
+        "sale": 738,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3962,12 +3962,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2022-07-29",
-        "like": 493,
-        "sale": 512,
-        "gender": "여성",
+        "date": "2023-05-20",
+        "like": 1982,
+        "sale": 666,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -3990,12 +3990,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": false,
-        "date": "2024-10-09",
-        "like": 556,
-        "sale": 62,
-        "gender": "여성",
+        "date": "2024-12-30",
+        "like": 992,
+        "sale": 163,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4018,12 +4018,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": false,
-        "date": "2023-04-12",
-        "like": 785,
-        "sale": 208,
-        "gender": "여성",
+        "date": "2022-01-02",
+        "like": 963,
+        "sale": 489,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4046,12 +4046,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": false,
-        "date": "2023-05-13",
-        "like": 927,
-        "sale": 416,
-        "gender": "여성",
+        "date": "2023-09-14",
+        "like": 317,
+        "sale": 31,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4074,12 +4074,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": false,
-        "date": "2022-01-18",
-        "like": 438,
-        "sale": 432,
-        "gender": "여성",
+        "date": "2023-05-02",
+        "like": 633,
+        "sale": 141,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4102,12 +4102,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": false,
-        "date": "2023-06-04",
-        "like": 993,
-        "sale": 368,
-        "gender": "여성",
+        "date": "2022-03-31",
+        "like": 584,
+        "sale": 855,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4130,12 +4130,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "라이트베이지",
         "acc": false,
-        "date": "2023-07-10",
-        "like": 218,
-        "sale": 513,
-        "gender": "여성",
+        "date": "2023-06-22",
+        "like": 836,
+        "sale": 579,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4158,19 +4158,19 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": false,
-        "date": "2022-11-14",
-        "like": 1666,
-        "sale": 55,
-        "gender": "여성",
+        "date": "2022-10-12",
+        "like": 1821,
+        "sale": 279,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "스탠다드핏 용융사 팬츠 MDM2PT901 BLK",
-        "price": "396,000 ",
+        "price": "198,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000007870/image/main/1000007870_main_014.jpg",
         "labels": [
             [
@@ -4182,12 +4182,12 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": false,
-        "date": "2022-12-06",
-        "like": 67,
-        "sale": 127,
-        "gender": "남성",
+        "date": "2024-11-22",
+        "like": 550,
+        "sale": 541,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4210,12 +4210,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "라이트그레이",
         "acc": false,
-        "date": "2024-02-10",
-        "like": 1406,
-        "sale": 257,
-        "gender": "남성",
+        "date": "2024-02-02",
+        "like": 1327,
+        "sale": 85,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4238,12 +4238,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "카키",
         "acc": false,
-        "date": "2024-01-01",
-        "like": 548,
-        "sale": 486,
-        "gender": "남성",
+        "date": "2023-09-22",
+        "like": 895,
+        "sale": 419,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4266,12 +4266,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "다크그레이",
         "acc": false,
-        "date": "2024-06-02",
-        "like": 1551,
-        "sale": 202,
-        "gender": "남성",
+        "date": "2024-06-09",
+        "like": 167,
+        "sale": 189,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4294,12 +4294,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": false,
-        "date": "2022-02-05",
-        "like": 1870,
-        "sale": 325,
-        "gender": "남성",
+        "date": "2024-08-24",
+        "like": 697,
+        "sale": 901,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4322,12 +4322,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": false,
-        "date": "2022-09-26",
-        "like": 637,
-        "sale": 546,
-        "gender": "남성",
+        "date": "2022-09-24",
+        "like": 829,
+        "sale": 859,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4350,12 +4350,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "네이비",
         "acc": false,
-        "date": "2023-08-30",
-        "like": 1533,
-        "sale": 205,
-        "gender": "남성",
+        "date": "2023-07-11",
+        "like": 1715,
+        "sale": 173,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4378,12 +4378,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "베이지",
         "acc": false,
-        "date": "2022-06-16",
-        "like": 294,
-        "sale": 306,
-        "gender": "남성",
+        "date": "2024-05-20",
+        "like": 320,
+        "sale": 263,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4406,12 +4406,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": false,
-        "date": "2023-12-20",
-        "like": 225,
-        "sale": 968,
-        "gender": "남성",
+        "date": "2022-08-01",
+        "like": 1698,
+        "sale": 506,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4434,12 +4434,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": false,
-        "date": "2022-04-22",
-        "like": 523,
-        "sale": 898,
-        "gender": "남성",
+        "date": "2024-12-24",
+        "like": 1644,
+        "sale": 579,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4462,12 +4462,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "민트",
         "acc": false,
-        "date": "2022-12-23",
-        "like": 131,
-        "sale": 742,
-        "gender": "남성",
+        "date": "2022-01-14",
+        "like": 401,
+        "sale": 856,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4490,12 +4490,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "카키",
         "acc": false,
-        "date": "2022-01-13",
-        "like": 1467,
-        "sale": 512,
-        "gender": "남성",
+        "date": "2023-09-09",
+        "like": 115,
+        "sale": 30,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4518,12 +4518,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "차콜",
         "acc": false,
-        "date": "2022-06-02",
-        "like": 1495,
-        "sale": 187,
-        "gender": "남성",
+        "date": "2024-03-23",
+        "like": 704,
+        "sale": 352,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4546,12 +4546,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "그레이",
         "acc": false,
-        "date": "2022-06-01",
-        "like": 1491,
-        "sale": 964,
-        "gender": "남성",
+        "date": "2024-02-01",
+        "like": 431,
+        "sale": 532,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4574,12 +4574,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "네이비",
         "acc": false,
-        "date": "2022-11-15",
-        "like": 1931,
-        "sale": 417,
-        "gender": "남성",
+        "date": "2024-01-21",
+        "like": 978,
+        "sale": 274,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4602,12 +4602,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "네이비",
         "acc": false,
-        "date": "2024-12-07",
-        "like": 1935,
-        "sale": 822,
-        "gender": "남성",
+        "date": "2022-04-28",
+        "like": 1706,
+        "sale": 545,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4630,12 +4630,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
-        "date": "2024-04-13",
-        "like": 1234,
-        "sale": 284,
-        "gender": "여성",
+        "date": "2024-07-05",
+        "like": 846,
+        "sale": 698,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4658,12 +4658,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
-        "date": "2024-07-23",
-        "like": 1586,
-        "sale": 786,
-        "gender": "여성",
+        "date": "2023-06-28",
+        "like": 1106,
+        "sale": 1000,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4682,12 +4682,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": true,
-        "date": "2023-04-23",
-        "like": 1664,
-        "sale": 358,
-        "gender": "여성",
+        "date": "2024-09-04",
+        "like": 1657,
+        "sale": 234,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4710,12 +4710,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "오렌지",
         "acc": true,
-        "date": "2024-09-20",
-        "like": 930,
-        "sale": 187,
-        "gender": "여성",
+        "date": "2023-08-10",
+        "like": 1690,
+        "sale": 452,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4738,12 +4738,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "퍼플",
         "acc": true,
-        "date": "2023-09-06",
-        "like": 991,
-        "sale": 342,
-        "gender": "여성",
+        "date": "2023-07-29",
+        "like": 1253,
+        "sale": 42,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4766,12 +4766,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": true,
-        "date": "2022-10-30",
-        "like": 1042,
-        "sale": 71,
-        "gender": "여성",
+        "date": "2024-04-14",
+        "like": 1792,
+        "sale": 905,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4794,12 +4794,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": true,
-        "date": "2023-08-21",
-        "like": 232,
-        "sale": 642,
-        "gender": "여성",
+        "date": "2023-03-24",
+        "like": 759,
+        "sale": 536,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4822,12 +4822,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "아이보리",
         "acc": true,
-        "date": "2023-10-19",
-        "like": 773,
-        "sale": 790,
-        "gender": "여성",
+        "date": "2022-11-04",
+        "like": 1972,
+        "sale": 422,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4850,12 +4850,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "블루",
         "acc": true,
-        "date": "2022-01-25",
-        "like": 226,
-        "sale": 602,
-        "gender": "여성",
+        "date": "2024-03-27",
+        "like": 1799,
+        "sale": 821,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4874,12 +4874,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": true,
-        "date": "2022-02-06",
-        "like": 1733,
-        "sale": 292,
-        "gender": "여성",
+        "date": "2022-08-02",
+        "like": 373,
+        "sale": 628,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4898,12 +4898,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": true,
-        "date": "2024-09-05",
-        "like": 815,
-        "sale": 820,
-        "gender": "여성",
+        "date": "2022-03-19",
+        "like": 1932,
+        "sale": 975,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4926,12 +4926,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
-        "date": "2023-11-20",
-        "like": 1721,
-        "sale": 554,
-        "gender": "남성",
+        "date": "2023-05-18",
+        "like": 263,
+        "sale": 70,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4954,12 +4954,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
-        "date": "2023-10-01",
-        "like": 1038,
-        "sale": 742,
-        "gender": "여성",
+        "date": "2023-07-20",
+        "like": 151,
+        "sale": 764,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -4982,12 +4982,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
-        "date": "2022-04-03",
-        "like": 638,
-        "sale": 822,
-        "gender": "여성",
+        "date": "2024-08-26",
+        "like": 1193,
+        "sale": 189,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5010,12 +5010,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "아이보리",
         "acc": true,
-        "date": "2023-01-30",
-        "like": 1235,
-        "sale": 973,
-        "gender": "여성",
+        "date": "2024-10-10",
+        "like": 1159,
+        "sale": 981,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5038,12 +5038,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": true,
-        "date": "2022-11-09",
-        "like": 719,
-        "sale": 513,
-        "gender": "여성",
+        "date": "2023-03-14",
+        "like": 491,
+        "sale": 901,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5066,12 +5066,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
-        "date": "2023-09-13",
-        "like": 1258,
-        "sale": 734,
-        "gender": "남성",
+        "date": "2023-08-11",
+        "like": 1251,
+        "sale": 786,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5094,12 +5094,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": true,
-        "date": "2023-12-30",
-        "like": 567,
-        "sale": 493,
-        "gender": "여성",
+        "date": "2022-04-25",
+        "like": 572,
+        "sale": 875,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5122,12 +5122,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "라임",
         "acc": true,
-        "date": "2023-11-24",
-        "like": 1944,
-        "sale": 615,
-        "gender": "여성",
+        "date": "2023-12-10",
+        "like": 583,
+        "sale": 751,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5150,12 +5150,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": true,
-        "date": "2023-09-28",
-        "like": 1452,
-        "sale": 270,
-        "gender": "여성",
+        "date": "2022-07-06",
+        "like": 501,
+        "sale": 105,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5178,12 +5178,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
-        "date": "2024-07-26",
-        "like": 1324,
-        "sale": 431,
-        "gender": "여성",
+        "date": "2024-02-04",
+        "like": 993,
+        "sale": 204,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5206,12 +5206,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
-        "date": "2024-07-26",
-        "like": 190,
-        "sale": 869,
-        "gender": "남성",
+        "date": "2023-06-06",
+        "like": 827,
+        "sale": 530,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5234,12 +5234,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "브라운",
         "acc": true,
-        "date": "2024-11-16",
-        "like": 233,
-        "sale": 577,
-        "gender": "남성",
+        "date": "2024-03-30",
+        "like": 866,
+        "sale": 78,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5262,12 +5262,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "라임",
         "acc": true,
-        "date": "2023-10-30",
-        "like": 369,
-        "sale": 223,
-        "gender": "여성",
+        "date": "2023-11-02",
+        "like": 1576,
+        "sale": 58,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5290,12 +5290,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": true,
-        "date": "2022-09-11",
-        "like": 1301,
-        "sale": 162,
-        "gender": "여성",
+        "date": "2022-09-18",
+        "like": 1779,
+        "sale": 75,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5318,12 +5318,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "블루",
         "acc": true,
-        "date": "2022-01-08",
-        "like": 1131,
-        "sale": 605,
-        "gender": "여성",
+        "date": "2024-08-17",
+        "like": 680,
+        "sale": 87,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5346,12 +5346,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "레드",
         "acc": true,
-        "date": "2024-07-13",
-        "like": 339,
-        "sale": 448,
-        "gender": "여성",
+        "date": "2023-08-15",
+        "like": 266,
+        "sale": 731,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5374,12 +5374,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
-        "date": "2023-10-17",
-        "like": 1072,
-        "sale": 224,
-        "gender": "여성",
+        "date": "2022-03-24",
+        "like": 864,
+        "sale": 482,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5402,12 +5402,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
-        "date": "2023-12-31",
-        "like": 910,
-        "sale": 163,
-        "gender": "여성",
+        "date": "2022-01-14",
+        "like": 1458,
+        "sale": 289,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5430,12 +5430,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "네이비",
         "acc": true,
-        "date": "2023-01-06",
-        "like": 1803,
-        "sale": 715,
-        "gender": "남성",
+        "date": "2023-07-04",
+        "like": 470,
+        "sale": 146,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5458,12 +5458,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": true,
-        "date": "2024-12-30",
-        "like": 1412,
-        "sale": 795,
-        "gender": "여성",
+        "date": "2022-02-03",
+        "like": 485,
+        "sale": 535,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5486,12 +5486,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "퍼플",
         "acc": true,
-        "date": "2024-05-09",
-        "like": 1015,
-        "sale": 894,
-        "gender": "여성",
+        "date": "2024-09-09",
+        "like": 784,
+        "sale": 703,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5514,12 +5514,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
-        "date": "2024-04-06",
-        "like": 1520,
-        "sale": 889,
-        "gender": "여성",
+        "date": "2023-01-12",
+        "like": 329,
+        "sale": 229,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5542,12 +5542,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": true,
-        "date": "2023-06-19",
-        "like": 1956,
-        "sale": 827,
-        "gender": "여성",
+        "date": "2024-08-01",
+        "like": 1670,
+        "sale": 151,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5570,12 +5570,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "오렌지",
         "acc": true,
-        "date": "2023-04-06",
-        "like": 764,
-        "sale": 703,
-        "gender": "여성",
+        "date": "2024-10-10",
+        "like": 1098,
+        "sale": 119,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5598,12 +5598,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "블루",
         "acc": true,
-        "date": "2022-12-21",
-        "like": 1579,
-        "sale": 192,
-        "gender": "여성",
+        "date": "2024-11-28",
+        "like": 1737,
+        "sale": 349,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5626,12 +5626,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": true,
-        "date": "2023-12-09",
-        "like": 1188,
-        "sale": 262,
-        "gender": "남성",
+        "date": "2022-08-16",
+        "like": 1001,
+        "sale": 656,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5654,12 +5654,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "베이지",
         "acc": true,
-        "date": "2023-04-07",
-        "like": 115,
-        "sale": 603,
-        "gender": "남성",
+        "date": "2023-05-23",
+        "like": 1031,
+        "sale": 337,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5682,12 +5682,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": true,
-        "date": "2022-04-10",
-        "like": 1100,
-        "sale": 945,
-        "gender": "여성",
+        "date": "2022-07-12",
+        "like": 1553,
+        "sale": 311,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5710,12 +5710,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
-        "date": "2023-08-07",
-        "like": 1700,
-        "sale": 427,
-        "gender": "여성",
+        "date": "2023-07-07",
+        "like": 970,
+        "sale": 481,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5738,12 +5738,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블루",
         "acc": true,
-        "date": "2022-09-07",
-        "like": 1478,
-        "sale": 934,
-        "gender": "남성",
+        "date": "2024-08-21",
+        "like": 557,
+        "sale": 90,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5766,12 +5766,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "그린",
         "acc": true,
-        "date": "2022-05-18",
-        "like": 1895,
-        "sale": 411,
-        "gender": "남성",
+        "date": "2022-08-06",
+        "like": 148,
+        "sale": 555,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5794,12 +5794,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": true,
-        "date": "2022-04-04",
-        "like": 1171,
-        "sale": 463,
-        "gender": "남성",
+        "date": "2023-03-14",
+        "like": 857,
+        "sale": 908,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5822,12 +5822,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "네이비",
         "acc": true,
-        "date": "2023-03-21",
-        "like": 1583,
-        "sale": 321,
-        "gender": "남성",
+        "date": "2023-02-09",
+        "like": 1126,
+        "sale": 491,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5850,12 +5850,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "아이보리",
         "acc": true,
-        "date": "2024-12-16",
-        "like": 1013,
-        "sale": 315,
-        "gender": "여성",
+        "date": "2022-04-30",
+        "like": 1824,
+        "sale": 469,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5878,12 +5878,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "블루",
         "acc": true,
-        "date": "2022-01-01",
-        "like": 1317,
-        "sale": 798,
-        "gender": "여성",
+        "date": "2022-04-19",
+        "like": 51,
+        "sale": 680,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5906,12 +5906,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "퍼플",
         "acc": true,
-        "date": "2022-12-12",
-        "like": 443,
-        "sale": 550,
-        "gender": "여성",
+        "date": "2023-02-11",
+        "like": 520,
+        "sale": 304,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5934,12 +5934,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
-        "date": "2022-11-18",
-        "like": 133,
-        "sale": 581,
-        "gender": "여성",
+        "date": "2023-09-21",
+        "like": 1413,
+        "sale": 577,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5962,12 +5962,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": true,
-        "date": "2022-09-06",
-        "like": 453,
-        "sale": 989,
-        "gender": "여성",
+        "date": "2023-12-21",
+        "like": 166,
+        "sale": 125,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -5990,12 +5990,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
-        "date": "2024-01-04",
-        "like": 223,
-        "sale": 244,
-        "gender": "여성",
+        "date": "2024-04-29",
+        "like": 656,
+        "sale": 308,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6018,12 +6018,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "라이트블루",
         "acc": true,
-        "date": "2022-03-06",
-        "like": 366,
-        "sale": 295,
-        "gender": "여성",
+        "date": "2022-03-07",
+        "like": 604,
+        "sale": 438,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6046,12 +6046,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": true,
-        "date": "2023-05-20",
-        "like": 752,
-        "sale": 235,
-        "gender": "여성",
+        "date": "2023-11-15",
+        "like": 912,
+        "sale": 44,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6074,12 +6074,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
-        "date": "2022-06-28",
-        "like": 1162,
-        "sale": 534,
-        "gender": "남성",
+        "date": "2023-06-20",
+        "like": 1769,
+        "sale": 500,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6102,12 +6102,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "그레이",
         "acc": true,
-        "date": "2024-11-17",
-        "like": 1323,
-        "sale": 42,
-        "gender": "남성",
+        "date": "2023-03-27",
+        "like": 1377,
+        "sale": 206,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6126,12 +6126,12 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "베이지",
         "acc": true,
-        "date": "2023-01-29",
-        "like": 1864,
-        "sale": 266,
-        "gender": "남성",
+        "date": "2024-08-28",
+        "like": 1561,
+        "sale": 461,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6154,12 +6154,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": true,
-        "date": "2022-06-25",
-        "like": 869,
-        "sale": 740,
-        "gender": "여성",
+        "date": "2022-09-10",
+        "like": 1480,
+        "sale": 612,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6182,12 +6182,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
-        "date": "2023-04-02",
-        "like": 1699,
-        "sale": 774,
-        "gender": "여성",
+        "date": "2023-01-07",
+        "like": 342,
+        "sale": 742,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6210,12 +6210,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
-        "date": "2022-03-31",
-        "like": 256,
-        "sale": 63,
-        "gender": "남성",
+        "date": "2024-10-17",
+        "like": 592,
+        "sale": 982,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6238,12 +6238,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": true,
-        "date": "2022-12-11",
-        "like": 141,
-        "sale": 506,
-        "gender": "남성",
+        "date": "2022-07-06",
+        "like": 472,
+        "sale": 274,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6266,12 +6266,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
-        "date": "2023-01-23",
-        "like": 1823,
-        "sale": 316,
-        "gender": "남성",
+        "date": "2024-10-11",
+        "like": 1735,
+        "sale": 371,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6294,12 +6294,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": true,
-        "date": "2024-06-07",
-        "like": 844,
-        "sale": 204,
-        "gender": "남성",
+        "date": "2022-06-23",
+        "like": 1711,
+        "sale": 331,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6322,12 +6322,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "네이비",
         "acc": true,
-        "date": "2023-11-30",
-        "like": 1706,
-        "sale": 157,
-        "gender": "남성",
+        "date": "2024-02-03",
+        "like": 341,
+        "sale": 358,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6350,12 +6350,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
-        "date": "2023-03-29",
-        "like": 318,
-        "sale": 821,
-        "gender": "남성",
+        "date": "2022-02-24",
+        "like": 1733,
+        "sale": 414,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6378,12 +6378,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": true,
-        "date": "2023-10-08",
-        "like": 418,
-        "sale": 973,
-        "gender": "남성",
+        "date": "2022-09-02",
+        "like": 177,
+        "sale": 121,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6406,12 +6406,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
-        "date": "2022-02-09",
-        "like": 983,
-        "sale": 759,
-        "gender": "여성",
+        "date": "2024-11-24",
+        "like": 642,
+        "sale": 772,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6434,12 +6434,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
-        "date": "2023-02-20",
-        "like": 245,
-        "sale": 89,
-        "gender": "여성",
+        "date": "2022-09-04",
+        "like": 1897,
+        "sale": 20,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6462,12 +6462,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": true,
-        "date": "2023-02-08",
-        "like": 1959,
-        "sale": 297,
-        "gender": "여성",
+        "date": "2023-03-16",
+        "like": 1727,
+        "sale": 664,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6490,12 +6490,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": true,
-        "date": "2022-08-18",
-        "like": 653,
-        "sale": 107,
-        "gender": "여성",
+        "date": "2023-03-31",
+        "like": 1696,
+        "sale": 662,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6518,12 +6518,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
-        "date": "2023-11-01",
-        "like": 251,
-        "sale": 468,
-        "gender": "여성",
+        "date": "2024-07-22",
+        "like": 1812,
+        "sale": 182,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6546,12 +6546,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "아이보리",
         "acc": true,
-        "date": "2023-01-27",
-        "like": 766,
-        "sale": 767,
-        "gender": "여성",
+        "date": "2022-05-03",
+        "like": 1883,
+        "sale": 753,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6574,12 +6574,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
-        "date": "2022-03-03",
-        "like": 98,
-        "sale": 612,
-        "gender": "여성",
+        "date": "2023-09-10",
+        "like": 1300,
+        "sale": 592,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6602,12 +6602,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": true,
-        "date": "2022-07-02",
-        "like": 601,
-        "sale": 988,
-        "gender": "여성",
+        "date": "2023-01-12",
+        "like": 290,
+        "sale": 388,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6630,12 +6630,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "퍼플",
         "acc": true,
-        "date": "2022-12-08",
-        "like": 1513,
-        "sale": 286,
-        "gender": "여성",
+        "date": "2023-08-31",
+        "like": 665,
+        "sale": 213,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6658,12 +6658,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": true,
-        "date": "2023-03-01",
-        "like": 784,
-        "sale": 24,
-        "gender": "여성",
+        "date": "2024-02-27",
+        "like": 411,
+        "sale": 865,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6686,12 +6686,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "퍼플",
         "acc": true,
-        "date": "2022-11-07",
-        "like": 1092,
-        "sale": 598,
-        "gender": "여성",
+        "date": "2024-06-30",
+        "like": 350,
+        "sale": 733,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6714,12 +6714,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": true,
-        "date": "2023-05-06",
-        "like": 455,
-        "sale": 941,
-        "gender": "여성",
+        "date": "2023-11-24",
+        "like": 1610,
+        "sale": 695,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6742,12 +6742,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "퍼플",
         "acc": true,
-        "date": "2022-08-27",
-        "like": 1577,
-        "sale": 954,
-        "gender": "여성",
+        "date": "2023-10-17",
+        "like": 1427,
+        "sale": 973,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6770,12 +6770,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
-        "date": "2023-02-19",
-        "like": 1778,
-        "sale": 499,
-        "gender": "여성",
+        "date": "2022-05-11",
+        "like": 1512,
+        "sale": 880,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6798,12 +6798,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
-        "date": "2022-07-02",
-        "like": 614,
-        "sale": 71,
-        "gender": "여성",
+        "date": "2024-10-20",
+        "like": 806,
+        "sale": 112,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6826,12 +6826,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": true,
-        "date": "2022-10-06",
-        "like": 1317,
-        "sale": 706,
-        "gender": "여성",
+        "date": "2024-11-01",
+        "like": 633,
+        "sale": 58,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6854,12 +6854,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": true,
-        "date": "2023-09-21",
-        "like": 320,
-        "sale": 613,
-        "gender": "여성",
+        "date": "2022-05-31",
+        "like": 1959,
+        "sale": 750,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6882,12 +6882,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "퍼플",
         "acc": true,
-        "date": "2022-09-05",
-        "like": 635,
-        "sale": 897,
-        "gender": "여성",
+        "date": "2024-01-18",
+        "like": 468,
+        "sale": 736,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6910,12 +6910,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
-        "date": "2023-08-21",
-        "like": 1833,
-        "sale": 515,
-        "gender": "남성",
+        "date": "2024-04-10",
+        "like": 712,
+        "sale": 819,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6938,12 +6938,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": true,
-        "date": "2024-05-24",
-        "like": 1068,
-        "sale": 722,
-        "gender": "남성",
+        "date": "2024-12-09",
+        "like": 153,
+        "sale": 160,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6966,12 +6966,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "그레이",
         "acc": true,
-        "date": "2023-03-27",
-        "like": 345,
-        "sale": 826,
-        "gender": "남성",
+        "date": "2024-08-03",
+        "like": 1549,
+        "sale": 903,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -6994,12 +6994,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "베이지",
         "acc": true,
-        "date": "2024-02-15",
-        "like": 970,
-        "sale": 170,
-        "gender": "남성",
+        "date": "2024-01-02",
+        "like": 831,
+        "sale": 380,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -7022,12 +7022,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "네이비",
         "acc": true,
-        "date": "2024-04-05",
-        "like": 510,
-        "sale": 283,
-        "gender": "남성",
+        "date": "2023-07-16",
+        "like": 1370,
+        "sale": 630,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -7050,12 +7050,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": true,
-        "date": "2023-07-29",
-        "like": 1904,
-        "sale": 341,
-        "gender": "남성",
+        "date": "2024-03-05",
+        "like": 1014,
+        "sale": 404,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -7078,12 +7078,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
-        "date": "2023-01-19",
-        "like": 1686,
-        "sale": 701,
-        "gender": "남성",
+        "date": "2023-03-12",
+        "like": 1085,
+        "sale": 447,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -7106,12 +7106,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "그레이",
         "acc": true,
-        "date": "2022-08-30",
-        "like": 1075,
-        "sale": 299,
-        "gender": "남성",
+        "date": "2023-06-14",
+        "like": 265,
+        "sale": 816,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -7134,12 +7134,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "퍼플",
         "acc": true,
-        "date": "2023-05-01",
-        "like": 806,
-        "sale": 990,
-        "gender": "여성",
+        "date": "2023-06-19",
+        "like": 1292,
+        "sale": 63,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -7162,12 +7162,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "라이트그레이",
         "acc": true,
-        "date": "2024-04-04",
-        "like": 1452,
-        "sale": 523,
-        "gender": "여성",
+        "date": "2022-05-05",
+        "like": 1884,
+        "sale": 448,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -7190,12 +7190,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": true,
-        "date": "2023-12-22",
-        "like": 980,
-        "sale": 914,
-        "gender": "여성",
+        "date": "2022-04-28",
+        "like": 1199,
+        "sale": 590,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -7218,12 +7218,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
-        "date": "2024-11-27",
-        "like": 1721,
-        "sale": 274,
-        "gender": "여성",
+        "date": "2023-01-21",
+        "like": 125,
+        "sale": 391,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -7246,12 +7246,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": true,
-        "date": "2022-12-15",
-        "like": 651,
-        "sale": 418,
-        "gender": "남성",
+        "date": "2023-07-18",
+        "like": 1283,
+        "sale": 545,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -7274,12 +7274,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": true,
-        "date": "2023-04-02",
-        "like": 1737,
-        "sale": 692,
-        "gender": "남성",
+        "date": "2022-08-09",
+        "like": 678,
+        "sale": 184,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -7302,19 +7302,19 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
-        "date": "2024-06-10",
-        "like": 1842,
-        "sale": 208,
-        "gender": "여성",
+        "date": "2024-12-17",
+        "like": 413,
+        "sale": 600,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "[온라인전용상품] 여성 원포인트 카라 티셔츠 MDW2TS402 NVY",
-        "price": "250,000 ",
+        "price": "125,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006139/image/main/1000006139_main_018.jpg",
         "labels": [
             [
@@ -7330,19 +7330,19 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": false,
-        "date": "2023-09-27",
-        "like": 1921,
-        "sale": 355,
-        "gender": "여성",
+        "date": "2022-11-28",
+        "like": 249,
+        "sale": 308,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "[온라인전용상품] 여성 원포인트 카라 티셔츠 MDW2TS402 PNK",
-        "price": "250,000 ",
+        "price": "125,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006138/image/main/1000006138_main_020.jpg",
         "labels": [
             [
@@ -7358,19 +7358,19 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "핑크",
         "acc": false,
-        "date": "2024-10-19",
-        "like": 590,
-        "sale": 1000,
-        "gender": "여성",
+        "date": "2024-11-19",
+        "like": 93,
+        "sale": 394,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "[온라인전용상품] 여성 원포인트 카라 티셔츠 MDW2TS402 WHI",
-        "price": "250,000 ",
+        "price": "125,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006137/image/main/1000006137_main_09.jpg",
         "labels": [
             [
@@ -7386,19 +7386,19 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2022-07-14",
-        "like": 1447,
-        "sale": 974,
-        "gender": "여성",
+        "date": "2022-06-21",
+        "like": 1470,
+        "sale": 514,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "[온라인전용상품] 여성 레귤러핏 라운드 티셔츠 MDW2TS401 LAV",
-        "price": "190,000 ",
+        "price": "95,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006130/image/main/1000006130_main_086.jpg",
         "labels": [
             [
@@ -7414,19 +7414,19 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "퍼플",
         "acc": false,
-        "date": "2024-02-15",
-        "like": 360,
-        "sale": 225,
-        "gender": "여성",
+        "date": "2022-10-16",
+        "like": 1491,
+        "sale": 594,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "[온라인전용상품] 여성 레귤러핏 라운드 티셔츠 MDW2TS401 WHI",
-        "price": "190,000 ",
+        "price": "95,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006129/image/main/1000006129_main_055.jpg",
         "labels": [
             [
@@ -7442,12 +7442,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2022-01-21",
-        "like": 1063,
-        "sale": 179,
-        "gender": "여성",
+        "date": "2024-08-30",
+        "like": 1030,
+        "sale": 573,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -7466,12 +7466,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "핑크",
         "acc": false,
-        "date": "2024-07-29",
-        "like": 1346,
-        "sale": 709,
-        "gender": "여성",
+        "date": "2023-10-31",
+        "like": 579,
+        "sale": 480,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -7490,19 +7490,19 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2023-09-04",
-        "like": 1300,
-        "sale": 936,
-        "gender": "여성",
+        "date": "2024-03-12",
+        "like": 181,
+        "sale": 524,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "[온라인전용상품] 남성 원포인트 카라 티셔츠 MDM2TS402 NVY",
-        "price": "250,000 ",
+        "price": "125,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006141/image/main/1000006141_main_056.jpg",
         "labels": [
             [
@@ -7518,19 +7518,19 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "네이비",
         "acc": false,
-        "date": "2023-08-06",
-        "like": 769,
-        "sale": 689,
-        "gender": "남성",
+        "date": "2022-02-26",
+        "like": 975,
+        "sale": 250,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "[온라인전용상품] 남성 원포인트 카라 티셔츠 MDM2TS402 WHI",
-        "price": "250,000 ",
+        "price": "125,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006140/image/main/1000006140_main_032.jpg",
         "labels": [
             [
@@ -7546,19 +7546,19 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": false,
-        "date": "2024-01-17",
-        "like": 1094,
-        "sale": 193,
-        "gender": "남성",
+        "date": "2022-03-08",
+        "like": 780,
+        "sale": 337,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "[온라인전용상품] 남성 원포인트 라운드 티셔츠 MDM2TS401 BLK",
-        "price": "190,000 ",
+        "price": "95,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006133/image/main/1000006133_main_091.jpg",
         "labels": [
             [
@@ -7574,19 +7574,19 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": false,
-        "date": "2022-08-19",
-        "like": 1079,
-        "sale": 625,
-        "gender": "남성",
+        "date": "2023-12-13",
+        "like": 1660,
+        "sale": 869,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "[온라인전용상품] 남성 원포인트 라운드 티셔츠 MDM2TS401 MGR 라이트그레이",
-        "price": "190,000 ",
+        "price": "95,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006132/image/main/1000006132_main_070.jpg",
         "labels": [
             [
@@ -7602,19 +7602,19 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "라이트그레이",
         "acc": false,
-        "date": "2022-09-26",
-        "like": 64,
-        "sale": 693,
-        "gender": "남성",
+        "date": "2024-02-19",
+        "like": 1066,
+        "sale": 673,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "[온라인전용상품] 남성 원포인트 라운드 티셔츠 MDM2TS401 WHI",
-        "price": "190,000 ",
+        "price": "95,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006131/image/main/1000006131_main_0100.jpg",
         "labels": [
             [
@@ -7630,19 +7630,19 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": false,
-        "date": "2022-07-05",
-        "like": 704,
-        "sale": 979,
-        "gender": "남성",
+        "date": "2024-03-11",
+        "like": 1464,
+        "sale": 595,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "씨슬 패턴 라운드 맨투맨 MDW1TL607 PNK",
-        "price": "330,000 ",
+        "price": "198,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000007802/image/main/1000007802_main_096.jpg",
         "labels": [
             [
@@ -7654,12 +7654,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "핑크",
         "acc": false,
-        "date": "2022-11-28",
-        "like": 1160,
-        "sale": 50,
-        "gender": "여성",
+        "date": "2023-12-30",
+        "like": 654,
+        "sale": 725,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -7678,12 +7678,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2023-06-30",
-        "like": 810,
-        "sale": 886,
-        "gender": "여성",
+        "date": "2022-10-16",
+        "like": 473,
+        "sale": 365,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -7702,19 +7702,19 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": false,
-        "date": "2023-05-15",
-        "like": 912,
-        "sale": 363,
-        "gender": "여성",
+        "date": "2022-01-05",
+        "like": 805,
+        "sale": 880,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "메탈리 씨슬 라운드 스웨터 화이트 MDW1SR605 WHI",
-        "price": "530,000 ",
+        "price": "318,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005996/image/main/1000005996_main_07.jpg",
         "labels": [
             [
@@ -7726,19 +7726,19 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2022-05-27",
-        "like": 779,
-        "sale": 181,
-        "gender": "여성",
+        "date": "2022-08-22",
+        "like": 1573,
+        "sale": 671,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "메탈리 씨슬 스웨터 풀오픈 네이비 MDM1SZ602 NVY",
-        "price": "570,000 ",
+        "price": "342,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006083/image/main/1000006083_main_09.jpg",
         "labels": [
             [
@@ -7750,19 +7750,19 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "네이비",
         "acc": false,
-        "date": "2024-07-07",
-        "like": 1867,
-        "sale": 206,
-        "gender": "남성",
+        "date": "2022-06-06",
+        "like": 1239,
+        "sale": 287,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "메탈리 씨슬 스웨터 풀오픈 화이트 MDM1SZ602 WHI",
-        "price": "570,000 ",
+        "price": "342,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000006082/image/main/1000006082_main_088.jpg",
         "labels": [
             [
@@ -7774,19 +7774,19 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": false,
-        "date": "2022-03-08",
-        "like": 1742,
-        "sale": 106,
-        "gender": "남성",
+        "date": "2022-09-01",
+        "like": 544,
+        "sale": 248,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "메탈리 씨슬 라운드 스웨터 네이비 MDW1SR605 NVY",
-        "price": "530,000 ",
+        "price": "318,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005995/image/main/1000005995_main_032.jpg",
         "labels": [
             [
@@ -7798,12 +7798,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": false,
-        "date": "2023-12-20",
-        "like": 349,
-        "sale": 588,
-        "gender": "여성",
+        "date": "2023-11-10",
+        "like": 1882,
+        "sale": 633,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -7822,19 +7822,19 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": false,
-        "date": "2024-11-23",
-        "like": 1564,
-        "sale": 400,
-        "gender": "남성",
+        "date": "2022-11-11",
+        "like": 238,
+        "sale": 422,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "트레이닝 자켓 그린 MDM1TZ661 GRN",
-        "price": "430,000 ",
+        "price": "258,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005916/register_main_090.jpg",
         "labels": [
             [
@@ -7846,19 +7846,19 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "그린",
         "acc": false,
-        "date": "2023-01-24",
-        "like": 1064,
-        "sale": 832,
-        "gender": "남성",
+        "date": "2022-05-22",
+        "like": 1694,
+        "sale": 564,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "트레이닝 자켓 라이트그레이 MDM1TZ661 LGY",
-        "price": "430,000 ",
+        "price": "258,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005917/register_main_035.jpg",
         "labels": [
             [
@@ -7870,12 +7870,12 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "라이트그레이",
         "acc": false,
-        "date": "2024-10-03",
-        "like": 1326,
-        "sale": 317,
-        "gender": "남성",
+        "date": "2023-03-20",
+        "like": 1726,
+        "sale": 349,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -7894,19 +7894,19 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "라이트베이지",
         "acc": false,
-        "date": "2023-03-27",
-        "like": 201,
-        "sale": 699,
-        "gender": "남성",
+        "date": "2022-06-03",
+        "like": 315,
+        "sale": 515,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "씨슬 블루종 자켓 네이비 MDM1JP601 NVY",
-        "price": "670,000 ",
+        "price": "402,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005905/register_main_021.jpg",
         "labels": [
             [
@@ -7918,19 +7918,19 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "블루",
         "acc": false,
-        "date": "2024-12-19",
-        "like": 1013,
-        "sale": 725,
-        "gender": "남성",
+        "date": "2022-03-27",
+        "like": 908,
+        "sale": 810,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "씨슬 블루종 자켓 베이지 MDM1JP601 SBE",
-        "price": "670,000 ",
+        "price": "402,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005906/image/main/1000005906_main_017.jpg",
         "labels": [
             [
@@ -7942,12 +7942,12 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "블루",
         "acc": false,
-        "date": "2024-09-03",
-        "like": 1041,
-        "sale": 437,
-        "gender": "남성",
+        "date": "2022-06-21",
+        "like": 974,
+        "sale": 90,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -7966,12 +7966,12 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "핑크",
         "acc": false,
-        "date": "2023-02-26",
-        "like": 259,
-        "sale": 366,
-        "gender": "남성",
+        "date": "2024-01-29",
+        "like": 257,
+        "sale": 364,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -7990,12 +7990,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2022-01-29",
-        "like": 1166,
-        "sale": 632,
-        "gender": "여성",
+        "date": "2023-02-10",
+        "like": 769,
+        "sale": 530,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -8014,19 +8014,19 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": false,
-        "date": "2023-05-07",
-        "like": 282,
-        "sale": 768,
-        "gender": "여성",
+        "date": "2022-10-14",
+        "like": 1830,
+        "sale": 247,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "씨슬 자수 포인트 맨투맨 그레이 MDM1TL610 MGR",
-        "price": "330,000 ",
+        "price": "198,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005904/register_main_049.jpg",
         "labels": [
             [
@@ -8038,19 +8038,19 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "그레이",
         "acc": false,
-        "date": "2022-11-08",
-        "like": 260,
-        "sale": 658,
-        "gender": "남성",
+        "date": "2022-06-11",
+        "like": 1970,
+        "sale": 331,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "씨슬 자수 포인트 맨투맨 다크그린 MDM1TL610 DGN",
-        "price": "330,000 ",
+        "price": "198,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005903/register_main_050.jpg",
         "labels": [
             [
@@ -8062,19 +8062,19 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "다크그린",
         "acc": false,
-        "date": "2023-06-24",
-        "like": 1134,
-        "sale": 268,
-        "gender": "남성",
+        "date": "2023-02-17",
+        "like": 1050,
+        "sale": 861,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "세미오버 스웨터 베스트 블루 MDM1SV601 LBL",
-        "price": "450,000 ",
+        "price": "270,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005902/image/main/1000005902_main_065.jpg",
         "labels": [
             [
@@ -8086,19 +8086,19 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "라이트블루",
         "acc": false,
-        "date": "2023-07-12",
-        "like": 256,
-        "sale": 674,
-        "gender": "남성",
+        "date": "2023-08-27",
+        "like": 257,
+        "sale": 44,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "세미오버 스웨터 베스트 베이지 MDM1SV601 LBE",
-        "price": "450,000 ",
+        "price": "270,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005901/register_main_072.jpg",
         "labels": [
             [
@@ -8110,12 +8110,12 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "라이트베이지",
         "acc": false,
-        "date": "2024-07-20",
-        "like": 1270,
-        "sale": 193,
-        "gender": "남성",
+        "date": "2023-01-18",
+        "like": 1431,
+        "sale": 180,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -8134,12 +8134,12 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "라이트베이지",
         "acc": false,
-        "date": "2023-01-19",
-        "like": 1827,
-        "sale": 481,
-        "gender": "남성",
+        "date": "2022-11-05",
+        "like": 1298,
+        "sale": 611,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -8158,12 +8158,12 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "카키",
         "acc": false,
-        "date": "2022-01-01",
-        "like": 1994,
-        "sale": 822,
-        "gender": "남성",
+        "date": "2023-10-02",
+        "like": 778,
+        "sale": 97,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -8182,12 +8182,12 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "라이트블루",
         "acc": false,
-        "date": "2023-03-05",
-        "like": 118,
-        "sale": 390,
-        "gender": "남성",
+        "date": "2023-07-17",
+        "like": 1412,
+        "sale": 857,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -8206,12 +8206,12 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "핑크",
         "acc": false,
-        "date": "2023-02-05",
-        "like": 698,
-        "sale": 410,
-        "gender": "남성",
+        "date": "2024-12-20",
+        "like": 1846,
+        "sale": 64,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -8230,12 +8230,12 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": false,
-        "date": "2024-07-04",
-        "like": 1047,
-        "sale": 491,
-        "gender": "남성",
+        "date": "2023-11-12",
+        "like": 293,
+        "sale": 109,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -8254,12 +8254,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "라이트베이지",
         "acc": false,
-        "date": "2022-08-01",
-        "like": 638,
-        "sale": 201,
-        "gender": "여성",
+        "date": "2024-10-01",
+        "like": 815,
+        "sale": 220,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -8278,19 +8278,19 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": false,
-        "date": "2023-11-04",
-        "like": 349,
-        "sale": 65,
-        "gender": "여성",
+        "date": "2023-06-30",
+        "like": 588,
+        "sale": 262,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "후디 자켓 베이지 MDW1JP603 BEG",
-        "price": "590,000 ",
+        "price": "354,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005883/register_main_021.jpg",
         "labels": [
             [
@@ -8302,19 +8302,19 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": false,
-        "date": "2022-09-25",
-        "like": 569,
-        "sale": 308,
-        "gender": "여성",
+        "date": "2024-11-07",
+        "like": 1810,
+        "sale": 540,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "후디 자켓 네이비 MDW1JP603 NVY",
-        "price": "590,000 ",
+        "price": "354,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005882/register_main_080.jpg",
         "labels": [
             [
@@ -8326,12 +8326,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": false,
-        "date": "2024-04-02",
-        "like": 307,
-        "sale": 73,
-        "gender": "여성",
+        "date": "2023-12-22",
+        "like": 816,
+        "sale": 86,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -8350,12 +8350,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": false,
-        "date": "2022-02-15",
-        "like": 861,
-        "sale": 108,
-        "gender": "여성",
+        "date": "2024-08-07",
+        "like": 394,
+        "sale": 646,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -8374,19 +8374,19 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "핑크",
         "acc": false,
-        "date": "2023-08-13",
-        "like": 691,
-        "sale": 216,
-        "gender": "여성",
+        "date": "2022-03-11",
+        "like": 1336,
+        "sale": 327,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "솔리드 카라 티셔츠 블루 MDW1TL603 LBL",
-        "price": "290,000 ",
+        "price": "174,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005847/image/main/register_main_099.jpg",
         "labels": [
             [
@@ -8398,19 +8398,19 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "라이트블루",
         "acc": false,
-        "date": "2022-02-08",
-        "like": 1203,
-        "sale": 260,
-        "gender": "여성",
+        "date": "2022-08-19",
+        "like": 775,
+        "sale": 833,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "블록 컬러 포인트 홀가먼트 스웨터 베이지 MDW1SL601 LBE",
-        "price": "430,000 ",
+        "price": "258,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005879/register_main_036.jpg",
         "labels": [
             [
@@ -8422,19 +8422,19 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "라이트베이지",
         "acc": false,
-        "date": "2023-04-06",
-        "like": 586,
-        "sale": 50,
-        "gender": "여성",
+        "date": "2024-12-29",
+        "like": 1507,
+        "sale": 806,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "블록 컬러 포인트 홀가먼트 스웨터 화이트 MDW1SL601 WHI",
-        "price": "430,000 ",
+        "price": "258,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005878/register_main_012.jpg",
         "labels": [
             [
@@ -8446,12 +8446,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2023-06-10",
-        "like": 1546,
-        "sale": 655,
-        "gender": "여성",
+        "date": "2024-06-15",
+        "like": 1760,
+        "sale": 111,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -8470,12 +8470,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "그레이",
         "acc": false,
-        "date": "2023-08-29",
-        "like": 1016,
-        "sale": 781,
-        "gender": "여성",
+        "date": "2023-08-27",
+        "like": 848,
+        "sale": 92,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -8494,19 +8494,19 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "라이트베이지",
         "acc": false,
-        "date": "2024-01-02",
-        "like": 184,
-        "sale": 900,
-        "gender": "여성",
+        "date": "2024-11-07",
+        "like": 1152,
+        "sale": 78,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "터들넥 베이스레이어 티셔츠 차콜 MDM1TL603 CHA",
-        "price": "250,000 ",
+        "price": "150,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005842/image/main/register_main_069.jpg",
         "labels": [
             [
@@ -8518,19 +8518,19 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "차콜",
         "acc": false,
-        "date": "2024-06-20",
-        "like": 1148,
-        "sale": 958,
-        "gender": "남성",
+        "date": "2023-12-06",
+        "like": 1285,
+        "sale": 950,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "터들넥 베이스레이어 티셔츠 화이트 MDM1TL603 WHI",
-        "price": "250,000 ",
+        "price": "150,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005841/image/main/register_main_075.jpg",
         "labels": [
             [
@@ -8542,19 +8542,19 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": false,
-        "date": "2023-06-07",
-        "like": 1445,
-        "sale": 186,
-        "gender": "남성",
+        "date": "2022-09-22",
+        "like": 671,
+        "sale": 488,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "터들넥 베이스레이어 티셔츠 블랙 MDW1TL604 BLK",
-        "price": "250,000 ",
+        "price": "150,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005845/image/main/register_main_070.jpg",
         "labels": [
             [
@@ -8566,19 +8566,19 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": false,
-        "date": "2024-07-07",
-        "like": 1522,
-        "sale": 553,
-        "gender": "여성",
+        "date": "2022-02-12",
+        "like": 1527,
+        "sale": 682,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "터들넥 베이스레이어 티셔츠 화이트 MDW1TL604 WHI",
-        "price": "250,000 ",
+        "price": "150,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005843/image/main/register_main_027.jpg",
         "labels": [
             [
@@ -8590,19 +8590,19 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2024-08-19",
-        "like": 1936,
-        "sale": 610,
-        "gender": "여성",
+        "date": "2024-04-14",
+        "like": 490,
+        "sale": 668,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "터들넥 베이스레이어 티셔츠 핑크 MDW1TL604 PNK",
-        "price": "250,000 ",
+        "price": "150,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005844/image/main/register_main_031.jpg",
         "labels": [
             [
@@ -8614,19 +8614,19 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "핑크",
         "acc": false,
-        "date": "2023-01-29",
-        "like": 180,
-        "sale": 373,
-        "gender": "여성",
+        "date": "2022-03-17",
+        "like": 955,
+        "sale": 396,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "솔리드 카라 티셔츠 화이트 MDW1TL603 WHI",
-        "price": "290,000 ",
+        "price": "174,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005846/image/main/register_main_064.jpg",
         "labels": [
             [
@@ -8638,12 +8638,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2023-05-11",
-        "like": 1240,
-        "sale": 882,
-        "gender": "여성",
+        "date": "2023-02-19",
+        "like": 1385,
+        "sale": 732,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -8662,12 +8662,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": false,
-        "date": "2024-06-03",
-        "like": 519,
-        "sale": 882,
-        "gender": "여성",
+        "date": "2022-12-07",
+        "like": 1173,
+        "sale": 738,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -8686,12 +8686,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2023-02-07",
-        "like": 984,
-        "sale": 537,
-        "gender": "여성",
+        "date": "2024-04-13",
+        "like": 1791,
+        "sale": 632,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -8710,12 +8710,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": false,
-        "date": "2023-05-23",
-        "like": 1817,
-        "sale": 32,
-        "gender": "여성",
+        "date": "2022-01-13",
+        "like": 110,
+        "sale": 868,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -8734,12 +8734,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2024-08-01",
-        "like": 972,
-        "sale": 465,
-        "gender": "여성",
+        "date": "2022-07-15",
+        "like": 840,
+        "sale": 83,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -8758,12 +8758,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": false,
-        "date": "2024-09-10",
-        "like": 137,
-        "sale": 851,
-        "gender": "여성",
+        "date": "2024-02-27",
+        "like": 908,
+        "sale": 265,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -8782,12 +8782,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "라이트베이지",
         "acc": false,
-        "date": "2024-01-28",
-        "like": 901,
-        "sale": 509,
-        "gender": "여성",
+        "date": "2024-01-27",
+        "like": 1374,
+        "sale": 945,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -8806,19 +8806,19 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": false,
-        "date": "2024-08-13",
-        "like": 563,
-        "sale": 210,
-        "gender": "여성",
+        "date": "2023-09-16",
+        "like": 848,
+        "sale": 558,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "샤이니 플리츠 스커트 다크그린 MDW1PC610 DGN",
-        "price": "450,000 ",
+        "price": "270,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005839/image/main/register_main_085.jpg",
         "labels": [
             [
@@ -8830,19 +8830,19 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "다크그린",
         "acc": false,
-        "date": "2023-10-14",
-        "like": 873,
-        "sale": 163,
-        "gender": "여성",
+        "date": "2024-06-29",
+        "like": 140,
+        "sale": 636,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "샤이니 플리츠 스커트 핑크 MDW1PC610 PNK",
-        "price": "450,000 ",
+        "price": "270,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005840/image/main/register_main_06.jpg",
         "labels": [
             [
@@ -8854,19 +8854,19 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "핑크",
         "acc": false,
-        "date": "2024-11-11",
-        "like": 1110,
-        "sale": 347,
-        "gender": "여성",
+        "date": "2023-04-02",
+        "like": 549,
+        "sale": 58,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "씨슬 스탠다드 트레이닝 숏팬츠 그린 MDW1PS614 GRN",
-        "price": "370,000 ",
+        "price": "222,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005874/register_main_060.jpg",
         "labels": [
             [
@@ -8878,19 +8878,19 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": false,
-        "date": "2022-08-07",
-        "like": 514,
-        "sale": 149,
-        "gender": "여성",
+        "date": "2024-07-11",
+        "like": 1244,
+        "sale": 496,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "씨슬 스탠다드 트레이닝 숏팬츠 핑크 MDW1PS614 PIK",
-        "price": "370,000 ",
+        "price": "222,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005873/register_main_049.jpg",
         "labels": [
             [
@@ -8902,12 +8902,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "핑크",
         "acc": false,
-        "date": "2024-12-17",
-        "like": 615,
-        "sale": 734,
-        "gender": "여성",
+        "date": "2024-08-13",
+        "like": 591,
+        "sale": 750,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -8926,19 +8926,19 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": false,
-        "date": "2024-12-28",
-        "like": 1346,
-        "sale": 865,
-        "gender": "남성",
+        "date": "2023-07-04",
+        "like": 1534,
+        "sale": 646,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "트레이닝 팬츠 라이트그레이 MDM1PT661 LGY",
-        "price": "390,000 ",
+        "price": "234,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005900/register_main_074.jpg",
         "labels": [
             [
@@ -8950,19 +8950,19 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "라이트그레이",
         "acc": false,
-        "date": "2022-01-09",
-        "like": 394,
-        "sale": 199,
-        "gender": "남성",
+        "date": "2024-04-16",
+        "like": 354,
+        "sale": 799,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "트레이닝 팬츠 그린 MDM1PT661 GRN",
-        "price": "390,000 ",
+        "price": "234,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005899/register_main_011.jpg",
         "labels": [
             [
@@ -8974,19 +8974,19 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "그린",
         "acc": false,
-        "date": "2024-02-10",
-        "like": 1791,
-        "sale": 200,
-        "gender": "남성",
+        "date": "2022-02-26",
+        "like": 205,
+        "sale": 820,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "코튼라이크 스탠다드핏 팬츠 베이지 MDM1PT602 BEG",
-        "price": "390,000 ",
+        "price": "234,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005894/register_main_022.jpg",
         "labels": [
             [
@@ -8998,19 +8998,19 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "베이지",
         "acc": false,
-        "date": "2022-09-02",
-        "like": 912,
-        "sale": 777,
-        "gender": "남성",
+        "date": "2022-09-05",
+        "like": 1666,
+        "sale": 367,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "코튼라이크 스탠다드핏 팬츠 네이비 MDM1PT602 NVY",
-        "price": "390,000 ",
+        "price": "234,000",
         "image": "https://mckayson.cdn-nhncommerce.com/data/goods/24/03/11/1000005893/register_main_088.jpg",
         "labels": [
             [
@@ -9022,12 +9022,12 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "네이비",
         "acc": false,
-        "date": "2024-10-01",
-        "like": 1811,
-        "sale": 667,
-        "gender": "남성",
+        "date": "2022-06-27",
+        "like": 1777,
+        "sale": 887,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9046,12 +9046,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "라이트베이지",
         "acc": true,
-        "date": "2022-11-26",
-        "like": 447,
-        "sale": 262,
-        "gender": "여성",
+        "date": "2024-02-29",
+        "like": 1867,
+        "sale": 973,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9070,19 +9070,19 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": true,
-        "date": "2023-11-10",
-        "like": 1066,
-        "sale": 276,
-        "gender": "여성",
+        "date": "2022-05-11",
+        "like": 1498,
+        "sale": 779,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "클래식 스탠다드 팬츠 화이트 MDW1PT602 OWH",
-        "price": "390,000 ",
+        "price": "234,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005848/image/main/register_main_016.jpg",
         "labels": [
             [
@@ -9094,19 +9094,19 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2022-04-07",
-        "like": 205,
-        "sale": 544,
-        "gender": "여성",
+        "date": "2024-09-09",
+        "like": 939,
+        "sale": 80,
         "size": ["FRE"],
         "season": ["ALW"]
     },
     {
         "category": "NEW",
         "name": "클래식 스탠다드 팬츠 베이지 MDW1PT602 BEG",
-        "price": "390,000 ",
+        "price": "234,000",
         "image": "https://godomall.speedycdn.net/e67c9795e05e8d4962cd2e383213d5eb/goods/1000005849/image/main/register_main_079.jpg",
         "labels": [
             [
@@ -9118,12 +9118,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": false,
-        "date": "2022-08-29",
-        "like": 1692,
-        "sale": 687,
-        "gender": "여성",
+        "date": "2023-07-23",
+        "like": 1168,
+        "sale": 893,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9142,12 +9142,12 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "다크그레이",
         "acc": false,
-        "date": "2022-06-15",
-        "like": 311,
+        "date": "2023-05-04",
+        "like": 1014,
         "sale": 361,
-        "gender": "남성",
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9166,12 +9166,12 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "라이트베이지",
         "acc": false,
-        "date": "2024-06-20",
-        "like": 1358,
-        "sale": 674,
-        "gender": "남성",
+        "date": "2023-01-14",
+        "like": 663,
+        "sale": 722,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9190,12 +9190,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": false,
-        "date": "2023-07-09",
-        "like": 352,
-        "sale": 391,
-        "gender": "여성",
+        "date": "2024-04-17",
+        "like": 1909,
+        "sale": 650,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9214,12 +9214,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": false,
-        "date": "2022-09-05",
-        "like": 462,
-        "sale": 268,
-        "gender": "여성",
+        "date": "2022-05-26",
+        "like": 546,
+        "sale": 46,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9242,12 +9242,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "블루",
         "acc": true,
-        "date": "2024-08-18",
-        "like": 280,
-        "sale": 53,
-        "gender": "여성",
+        "date": "2024-04-14",
+        "like": 1485,
+        "sale": 885,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9270,12 +9270,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "그린",
         "acc": true,
-        "date": "2024-07-01",
-        "like": 1186,
-        "sale": 550,
-        "gender": "여성",
+        "date": "2024-05-18",
+        "like": 1475,
+        "sale": 753,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9298,12 +9298,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "코랄",
         "acc": true,
-        "date": "2022-02-08",
-        "like": 1175,
-        "sale": 334,
-        "gender": "여성",
+        "date": "2023-01-07",
+        "like": 713,
+        "sale": 406,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9326,12 +9326,12 @@
                 "신상품"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": true,
-        "date": "2024-05-31",
-        "like": 1248,
-        "sale": 412,
-        "gender": "여성",
+        "date": "2023-12-30",
+        "like": 1975,
+        "sale": 340,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9354,12 +9354,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": true,
-        "date": "2023-07-26",
-        "like": 883,
-        "sale": 186,
-        "gender": "남성",
+        "date": "2024-11-28",
+        "like": 251,
+        "sale": 823,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9382,12 +9382,12 @@
                 "신상품"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
-        "date": "2022-02-23",
-        "like": 355,
-        "sale": 429,
-        "gender": "남성",
+        "date": "2024-07-26",
+        "like": 1761,
+        "sale": 973,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9406,12 +9406,12 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": true,
-        "date": "2023-08-25",
-        "like": 122,
-        "sale": 902,
-        "gender": "남성",
+        "date": "2023-03-08",
+        "like": 222,
+        "sale": 105,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9430,12 +9430,12 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "그레이",
         "acc": true,
-        "date": "2022-12-01",
-        "like": 1588,
-        "sale": 892,
-        "gender": "남성",
+        "date": "2022-10-08",
+        "like": 1489,
+        "sale": 276,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9454,12 +9454,12 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
-        "date": "2024-01-17",
-        "like": 325,
-        "sale": 196,
-        "gender": "남성",
+        "date": "2023-11-12",
+        "like": 1574,
+        "sale": 201,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9478,12 +9478,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": true,
-        "date": "2022-08-10",
-        "like": 1281,
-        "sale": 586,
-        "gender": "여성",
+        "date": "2022-04-29",
+        "like": 526,
+        "sale": 145,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9502,12 +9502,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
-        "date": "2024-12-24",
-        "like": 103,
-        "sale": 600,
-        "gender": "여성",
+        "date": "2023-01-13",
+        "like": 1863,
+        "sale": 630,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9526,12 +9526,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": true,
-        "date": "2024-03-20",
-        "like": 1856,
-        "sale": 987,
-        "gender": "여성",
+        "date": "2023-03-15",
+        "like": 1490,
+        "sale": 787,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9550,12 +9550,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "네이비",
         "acc": true,
-        "date": "2023-05-30",
-        "like": 1453,
-        "sale": 261,
-        "gender": "여성",
+        "date": "2022-02-20",
+        "like": 1051,
+        "sale": 163,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9574,12 +9574,12 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "베이지",
         "acc": true,
-        "date": "2023-12-15",
-        "like": 1886,
-        "sale": 842,
-        "gender": "남성",
+        "date": "2022-07-13",
+        "like": 823,
+        "sale": 159,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9598,12 +9598,12 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "네이비",
         "acc": true,
-        "date": "2022-10-25",
-        "like": 757,
-        "sale": 249,
-        "gender": "남성",
+        "date": "2022-07-26",
+        "like": 277,
+        "sale": 166,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9622,12 +9622,12 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "네이비",
         "acc": true,
-        "date": "2023-07-07",
-        "like": 1079,
-        "sale": 498,
-        "gender": "남성",
+        "date": "2023-09-06",
+        "like": 242,
+        "sale": 863,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9646,12 +9646,12 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "브라운",
         "acc": true,
-        "date": "2023-12-01",
-        "like": 1432,
-        "sale": 117,
-        "gender": "남성",
+        "date": "2023-07-22",
+        "like": 196,
+        "sale": 711,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9670,12 +9670,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": true,
-        "date": "2023-05-20",
-        "like": 113,
-        "sale": 845,
-        "gender": "여성",
+        "date": "2023-08-07",
+        "like": 1478,
+        "sale": 426,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9694,12 +9694,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "라이트블루",
         "acc": true,
-        "date": "2023-05-19",
-        "like": 408,
-        "sale": 979,
-        "gender": "여성",
+        "date": "2024-07-18",
+        "like": 1903,
+        "sale": 466,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9718,12 +9718,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "라이트블루",
         "acc": true,
-        "date": "2022-07-17",
-        "like": 441,
-        "sale": 843,
-        "gender": "여성",
+        "date": "2022-08-10",
+        "like": 243,
+        "sale": 311,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9742,12 +9742,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "베이지",
         "acc": true,
-        "date": "2024-01-04",
-        "like": 1560,
-        "sale": 281,
-        "gender": "여성",
+        "date": "2022-06-05",
+        "like": 229,
+        "sale": 365,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9766,12 +9766,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "브라운",
         "acc": true,
-        "date": "2023-10-19",
-        "like": 664,
-        "sale": 712,
-        "gender": "여성",
+        "date": "2022-02-11",
+        "like": 317,
+        "sale": 257,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9790,12 +9790,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "블랙",
         "acc": true,
-        "date": "2024-01-19",
-        "like": 448,
-        "sale": 750,
-        "gender": "여성",
+        "date": "2023-05-27",
+        "like": 1924,
+        "sale": 826,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9814,12 +9814,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "핑크",
         "acc": true,
-        "date": "2022-06-24",
-        "like": 1215,
-        "sale": 164,
-        "gender": "여성",
+        "date": "2022-09-30",
+        "like": 271,
+        "sale": 812,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9838,12 +9838,12 @@
                 "여성"
             ]
         ],
+        "gender": "여성",
         "color": "화이트",
         "acc": true,
-        "date": "2022-07-10",
-        "like": 1071,
-        "sale": 18,
-        "gender": "여성",
+        "date": "2024-10-24",
+        "like": 381,
+        "sale": 858,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9862,12 +9862,12 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "화이트",
         "acc": true,
-        "date": "2023-05-12",
-        "like": 1838,
-        "sale": 445,
-        "gender": "남성",
+        "date": "2023-08-28",
+        "like": 412,
+        "sale": 322,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9886,12 +9886,12 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "블랙",
         "acc": true,
-        "date": "2024-06-06",
-        "like": 1046,
-        "sale": 354,
-        "gender": "남성",
+        "date": "2022-02-27",
+        "like": 96,
+        "sale": 33,
         "size": ["FRE"],
         "season": ["ALW"]
     },
@@ -9910,12 +9910,12 @@
                 "남성"
             ]
         ],
+        "gender": "남성",
         "color": "베이지",
         "acc": true,
-        "date": "2022-08-19",
-        "like": 302,
-        "sale": 126,
-        "gender": "남성",
+        "date": "2022-01-08",
+        "like": 1241,
+        "sale": 559,
         "size": ["FRE"],
         "season": ["ALW"]
     }

@@ -71,6 +71,20 @@ async function run() {
                 }))
         );
 
+        // todo: insert value for "filtering", 성별, 컬러, 사이즈, 계절, 가격
+        // * 성별
+        for (const item of products) {
+            const genderLabel = item.labels.find((label) =>
+                ["여성", "남성", "공용"].includes(label[1])
+            );
+
+            if (genderLabel) {
+                item.gender = genderLabel[1]; // Assigns "여성", "남성", or "공용"
+            } else {
+                item.gender = "공용"; // Default value if no gender-specific label is found
+            }
+        }
+
         // * 추가 컬러 구분 (상품명에 색상이 들어가야해서 *컬러 코드 아래에 배치)
         // ! 페이지가 [0] 경우 1페이지를 말함
         const imageSrcList = products.map((product) => product.image);
@@ -276,11 +290,7 @@ async function run() {
         // todo: subCategory 생성, category에 정확한 값 넣기
         for (const item of products) {
             const name = item.name.toLowerCase();
-            // if (name.includes("티셔츠")) {
-            //     item.subCategory = "티셔츠";
-            // } else if (name.includes("팬츠")) {
-            //     item.subCategory = "팬츠";
-            // }
+
             switch (true) {
                 case name.includes("티셔츠"):
                 case name.includes("블라우스"):
@@ -291,17 +301,14 @@ async function run() {
                     item.subCategory = "상의";
                     item.thirdCategory = "티셔츠";
                     break;
-                case name.includes("팬츠"):
-                case name.includes("하의"):
-                case name.includes("청바지"):
-                case name.includes("조거팬츠"):
-                case name.includes("조거 팬츠"):
-                    item.subCategory = "하의";
-                    item.thirdCategory = "팬츠";
-                    break;
                 case name.includes("스웨터"):
                     item.subCategory = "상의";
                     item.thirdCategory = "스웨터";
+                    break;
+                case name.includes("원피스"):
+                case name.includes("점프슈트"):
+                    item.subCategory = "상의";
+                    item.thirdCategory = "원피스";
                     break;
                 case name.includes("숏팬츠"):
                 case name.includes("숏 팬츠"):
@@ -316,10 +323,13 @@ async function run() {
                     item.subCategory = "하의";
                     item.thirdCategory = "스커트";
                     break;
-                case name.includes("원피스"):
-                case name.includes("점프슈트"):
-                    item.subCategory = "상의";
-                    item.thirdCategory = "원피스";
+                case name.includes("팬츠"):
+                case name.includes("하의"):
+                case name.includes("청바지"):
+                case name.includes("조거팬츠"):
+                case name.includes("조거 팬츠"):
+                    item.subCategory = "하의";
+                    item.thirdCategory = "팬츠";
                     break;
                 case name.includes("자켓"):
                 case name.includes("점퍼"):
@@ -348,20 +358,6 @@ async function run() {
         // * 추가 sale (sellcnt)
         for (const item of products) {
             item.sale = generateRandomSaleCount(minSales, maxSales);
-        }
-
-        // todo: insert value for "filtering", 성별, 컬러, 사이즈, 계절, 가격
-        // * 성별
-        for (const item of products) {
-            const genderLabel = item.labels.find((label) =>
-                ["여성", "남성", "공용"].includes(label[1])
-            );
-
-            if (genderLabel) {
-                item.gender = genderLabel[1]; // Assigns "여성", "남성", or "공용"
-            } else {
-                item.gender = "공용"; // Default value if no gender-specific label is found
-            }
         }
 
         // * 사이즈 , 계절
